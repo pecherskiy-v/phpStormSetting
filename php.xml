@@ -8,6 +8,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="ed833ee9-a7b8-433c-a2aa-dc931c80fdb1" name="PHP 7.3" home="C:\php-7.3.3\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="2ae74c02-f831-43b3-88bb-f634bbac5a8b" name="PHP in wls" home="c:\windows\system32\wsl.exe php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
