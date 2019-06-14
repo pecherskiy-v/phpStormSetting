@@ -8,13 +8,54 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="ed833ee9-a7b8-433c-a2aa-dc931c80fdb1" name="PHP 7.3" home="C:\php-7.3.3\php.exe" debugger_id="php.debugger.XDebug" />
-      <interpreter id="2ae74c02-f831-43b3-88bb-f634bbac5a8b" name="PHP in wls" home="c:\windows\system32\wsl.exe php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="ed833ee9-a7b8-433c-a2aa-dc931c80fdb1" name="PHP 7.3.3" home="C:\php-7.3.3\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="fd56f9f2-e74a-410c-b98a-352007c2194d" name="PHP 7.3.6" home="C:\php-7.3.6\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="7f1aef75-1de9-45e4-b73e-a71ba9f3383a" name="PHP 7.2.19" home="C:\php-7.2.19\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.3">
+      <interpreter name="PHP 7.2.19">
+        <phpinfo binary_type="PHP" php_cgi="C:\php-7.2.19\php-cgi.exe" php_cli="C:\php-7.2.19\php.exe" path_separator=";" version="7.2.19">
+          <additional_php_ini />
+          <configuration_file />
+          <configuration_options>
+            <configuration_option name="include_path" value=".;C:\php\pear" />
+          </configuration_options>
+          <debuggers />
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="bcmath" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="filter" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="json" />
+            <extension name="libxml" />
+            <extension name="mysqlnd" />
+            <extension name="pcre" />
+            <extension name="readline" />
+            <extension name="session" />
+            <extension name="standard" />
+            <extension name="tokenizer" />
+            <extension name="wddx" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+      <interpreter name="PHP 7.3.3">
         <phpinfo binary_type="PHP" php_cgi="C:\php-7.3.3\php-cgi.exe" php_cli="C:\php-7.3.3\php.exe" path_separator=";" version="7.3.3">
           <additional_php_ini />
           <configuration_file>C:\php-7.3.3\php.ini</configuration_file>
@@ -62,6 +103,46 @@
             <extension name="tokenizer" />
             <extension name="wddx" />
             <extension name="xdebug" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+      <interpreter name="PHP 7.3.6">
+        <phpinfo binary_type="PHP" php_cgi="C:\php-7.3.6\php-cgi.exe" php_cli="C:\php-7.3.6\php.exe" path_separator=";" version="7.3.6">
+          <additional_php_ini />
+          <configuration_file />
+          <configuration_options>
+            <configuration_option name="include_path" value=".;C:\php\pear" />
+          </configuration_options>
+          <debuggers />
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="bcmath" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="filter" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="json" />
+            <extension name="libxml" />
+            <extension name="mysqlnd" />
+            <extension name="pcre" />
+            <extension name="readline" />
+            <extension name="session" />
+            <extension name="standard" />
+            <extension name="tokenizer" />
+            <extension name="wddx" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
