@@ -115,53 +115,5 @@
       <artifact name="Snowflake" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="java.sql.Driver" name="User Driver" driver-class="java.sql.Driver">
-      <option name="auto-commit" value="true" />
-      <option name="auto-sync" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
-    </driver>
-    <driver id="7c06550b-4b20-422d-9234-fe888c37f4a0" name="User Driver [2]" driver-class="java.sql.Driver">
-      <option name="auto-commit" value="true" />
-      <option name="auto-sync" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
-    </driver>
-    <driver id="71799aba-9a3a-4bb2-9b18-05d450f1fd1f" name="User Driver [3]" driver-class="java.sql.Driver">
-      <option name="auto-commit" value="true" />
-      <option name="auto-sync" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
-    </driver>
-    <driver id="80114a17-7a59-41d7-8cf4-259ee713246b" name="User Driver [4]" driver-class="java.sql.Driver">
-      <option name="auto-commit" value="true" />
-      <option name="auto-sync" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
-    </driver>
-    <driver id="172de06a-4e5d-4c3e-b6d8-f7b8a3109b52" name="User Driver [5]" driver-class="java.sql.Driver">
-      <option name="auto-commit" value="true" />
-      <option name="auto-sync" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
-    </driver>
-    <driver id="9794a48b-6e74-435e-a101-2527b272261e" name="User Driver [6]" driver-class="java.sql.Driver">
-      <option name="auto-commit" value="true" />
-      <option name="auto-sync" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
-    </driver>
   </component>
 </application>
