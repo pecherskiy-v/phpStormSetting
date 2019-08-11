@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/tourshop/zdravproduct-crm.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="valeron_p" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\repo\tourshop" />
