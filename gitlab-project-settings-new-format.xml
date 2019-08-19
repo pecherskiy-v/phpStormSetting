@@ -1,0 +1,60 @@
+<application>
+  <component name="SettingsState">
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/toyota-bank/credit-request-backend.git" />
+          <option name="name" value="credit-request-backend" />
+          <option name="namespace" value="toyota-bank" />
+          <option name="sshUrl" value="git@gitlab.com:toyota-bank/credit-request-backend.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/toyota-bank/credit-request-frontend.git" />
+          <option name="name" value="credit-request-frontend" />
+          <option name="namespace" value="toyota-bank" />
+          <option name="sshUrl" value="git@gitlab.com:toyota-bank/credit-request-frontend.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/toyota-bank/credit-request-interface.git" />
+          <option name="name" value="credit-request-interface" />
+          <option name="namespace" value="toyota-bank" />
+          <option name="sshUrl" value="git@gitlab.com:toyota-bank/credit-request-interface.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/toyota-bank/directory.git" />
+          <option name="name" value="directory" />
+          <option name="namespace" value="toyota-bank" />
+          <option name="sshUrl" value="git@gitlab.com:toyota-bank/directory.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/toyota-bank/octopus.git" />
+          <option name="name" value="octopus" />
+          <option name="namespace" value="toyota-bank" />
+          <option name="sshUrl" value="git@gitlab.com:toyota-bank/octopus.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/toyota-bank/recognition.git" />
+          <option name="name" value="recognition" />
+          <option name="namespace" value="toyota-bank" />
+          <option name="sshUrl" value="git@gitlab.com:toyota-bank/recognition.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/toyota-bank/recognition-interface.git" />
+          <option name="name" value="recognition-interface" />
+          <option name="namespace" value="toyota-bank" />
+          <option name="sshUrl" value="git@gitlab.com:toyota-bank/recognition-interface.git" />
+        </ProjectDto>
+      </list>
+    </option>
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="WSumBwhdEEovtee8wPB2" />
+          <option name="apiUrl" value="https://gitlab.com/" />
+          <option name="removeSourceBranch" value="false" />
+          <option name="repositoryUrl" value="gitlab.com" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
