@@ -22,9 +22,13 @@
       <option name="send-app-info" value="false" />
     </driver>
     <driver id="sqlserver.ms">
-      <artifact name="SQL Server" use="true" />
+      <artifact name="SQL Server" use="true" version="7.2.1" />
       <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="sqlserver.jtds">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
@@ -124,6 +128,14 @@
       <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="8c61c989-cc40-496a-bf8e-4e153f5fc630" name="User Driver [2]" driver-class="java.sql.Driver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
+    </driver>
+    <driver id="dd1171c7-15b1-4463-b449-9593267608cf" name="User Driver [3]" driver-class="java.sql.Driver">
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
       <option name="format-sources-on-sync" value="true" />
