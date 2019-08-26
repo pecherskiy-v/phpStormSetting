@@ -4,7 +4,7 @@
     <property name="created">2019-04-21T19:49:22</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-08-26T22:49:22</property>
+    <property name="modified">2019-08-27T01:11:46</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -238,7 +238,7 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="8e8e8e" />
+        <option name="FOREGROUND" value="730000" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
