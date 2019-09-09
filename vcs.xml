@@ -38,6 +38,10 @@
           <option name="url" value="git@gitlab.com:toyota-bank/admin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:toyota-bank/butler-interface.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\repo" />
