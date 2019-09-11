@@ -4,6 +4,7 @@
       <mapping pattern="fg" type="PLAIN_TEXT" />
       <mapping pattern=".env-local" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="pre-commit" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
