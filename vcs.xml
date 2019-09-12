@@ -50,9 +50,13 @@
           <option name="url" value="git@bitbucket.org:studyqa/gsa_gus.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:selfteam/components/butler.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\repo" />
+    <option name="cloneParentDir" value="C:\repo\self" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
