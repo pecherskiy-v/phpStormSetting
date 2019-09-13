@@ -6,6 +6,7 @@
         <entry key="5d6e7f098d5c810e4ee33d24" value="bugfix/5d6e7f098d5c810e4ee33d24" />
         <entry key="5d7973ae3d7f74279cac0b12" value="hotfix/5d7973ae3d7f74279cac0b12" />
         <entry key="TB-1237" value="feature/TB-1237" />
+        <entry key="TB-1577" value="mssql-feature/TB-1577" />
       </map>
     </option>
   </component>
