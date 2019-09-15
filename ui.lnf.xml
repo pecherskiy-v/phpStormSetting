@@ -1,6 +1,0 @@
-<application>
-  <component name="UISettings">
-    <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
-    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-  </component>
-</application>
