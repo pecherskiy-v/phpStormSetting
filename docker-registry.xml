@@ -5,5 +5,10 @@
       <option name="name" value="Docker Registry" />
       <option name="username" value="pecherskiy" />
     </DockerRegistry>
+    <DockerRegistry email="pecherskiy.v@gmail.com">
+      <option name="address" value="registry.gitlab.com" />
+      <option name="name" value="Self Registry" />
+      <option name="username" value="pecherskiy-v" />
+    </DockerRegistry>
   </component>
 </application>
