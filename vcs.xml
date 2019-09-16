@@ -70,9 +70,13 @@
           <option name="url" value="git@gitlab.com:selfteam/interfaces/butler-interface.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:pecherskiy-v/toyota-local-dev-env.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\repo\selfteam" />
+    <option name="cloneParentDir" value="C:\repo\toyota-bank" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
