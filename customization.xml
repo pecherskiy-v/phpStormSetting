@@ -10,16 +10,7 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="tasks.close" is_action="true" action_type="1" position="11">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="tasks.show.task.description" is_action="true" action_type="1" position="12">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <action id="tasks.close" icon="$APPLICATION_HOME_DIR$/bin/phpstorm.svg" />
+    <action id="tasks.close" icon="$USER_HOME$/OneDrive/Изображения/svg_icons/complete.svg" />
+    <action id="tasks.show.task.description" icon="$USER_HOME$/OneDrive/Изображения/svg_icons/brain.svg" />
   </component>
 </application>
