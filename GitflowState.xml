@@ -36,6 +36,7 @@
         <entry key="TB-1802" value="feature/TB-1802" />
         <entry key="TB-1808" value="bugfix/TB-1808" />
         <entry key="TB-1815" value="hotfix/2.3.2" />
+        <entry key="TB-1817" value="bugfix/TB-1817" />
       </map>
     </option>
   </component>
