@@ -5,6 +5,7 @@
         <entry key="5d6e7de5b9f05883d5e126af" value="bugfix/5d6e7de5b9f05883d5e126af" />
         <entry key="5d6e7f098d5c810e4ee33d24" value="bugfix/5d6e7f098d5c810e4ee33d24" />
         <entry key="5d7973ae3d7f74279cac0b12" value="hotfix/5d7973ae3d7f74279cac0b12" />
+        <entry key="LOCAL-00043" value="bugfix/1930" />
         <entry key="TB-1237" value="feature/TB-1237" />
         <entry key="TB-1434" value="feature/TB-1434" />
         <entry key="TB-1445" value="feature/TB-1445" />
@@ -64,15 +65,19 @@
         <entry key="TB-1894" value="bugfix/TB-1894" />
         <entry key="TB-1895" value="bugfix/TB-1895" />
         <entry key="TB-1896" value="bugfix/TB-1896" />
+        <entry key="TB-1903" value="bugfix/TB-1903" />
         <entry key="TB-1907" value="bugfix/TB-1907" />
+        <entry key="TB-1909" value="bugfix/TB-1909" />
         <entry key="TB-1918" value="bugfix/TB-1918" />
         <entry key="TB-1927" value="feature/TB-1927" />
         <entry key="TB-1928" value="feature/TB-1928" />
         <entry key="TB-1929" value="feature/TB-1929" />
         <entry key="TB-1931" value="feature/TB-1931" />
+        <entry key="TB-1932" value="bugfix/TB-1932" />
         <entry key="TB-1933" value="bugfix/TB-1933" />
         <entry key="TB-1934" value="bugfix/TB-1934" />
         <entry key="TB-1935" value="bugfix/TB-1935" />
+        <entry key="TB-1948" value="bugfix/TB-1948" />
       </map>
     </option>
   </component>
