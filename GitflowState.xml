@@ -93,6 +93,7 @@
         <entry key="TB-2014" value="bugfix/TB-2014" />
         <entry key="TB-2016" value="bugfix/TB-2016" />
         <entry key="TB-2034" value="bugfix/TB-2034" />
+        <entry key="TB-2053" value="feature/TB-2053" />
       </map>
     </option>
   </component>
