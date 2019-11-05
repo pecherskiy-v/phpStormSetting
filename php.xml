@@ -8,15 +8,15 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="7f1aef75-1de9-45e4-b73e-a71ba9f3383a" name="PHP 7.2.19" home="C:\php-7.2.19\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="7f1aef75-1de9-45e4-b73e-a71ba9f3383a" name="PHP 7.2.22" home="C:\php-7.2.22-Win32-VC15-x64\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.2.19">
-        <phpinfo binary_type="PHP" php_cgi="C:\php-7.2.19\php-cgi.exe" php_cli="C:\php-7.2.19\php.exe" path_separator=";" version="7.2.19">
+      <interpreter name="PHP 7.2.22">
+        <phpinfo binary_type="PHP" php_cgi="C:\php-7.2.22-Win32-VC15-x64\php-cgi.exe" php_cli="C:\php-7.2.22-Win32-VC15-x64\php.exe" path_separator=";" version="7.2.22">
           <additional_php_ini />
-          <configuration_file>C:\php-7.2.19\php.ini</configuration_file>
+          <configuration_file>C:\php-7.2.22-Win32-VC15-x64\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".;C:\php\pear" />
           </configuration_options>
@@ -38,7 +38,6 @@
             <extension name="curl" />
             <extension name="date" />
             <extension name="dom" />
-            <extension name="exif" />
             <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="gd" />
