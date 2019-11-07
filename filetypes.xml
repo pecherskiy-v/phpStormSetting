@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="env-stage" type="PLAIN_TEXT" />
       <mapping pattern="fg" type="PLAIN_TEXT" />
       <mapping pattern=".env-local" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
