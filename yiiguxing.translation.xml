@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&quot;extendedMessage&quot;: &quot;A colon cannot be used in an unquoted mapping value at line 31 (near \&quot; data: credit_data\/block_3_part_1_edit.yaml\&quot;).&quot;," />
       <item value="Expected 1 space before opening brace; found 0" />
       <item value="Error : Call to a member function getRepository() on null" />
       <item value="Result of" />
@@ -11,7 +12,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="116" />
+        <entry key="ENGLISH" value="117" />
         <entry key="RUSSIAN" value="131" />
         <entry key="ROMANIAN" value="4" />
         <entry key="UKRAINIAN" value="2" />
