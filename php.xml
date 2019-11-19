@@ -59,6 +59,7 @@
             <extension name="pdo_sqlsrv" />
             <extension name="readline" />
             <extension name="session" />
+            <extension name="soap" />
             <extension name="sqlsrv" />
             <extension name="standard" />
             <extension name="tokenizer" />
