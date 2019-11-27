@@ -122,6 +122,7 @@
         <entry key="TB-2214" value="arm/feature/TB-2214" />
         <entry key="TB-2219" value="bugfix/TB-2219" />
         <entry key="TB-2234" value="arm/feature/TB-2234" />
+        <entry key="TB-2239" value="arm/bugfix/TB-2239" />
         <entry key="TB-2240" value="arm/bugfix/TB-2240" />
         <entry key="TB-2247" value="bugfix/TB-2247" />
       </map>
