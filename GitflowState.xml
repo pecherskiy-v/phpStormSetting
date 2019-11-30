@@ -131,6 +131,7 @@
         <entry key="TB-2253" value="arm/bugfix/TB-2253" />
         <entry key="TB-2256" value="arm/bugfix/TB-2256" />
         <entry key="TB-2260" value="arm/feature/TB-2260" />
+        <entry key="TB-2268" value="arm/bugfix/TB-2268" />
       </map>
     </option>
   </component>
