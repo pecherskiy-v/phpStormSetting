@@ -8,7 +8,6 @@
     <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="tabFontSizeEnabled" value="true" />
     <option name="upperCaseTabs" value="true" />
@@ -17,6 +16,6 @@
     <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-207e88f3:16a3259930c:-8000" />
-    <option name="version" value="4.9.2.1" />
+    <option name="version" value="4.10.0" />
   </component>
 </application>
