@@ -1,0 +1,60 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="CSS" injector-id="js">
+      <display-name>CSS colors</display-name>
+      <prefix>div { color:</prefix>
+      <suffix>;}</suffix>
+      <place disabled="true"><![CDATA[jsLiteralExpression().withText(string().matchesBrics("[\"'`](((hsla?|rgba?|hwb)\\(([0-9.,%\t]| )*\\))|(\\#(([0-9]|A|B|C|D|E|F){3}|([0-9]|A|B|C|D|E|F){6}|([0-9]|A|B|C|D|E|F){8})))[\"'`]"))]]></place>
+    </injection>
+    <injection language="HTML" injector-id="js">
+      <display-name>HTML in JS strings</display-name>
+      <place disabled="true"><![CDATA[isHtmlLikeText()]]></place>
+    </injection>
+    <injection language="SQLite" injector-id="js">
+      <display-name>HTML5 SQL Database (SQLite)</display-name>
+      <place disabled="true"><![CDATA[jsLiteralExpression().and(jsArgument("executeSql", 0))]]></place>
+    </injection>
+    <injection language="JQuery-CSS" injector-id="js">
+      <display-name>JQuery selectors</display-name>
+      <suffix>{}</suffix>
+      <place disabled="true"><![CDATA[jqueryArgument()]]></place>
+    </injection>
+    <injection language="JavaScript" injector-id="js">
+      <display-name>JavaScript in 'setInterval'</display-name>
+      <place disabled="true"><![CDATA[jsArgument(jsReferenceExpression().withQualifiedName("setInterval"), 0)]]></place>
+      <place disabled="true"><![CDATA[jsArgument(jsReferenceExpression().withQualifiedName("window.setInterval"), 0)]]></place>
+    </injection>
+    <injection language="JavaScript" injector-id="js">
+      <display-name>JavaScript in 'setTimeout'</display-name>
+      <place disabled="true"><![CDATA[jsArgument(jsReferenceExpression().withQualifiedName("setTimeout"), 0)]]></place>
+      <place disabled="true"><![CDATA[jsArgument(jsReferenceExpression().withQualifiedName("window.setTimeout"), 0)]]></place>
+    </injection>
+    <injection language="JSRegexp" injector-id="js">
+      <display-name>Regexp constructor</display-name>
+      <place disabled="true"><![CDATA[jsArgument("RegExp", 0)]]></place>
+    </injection>
+    <injection language="JSUnicodeRegexp" injector-id="js">
+      <display-name>Regexp constructor with Unicode flag</display-name>
+      <place disabled="true"><![CDATA[jsArgument("RegExp", 0).withSuperParent(2, jsCallExpression().withArgument(jsLiteralExpression().withText(hasUnicodeRegexpFlag()), 1))]]></place>
+    </injection>
+    <injection language="SQL" injector-id="js">
+      <display-name>SQL select/delete/insert/update/create</display-name>
+      <place disabled="true"><![CDATA[jsLiteralExpression().withText(string().matchesBrics("[\"'`] *(((SELECT|DELETE) .*FROM)|((INSERT|REPLACE) .*INTO)|(UPDATE .* SET)|((CREATE|DROP|ALTER) +((TEMPORARY )?TABLE|(UNIQUE )?INDEX))) .*[\"'`]?"))]]></place>
+    </injection>
+    <injection language="SQL" injector-id="js">
+      <display-name>SQL tagged string</display-name>
+      <place disabled="true"><![CDATA[taggedString("sql")]]></place>
+      <templateTag>sql</templateTag>
+    </injection>
+    <injection language="TSQL" injector-id="js">
+      <display-name>Transact-SQL declare</display-name>
+      <place disabled="true"><![CDATA[jsLiteralExpression().withText(string().matchesBrics("[\"'`] *DECLARE +\\@.*[\"'`]?"))]]></place>
+    </injection>
+    <injection language="SQLite" injector-id="js">
+      <display-name>flash.data (SQLite)</display-name>
+      <place disabled="true"><![CDATA[jsLiteralExpression().and(asAssignedValue("text", "*", "dbStatement"))]]></place>
+      <place disabled="true"><![CDATA[jsLiteralExpression().and(asAssignedValue("text", "*", "statement", "st").withText(string().matchesBrics("[\"'`] *(((SELECT|DELETE) .*FROM)|((INSERT|REPLACE) .*INTO)|(UPDATE .*SET)|((CREATE|DROP|ALTER) +(TABLE|INDEX))) .*[\"'`]?")))]]></place>
+      <place disabled="true"><![CDATA[jsLiteralExpression().and(asAssignedValue("text", "flash.data.SQLStatement"))]]></place>
+    </injection>
+  </component>
+</application>
