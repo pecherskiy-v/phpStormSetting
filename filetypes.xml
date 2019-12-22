@@ -12,6 +12,7 @@
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping ext="rul" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="msg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
