@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Error : Cannot use object of type stdClass as array" />
       <item value="Object of class Pecherskiy\DocDoc\Client could not be converted to string" />
       <item value="Pecherskiy\DocDoc\Exceptions\RequiredFieldIsNotSet : The field city is required" />
       <item value="get_class_vars() expects parameter 1 to be string, object given" />
@@ -15,7 +16,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="198" />
+        <entry key="ENGLISH" value="199" />
         <entry key="RUSSIAN" value="209" />
         <entry key="ROMANIAN" value="4" />
         <entry key="UKRAINIAN" value="2" />
