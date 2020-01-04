@@ -289,6 +289,7 @@
   <inspection_tool class="PhpMultipleClassesDeclarationsInOneFile" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpNewClassMissingParameterListInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpPropertyNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="m_minLength" value="2" />
     <option name="m_maxLength" value="40" />
   </inspection_tool>
   <inspection_tool class="PhpSeparateElseIfInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
