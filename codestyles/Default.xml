@@ -26,7 +26,7 @@
     <option name="IF_RPAREN_ON_NEXT_LINE" value="true" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="PHP">
-    <option name="RIGHT_MARGIN" value="80" />
+    <option name="RIGHT_MARGIN" value="200" />
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
