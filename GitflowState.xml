@@ -154,6 +154,7 @@
         <entry key="TB-2513" value="arm/bugfix/TB-2513" />
         <entry key="TB-2528" value="bugfix/TB-2528" />
         <entry key="TB-2529" value="arm/bugfix/TB-2529" />
+        <entry key="TB-2531" value="bugfix/TB-2531" />
       </map>
     </option>
   </component>
