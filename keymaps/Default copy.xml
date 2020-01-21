@@ -26,4 +26,7 @@
   <action id="QuickChangeScheme">
     <mouse-shortcut keystroke="control button5" />
   </action>
+  <action id="me.laria.code.idea_caseconv.CamelCaseAction">
+    <mouse-shortcut keystroke="button1" />
+  </action>
 </keymap>
