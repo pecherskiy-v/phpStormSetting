@@ -27,6 +27,6 @@
     <mouse-shortcut keystroke="control button5" />
   </action>
   <action id="me.laria.code.idea_caseconv.CamelCaseAction">
-    <mouse-shortcut keystroke="button1" />
+    <mouse-shortcut keystroke="control button1 doubleClick" />
   </action>
 </keymap>
