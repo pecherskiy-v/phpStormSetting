@@ -114,6 +114,10 @@
           <option name="url" value="https://gitlab.com/pecherskiy-v/jira-redmine-sync" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:pecherskiy-v/jira-redmine-sync.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\repo\pecherskiy-v" />
