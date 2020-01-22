@@ -110,9 +110,13 @@
           <option name="url" value="git@gitlab.com:selfteam/interfaces/common-interface.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/pecherskiy-v/jira-redmine-sync" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\repo\selfteam" />
+    <option name="cloneParentDir" value="C:\repo\pecherskiy-v" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
