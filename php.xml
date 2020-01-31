@@ -48,6 +48,7 @@
             <extension name="imap" />
             <extension name="intl" />
             <extension name="json" />
+            <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
             <extension name="mysqlnd" />
