@@ -19,6 +19,9 @@
         <entry key="TB-1577" value="feature/TB-1577" />
         <entry key="TB-1578" value="feature/TB-1578" />
         <entry key="TB-1583" value="bugfix/TB-1583" />
+        <entry key="TB-1594" value="feature/TB-1594" />
+        <entry key="TB-1601" value="feature/TB-1601" />
+        <entry key="TB-1603" value="feature/TB-1603" />
         <entry key="TB-1657" value="feature/TB-1657" />
         <entry key="TB-1659" value="feature/TB-1659" />
         <entry key="TB-1660" value="feature/TB-1660" />
@@ -31,6 +34,7 @@
         <entry key="TB-1674" value="feature/TB-1674" />
         <entry key="TB-1693" value="feature/TB-1693" />
         <entry key="TB-1697" value="feature/TB-1697" />
+        <entry key="TB-1725" value="feature/TB-1725" />
         <entry key="TB-1734" value="feature/TB-1734" />
         <entry key="TB-1739" value="feature/TB-1739" />
         <entry key="TB-1747" value="bugfix/TB-1747" />
@@ -100,9 +104,65 @@
         <entry key="TB-2058" value="bugfix/TB-2058" />
         <entry key="TB-2068" value="bugfix/TB-2068" />
         <entry key="TB-2088" value="bugfix/TB-2088" />
+        <entry key="TB-2089" value="arm/feature/TB-2089" />
+        <entry key="TB-2092" value="arm/feature/TB-2092" />
         <entry key="TB-2103" value="bugfix/TB-2103" />
         <entry key="TB-2106" value="bugfix/TB-2106" />
         <entry key="TB-2107" value="bugfix/TB-2107" />
+        <entry key="TB-2142" value="bugfix/TB-2142" />
+        <entry key="TB-2156" value="arm/bugfix/TB-2156" />
+        <entry key="TB-2173" value="bugfix/TB-2173" />
+        <entry key="TB-2174" value="arm/feature/TB-2174" />
+        <entry key="TB-2176" value="arm/bugfix/TB-2176" />
+        <entry key="TB-2183" value="arm/feature/TB-2183" />
+        <entry key="TB-2195" value="feature/TB-2195" />
+        <entry key="TB-2196" value="arm/bugfix/TB-2196" />
+        <entry key="TB-2198" value="arm/feature/TB-2198" />
+        <entry key="TB-2206" value="arm/bugfix/TB-2206" />
+        <entry key="TB-2207" value="arm/bugfix/TB-2207" />
+        <entry key="TB-2214" value="arm/feature/TB-2214" />
+        <entry key="TB-2219" value="bugfix/TB-2219" />
+        <entry key="TB-2234" value="arm/feature/TB-2234" />
+        <entry key="TB-2239" value="arm/bugfix/TB-2239" />
+        <entry key="TB-2240" value="arm/bugfix/TB-2240" />
+        <entry key="TB-2247" value="bugfix/TB-2247" />
+        <entry key="TB-2250" value="arm/feature/TB-2250" />
+        <entry key="TB-2251" value="arm/bugfix/TB-2251" />
+        <entry key="TB-2253" value="arm/bugfix/TB-2253" />
+        <entry key="TB-2256" value="arm/bugfix/TB-2256" />
+        <entry key="TB-2260" value="arm/feature/TB-2260" />
+        <entry key="TB-2268" value="arm/bugfix/TB-2268" />
+        <entry key="TB-2293" value="arm/bugfix/TB-2293" />
+        <entry key="TB-2294" value="arm/bugfix/TB-2294" />
+        <entry key="TB-2364" value="feature/TB-2364" />
+        <entry key="TB-2370" value="feature/TB-2370" />
+        <entry key="TB-2371" value="feature/history/TB-2371" />
+        <entry key="TB-2373" value="feature/history/TB-2373" />
+        <entry key="TB-2427" value="arm/feature/TB-2427" />
+        <entry key="TB-2430" value="arm/bugfix/TB-2430" />
+        <entry key="TB-2443" value="bugfix/TB-2443" />
+        <entry key="TB-2457" value="arm/bugfix/TB-2457" />
+        <entry key="TB-2459" value="arm/bugfix/TB-2459" />
+        <entry key="TB-2464" value="arm/bugfix/TB-2464" />
+        <entry key="TB-2468" value="arm/bugfix/TB-2468" />
+        <entry key="TB-2471" value="arm/bugfix/TB-2471" />
+        <entry key="TB-2473" value="arm/bugfix/TB-2473" />
+        <entry key="TB-2480" value="arm/feature/TB-2480" />
+        <entry key="TB-2481" value="arm/bugfix/TB-2481" />
+        <entry key="TB-2482" value="arm/bugfix/TB-2482" />
+        <entry key="TB-2483" value="arm/bugfix/TB-2483" />
+        <entry key="TB-2489" value="bugfix/TB-2489" />
+        <entry key="TB-2492" value="feature/history/TB-2492" />
+        <entry key="TB-2500" value="arm/feature/TB-2500" />
+        <entry key="TB-2513" value="arm/bugfix/TB-2513" />
+        <entry key="TB-2528" value="bugfix/TB-2528" />
+        <entry key="TB-2529" value="arm/bugfix/TB-2529" />
+        <entry key="TB-2531" value="bugfix/TB-2531" />
+        <entry key="TB-2565" value="arm/bugfix/TB-2565" />
+        <entry key="TB-2585" value="feature/TB-2585" />
+        <entry key="TB-2603" value="arm/bugfix/TB-2603" />
+        <entry key="TB-2616" value="feature/history/TB-2371/TB-2616" />
+        <entry key="TB-2619" value="bugfix/TB-2619" />
       </map>
     </option>
   </component>
