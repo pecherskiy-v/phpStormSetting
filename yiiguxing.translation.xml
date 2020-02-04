@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&quot;extendedMessage&quot;: &quot;A class constant must not be called 'class'; it is reserved for class name fetching&quot;," />
       <item value="If needle is not a string, it is converted to * an integer and applied as the ordinal value of a character. * &lt;/p&gt;" />
       <item value="Returns all the elements of this collection that satisfy the predicate p. * The order of the elements is preserved. *" />
       <item value="Applies the given function to each element in the collection and returns * a new collection with the elements returned by the function. *" />
@@ -21,7 +22,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="216" />
+        <entry key="ENGLISH" value="217" />
         <entry key="RUSSIAN" value="221" />
         <entry key="ROMANIAN" value="4" />
         <entry key="UKRAINIAN" value="2" />
