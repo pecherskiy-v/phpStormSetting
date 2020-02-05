@@ -1,4 +1,5 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="$ChooseTranslatorAction" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
@@ -23,9 +24,16 @@
     <mouse-shortcut keystroke="alt button143" />
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="PhpGenerateGettersAndSetters">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="PhpGenerateSetters">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
   <action id="QuickChangeScheme">
     <mouse-shortcut keystroke="control button5" />
   </action>
+  <action id="SaveAs" />
   <action id="me.laria.code.idea_caseconv.CamelCaseAction">
     <mouse-shortcut keystroke="control button1 doubleClick" />
   </action>
