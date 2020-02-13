@@ -17438,6 +17438,396 @@
           <option name="namespace" value="Валерий Игоревич Печерский" />
           <option name="sshUrl" value="git@gitlab.com:pecherskiy-v/toyota-local-dev-env.git" />
         </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/components/admin.git" />
+          <option name="name" value="admin" />
+          <option name="namespace" value="components" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/components/admin.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/components/bank-limit.git" />
+          <option name="name" value="bank-limit" />
+          <option name="namespace" value="components" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/components/bank-limit.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/components/bank-product.git" />
+          <option name="name" value="BankProduct" />
+          <option name="namespace" value="components" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/components/bank-product.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/components/busmanager.git" />
+          <option name="name" value="Bus Manager" />
+          <option name="namespace" value="components" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/components/busmanager.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/components/butler.git" />
+          <option name="name" value="Butler" />
+          <option name="namespace" value="components" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/components/butler.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/components/currency.git" />
+          <option name="name" value="Currency" />
+          <option name="namespace" value="components" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/components/currency.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/components/directory.git" />
+          <option name="name" value="directory" />
+          <option name="namespace" value="components" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/components/directory.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/components/jpostie.git" />
+          <option name="name" value="jPostie" />
+          <option name="namespace" value="components" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/components/jpostie.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/components/octopus.git" />
+          <option name="name" value="octopus" />
+          <option name="namespace" value="components" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/components/octopus.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/components/paymentgate.git" />
+          <option name="name" value="Payment Gate" />
+          <option name="namespace" value="components" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/components/paymentgate.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/components/postie.git" />
+          <option name="name" value="Postie" />
+          <option name="namespace" value="components" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/components/postie.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/components/swaggerui.git" />
+          <option name="name" value="SwaggerUI" />
+          <option name="namespace" value="components" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/components/swaggerui.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/components/userbox.git" />
+          <option name="name" value="Userbox" />
+          <option name="namespace" value="components" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/components/userbox.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/components/user-settings.git" />
+          <option name="name" value="UserSettings" />
+          <option name="namespace" value="components" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/components/user-settings.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/deprecated/serializer.git" />
+          <option name="name" value="serializer" />
+          <option name="namespace" value="deprecated" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/deprecated/serializer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/deprecated/validator.git" />
+          <option name="name" value="validator" />
+          <option name="namespace" value="deprecated" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/deprecated/validator.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteamdevops/socratus-docker-images.git" />
+          <option name="name" value="socratus-docker-images" />
+          <option name="namespace" value="devops" />
+          <option name="sshUrl" value="git@gitlab.com:selfteamdevops/socratus-docker-images.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/interfaces/bank-limit-interface.git" />
+          <option name="name" value="bank-limit-interface" />
+          <option name="namespace" value="interfaces" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/interfaces/bank-limit-interface.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/interfaces/bank-product-interface.git" />
+          <option name="name" value="bank-product-interface" />
+          <option name="namespace" value="interfaces" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/interfaces/bank-product-interface.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/interfaces/busmanager-otp-interface.git" />
+          <option name="name" value="busmanager-otp-interface" />
+          <option name="namespace" value="interfaces" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/interfaces/busmanager-otp-interface.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/interfaces/butler-interface.git" />
+          <option name="name" value="butler-interface" />
+          <option name="namespace" value="interfaces" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/interfaces/butler-interface.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/interfaces/common-interface.git" />
+          <option name="name" value="common-interface" />
+          <option name="namespace" value="interfaces" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/interfaces/common-interface.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/interfaces/currency-interface.git" />
+          <option name="name" value="currency-interface" />
+          <option name="namespace" value="interfaces" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/interfaces/currency-interface.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/interfaces/directory-interface.git" />
+          <option name="name" value="directory-interface" />
+          <option name="namespace" value="interfaces" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/interfaces/directory-interface.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/interfaces/octopus-interface.git" />
+          <option name="name" value="octopus-interface" />
+          <option name="namespace" value="interfaces" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/interfaces/octopus-interface.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/interfaces/paymentgate-interface.git" />
+          <option name="name" value="paymentgate-interface" />
+          <option name="namespace" value="interfaces" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/interfaces/paymentgate-interface.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/interfaces/postie-interface.git" />
+          <option name="name" value="Postie interface" />
+          <option name="namespace" value="interfaces" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/interfaces/postie-interface.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/interfaces/postie-otp-interface.git" />
+          <option name="name" value="Postie OTP interface" />
+          <option name="namespace" value="interfaces" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/interfaces/postie-otp-interface.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/interfaces/user-settings-interface.git" />
+          <option name="name" value="user-settings-interface" />
+          <option name="namespace" value="interfaces" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/interfaces/user-settings-interface.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/interfaces/userbox-interface.git" />
+          <option name="name" value="userbox-interface" />
+          <option name="namespace" value="interfaces" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/interfaces/userbox-interface.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/libs/bic-importer.git" />
+          <option name="name" value="bic-importer" />
+          <option name="namespace" value="libs" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/libs/bic-importer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/libs/component-gate.git" />
+          <option name="name" value="component-gate" />
+          <option name="namespace" value="libs" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/libs/component-gate.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/libs/contracts.git" />
+          <option name="name" value="contracts" />
+          <option name="namespace" value="libs" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/libs/contracts.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/libs/core-lumen.git" />
+          <option name="name" value="core-lumen" />
+          <option name="namespace" value="libs" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/libs/core-lumen.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/libs/octopus-events.git" />
+          <option name="name" value="octopus-events" />
+          <option name="namespace" value="libs" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/libs/octopus-events.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/libs/orm.git" />
+          <option name="name" value="orm" />
+          <option name="namespace" value="libs" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/libs/orm.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/libs/paysystem.git" />
+          <option name="name" value="paysystem" />
+          <option name="namespace" value="libs" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/libs/paysystem.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/libs/pdf.git" />
+          <option name="name" value="PDF generator" />
+          <option name="namespace" value="libs" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/libs/pdf.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/libs/php-xbase.git" />
+          <option name="name" value="php-xbase" />
+          <option name="namespace" value="libs" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/libs/php-xbase.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/libs/qiwi-templates-sdk.git" />
+          <option name="name" value="QIWI Templates SDK" />
+          <option name="namespace" value="libs" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/libs/qiwi-templates-sdk.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/libs/rest.git" />
+          <option name="name" value="rest" />
+          <option name="namespace" value="libs" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/libs/rest.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/docker.git" />
+          <option name="name" value="docker" />
+          <option name="namespace" value="selfteam" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/docker.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/ms-base.git" />
+          <option name="name" value="ms-base" />
+          <option name="namespace" value="selfteam" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/ms-base.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/private-packagist.git" />
+          <option name="name" value="private-packagist" />
+          <option name="namespace" value="selfteam" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/private-packagist.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/testcase.git" />
+          <option name="name" value="testcase" />
+          <option name="namespace" value="selfteam" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/testcase.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/selfteam/project-documents.git" />
+          <option name="name" value="Проектная документация" />
+          <option name="namespace" value="selfteam" />
+          <option name="sshUrl" value="git@gitlab.com:selfteam/project-documents.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/toyota-bank/arm-backend.git" />
+          <option name="name" value="arm-backend" />
+          <option name="namespace" value="toyota-bank" />
+          <option name="sshUrl" value="git@gitlab.com:toyota-bank/arm-backend.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/toyota-bank/arm-frontend.git" />
+          <option name="name" value="arm-frontend" />
+          <option name="namespace" value="toyota-bank" />
+          <option name="sshUrl" value="git@gitlab.com:toyota-bank/arm-frontend.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/toyota-bank/arm-interface.git" />
+          <option name="name" value="arm-interface" />
+          <option name="namespace" value="toyota-bank" />
+          <option name="sshUrl" value="git@gitlab.com:toyota-bank/arm-interface.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/toyota-bank/billing-page-backend.git" />
+          <option name="name" value="billing-page-backend" />
+          <option name="namespace" value="toyota-bank" />
+          <option name="sshUrl" value="git@gitlab.com:toyota-bank/billing-page-backend.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/toyota-bank/billing-page-frontend.git" />
+          <option name="name" value="billing-page-frontend" />
+          <option name="namespace" value="toyota-bank" />
+          <option name="sshUrl" value="git@gitlab.com:toyota-bank/billing-page-frontend.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/toyota-bank/credit-request-backend.git" />
+          <option name="name" value="credit-request-backend" />
+          <option name="namespace" value="toyota-bank" />
+          <option name="sshUrl" value="git@gitlab.com:toyota-bank/credit-request-backend.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/toyota-bank/credit-request-frontend.git" />
+          <option name="name" value="credit-request-frontend" />
+          <option name="namespace" value="toyota-bank" />
+          <option name="sshUrl" value="git@gitlab.com:toyota-bank/credit-request-frontend.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/toyota-bank/credit-request-interface.git" />
+          <option name="name" value="credit-request-interface" />
+          <option name="namespace" value="toyota-bank" />
+          <option name="sshUrl" value="git@gitlab.com:toyota-bank/credit-request-interface.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/toyota-bank/directory.git" />
+          <option name="name" value="directory" />
+          <option name="namespace" value="toyota-bank" />
+          <option name="sshUrl" value="git@gitlab.com:toyota-bank/directory.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/toyota-bank/directory-interface.git" />
+          <option name="name" value="directory-interface " />
+          <option name="namespace" value="toyota-bank" />
+          <option name="sshUrl" value="git@gitlab.com:toyota-bank/directory-interface.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/toyota-bank/integration-with-crif.git" />
+          <option name="name" value="integration-with-crif" />
+          <option name="namespace" value="toyota-bank" />
+          <option name="sshUrl" value="git@gitlab.com:toyota-bank/integration-with-crif.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/toyota-bank/integration-with-crif-interface.git" />
+          <option name="name" value="integration-with-crif-interface" />
+          <option name="namespace" value="toyota-bank" />
+          <option name="sshUrl" value="git@gitlab.com:toyota-bank/integration-with-crif-interface.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/toyota-bank/merchant-password.git" />
+          <option name="name" value="Merchant password" />
+          <option name="namespace" value="toyota-bank" />
+          <option name="sshUrl" value="git@gitlab.com:toyota-bank/merchant-password.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/toyota-bank/merchant-password-interface.git" />
+          <option name="name" value="Merchant password interface" />
+          <option name="namespace" value="toyota-bank" />
+          <option name="sshUrl" value="git@gitlab.com:toyota-bank/merchant-password-interface.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/toyota-bank/octopus.git" />
+          <option name="name" value="octopus" />
+          <option name="namespace" value="toyota-bank" />
+          <option name="sshUrl" value="git@gitlab.com:toyota-bank/octopus.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/toyota-bank/recognition.git" />
+          <option name="name" value="recognition" />
+          <option name="namespace" value="toyota-bank" />
+          <option name="sshUrl" value="git@gitlab.com:toyota-bank/recognition.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/toyota-bank/recognition-interface.git" />
+          <option name="name" value="recognition-interface" />
+          <option name="namespace" value="toyota-bank" />
+          <option name="sshUrl" value="git@gitlab.com:toyota-bank/recognition-interface.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/pecherskiy-v/jira-redmine-sync.git" />
+          <option name="name" value="Jira-Redmine-sync" />
+          <option name="namespace" value="Валерий Игоревич Печерский" />
+          <option name="sshUrl" value="git@gitlab.com:pecherskiy-v/jira-redmine-sync.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/pecherskiy-v/toyota-local-dev-env.git" />
+          <option name="name" value="toyota-local-dev-env" />
+          <option name="namespace" value="Валерий Игоревич Печерский" />
+          <option name="sshUrl" value="git@gitlab.com:pecherskiy-v/toyota-local-dev-env.git" />
+        </ProjectDto>
       </list>
     </option>
     <option name="gitlabServers">
