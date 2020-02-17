@@ -163,6 +163,7 @@
         <entry key="TB-2603" value="arm/bugfix/TB-2603" />
         <entry key="TB-2616" value="feature/history/TB-2371/TB-2616" />
         <entry key="TB-2619" value="bugfix/TB-2619" />
+        <entry key="TB-2700" value="feature/TB-2700" />
       </map>
     </option>
   </component>
