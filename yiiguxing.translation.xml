@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ERROR: for toyota-nginx Cannot start service nginx: OCI runtime create failed: container_linux.go:346: starting container process caused &quot;process_linux.go:449: container init caused \&quot;rootfs_linux.go:58: mounting \\\&quot;/host_mnt/c/repo/toyota-bank/toyota-local-dev-env/localdevenv/nginx/nginx.conf\\\&quot; to rootfs \\\&quot;/var/lib/docker/overlay2/2c9834d34309ada7c1c714c65b92f533317edfd9d007cab8b0bc5a88b32fb728/merged\\\&quot; at \\\&quot;/var/lib/docker/overlay2/2c9834d34309ada7c1c714c65b92f533317edfd9d007cab8b0bc5a88b32fb728/merged/etc/nginx/nginx.conf\\\&quot; caused \\\&quot;not a directory\\\&quot;\&quot;&quot;: unknown: Are you trying to mount a directory onto a file (or vice-versa)? Check if the specified host path exists and is the expected type ERROR: for nginx Cannot start service nginx: OCI runtime create failed: container_linux.go:346: starting container process caused &quot;process_linux.go:449: container init caused \&quot;rootfs_linux.go:58: mounting \\\&quot;/host_mnt/c/repo/toyota-bank/toyota-local-dev-env/localdevenv/nginx/nginx.conf\\\&quot; to rootfs \\\&quot;/var/lib/docker/overlay2/2c9834d34309ada7c1c714c65b92f533317edfd9d007cab8b0bc5a88b32fb728/merged\\\&quot; at \\\&quot;/var/lib/docker/overlay2/2c9834d34309ada7c1c714c65b92f533317edfd9d007cab8b0bc5a88b32fb728/merged/etc/nginx/nginx.conf\\\&quot; caused \\\&quot;not a directory\\\&quot;\&quot;&quot;: unknown: Are you trying to mount a directory onto a file (or vice-versa)? Check if the specified host path exists and is the expected type Encountered errors while bringing up the project." />
       <item value="&quot;extendedMessage&quot;: &quot;A class constant must not be called 'class'; it is reserved for class name fetching&quot;," />
       <item value="If needle is not a string, it is converted to * an integer and applied as the ordinal value of a character. * &lt;/p&gt;" />
       <item value="Returns all the elements of this collection that satisfy the predicate p. * The order of the elements is preserved. *" />
@@ -22,8 +23,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="244" />
-        <entry key="RUSSIAN" value="248" />
+        <entry key="ENGLISH" value="246" />
+        <entry key="RUSSIAN" value="249" />
         <entry key="ROMANIAN" value="4" />
         <entry key="UKRAINIAN" value="2" />
       </map>
