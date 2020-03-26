@@ -12,6 +12,7 @@
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="fastcgi_params" type="PLAIN_TEXT" />
       <mapping pattern="tz" type="PLAIN_TEXT" />
+      <mapping pattern="test3" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="test1" type="PLAIN_TEXT" />
       <mapping pattern="queue-run-dev-superviserd" type="PLAIN_TEXT" />
