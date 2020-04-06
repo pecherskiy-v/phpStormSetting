@@ -14,7 +14,8 @@
     <option name="upperCaseTabs" value="true" />
     <option name="tabFontSize" value="14" />
     <option name="settingsSelectedTab" value="6" />
-    <option name="accentColor" value="009688" />
+    <option name="accentColor" value="ff9800" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-207e88f3:16a3259930c:-8000" />
     <option name="version" value="4.11.5" />
   </component>
