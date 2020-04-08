@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is blocks" />
+      <item value="blocks" />
       <item value="Unable to create configured logge" />
       <item value="EA] '[0-9]' can be replaced with '\d' (safe in non-unicode mode). " />
       <item value="{&quot;message&quot;:&quot;SelfTeam\\CoreLumen\\Exceptions\\AppException: Failed to register Doctrine enum type in C:\\creditrequest\\src\\app\\Providers\\AppServiceProvider.php:41\nStack trace:\n#0 C:\\creditrequest\\vendor\\laravel\\lumen-framework\\src\\Application.php(193): App\\Providers\\AppServiceProvider-&gt;register()\n#1 C:\\creditrequest\\src\\bootstrap\\app.php(130): Laravel\\Lumen\\Application-&gt;register(Object(App\\Providers\\AppServiceProvider))\n#2 C:\\creditrequest\\src\\artisan(18): require('C:\\\\creditreques...')\n#3 {main}&quot;,&quot;context&quot;:{&quot;exception&quot;:{&quot;class&quot;:&quot;SelfTeam\\CoreLumen\\Exceptions\\AppException&quot;,&quot;message&quot;:&quot;Failed to register Doctrine enum type&quot;,&quot;code&quot;:1000,&quot;file&quot;:&quot;C:\\creditrequest\\src\\app\\Providers\\AppServiceProvider.php:41&quot;}},&quot;level&quot;:400,&quot;level_name&quot;:&quot;ERROR&quot;,&quot;channel&quot;:&quot;stage&quot;,&quot;datetime&quot;:&quot;2020-03-27T07:58:46.136069+00:00&quot;,&quot;extra&quot;:{&quot;component&quot;:&quot;credreq&quot;,&quot;remoteIp&quot;:&quot;&quot;}} " />
