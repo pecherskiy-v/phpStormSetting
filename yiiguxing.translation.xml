@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="дата" />
       <item value="разрешенные" />
       <item value="Allo" />
       <item value="Determines if Enum should be considered equal with the variable passed as a parameter. * Returns false if an argument is an object of different class or not an object." />
