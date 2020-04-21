@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="два шага" />
       <item value="не полный возврат" />
       <item value="частичный возврат" />
       <item value="частичнй возврат" />
@@ -45,8 +46,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="303" />
-        <entry key="RUSSIAN" value="304" />
+        <entry key="ENGLISH" value="305" />
+        <entry key="RUSSIAN" value="305" />
         <entry key="ROMANIAN" value="4" />
         <entry key="UKRAINIAN" value="2" />
         <entry key="ITALIAN" value="1" />
