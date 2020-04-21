@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Objects are always passed by reference; please correct '&amp; $dto'." />
       <item value="found" />
       <item value="revers" />
       <item value="частичный возврат" />
@@ -50,7 +51,6 @@
       <item value="Expected 1 space before opening brace; found 0" />
       <item value="Error : Call to a member function getRepository() on null" />
       <item value="Result of" />
-      <item value="Result of &amp;&amp; is always false." />
     </histories>
     <option name="languageScores">
       <map>
