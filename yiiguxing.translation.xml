@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This assertion can probably be skipped (argument implicitly declares return type)." />
       <item value="два шага" />
       <item value="не полный возврат" />
       <item value="частичный возврат" />
@@ -47,7 +48,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="305" />
-        <entry key="RUSSIAN" value="305" />
+        <entry key="RUSSIAN" value="306" />
         <entry key="ROMANIAN" value="4" />
         <entry key="UKRAINIAN" value="2" />
         <entry key="ITALIAN" value="1" />
