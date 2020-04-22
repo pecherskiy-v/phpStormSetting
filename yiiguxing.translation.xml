@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="пара количество" />
+      <item value="пара сумм" />
+      <item value="парка сумм" />
+      <item value="пара" />
+      <item value="amount" />
       <item value="The way invalid/numeric keys and collisions are treated is determined * by the extract_type. It can be one of the * following values: * EXTR_OVERWRITE * If there is a collision, overwrite the existing variable." />
       <item value="WRITING AMOUNT GREAT PAYMENT AMOUNT" />
       <item value="PAYMENT APPROVED NOT ALOWED" />
@@ -46,16 +51,11 @@
       <item value="If needle is not a string, it is converted to * an integer and applied as the ordinal value of a character. * &lt;/p&gt;" />
       <item value="Returns all the elements of this collection that satisfy the predicate p. * The order of the elements is preserved. *" />
       <item value="Applies the given function to each element in the collection and returns * a new collection with the elements returned by the function. *" />
-      <item value="Selects all elements from a selectable that match the expression and * return a new collection containing these elements. *" />
-      <item value="Tests for the existence of an element that satisfies the given predicate." />
-      <item value="Error : Cannot use object of type stdClass as array" />
-      <item value="Object of class Pecherskiy\DocDoc\Client could not be converted to string" />
-      <item value="Pecherskiy\DocDoc\Exceptions\RequiredFieldIsNotSet : The field city is required" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="318" />
-        <entry key="RUSSIAN" value="318" />
+        <entry key="ENGLISH" value="324" />
+        <entry key="RUSSIAN" value="324" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
