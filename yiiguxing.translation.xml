@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The way invalid/numeric keys and collisions are treated is determined * by the extract_type. It can be one of the * following values: * EXTR_OVERWRITE * If there is a collision, overwrite the existing variable." />
+      <item value="WRITING AMOUNT GREAT PAYMENT AMOUNT" />
+      <item value="PAYMENT APPROVED NOT ALOWED" />
+      <item value="PAYMENT AMOUNT NO EQUALS REQUEST AMOUNT" />
+      <item value="PAYMENT NOT FOUND" />
       <item value="Objects are always passed by reference; please correct '&amp; $dto'." />
       <item value="found" />
       <item value="revers" />
@@ -46,16 +51,11 @@
       <item value="Error : Cannot use object of type stdClass as array" />
       <item value="Object of class Pecherskiy\DocDoc\Client could not be converted to string" />
       <item value="Pecherskiy\DocDoc\Exceptions\RequiredFieldIsNotSet : The field city is required" />
-      <item value="get_class_vars() expects parameter 1 to be string, object given" />
-      <item value="&quot;extendedMessage&quot;: &quot;A colon cannot be used in an unquoted mapping value at line 31 (near \&quot; data: credit_data\/block_3_part_1_edit.yaml\&quot;).&quot;," />
-      <item value="Expected 1 space before opening brace; found 0" />
-      <item value="Error : Call to a member function getRepository() on null" />
-      <item value="Result of" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="313" />
-        <entry key="RUSSIAN" value="314" />
+        <entry key="ENGLISH" value="318" />
+        <entry key="RUSSIAN" value="318" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
