@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="write" />
+      <item value="запись" />
+      <item value="чтение" />
+      <item value="чтение данных в хранилище" />
+      <item value="запись данных в хранилище" />
       <item value="Cannot create memory optimized tables. To create memory optimized tables, the database must have a MEMORY_OPTIMIZED_FILEGROUP that is online and has at least one container." />
       <item value="DDL statements ALTER, DROP and CREATE inside user transactions      are not supported with memory optimized tables.                       " />
       <item value="второй параметр не объект" />
@@ -46,16 +51,11 @@
       <item value="прошлый день" />
       <item value="удаление забытых файлов" />
       <item value="удаление забытых вайлов" />
-      <item value="is blocks" />
-      <item value="blocks" />
-      <item value="Unable to create configured logge" />
-      <item value="EA] '[0-9]' can be replaced with '\d' (safe in non-unicode mode). " />
-      <item value="{&quot;message&quot;:&quot;SelfTeam\\CoreLumen\\Exceptions\\AppException: Failed to register Doctrine enum type in C:\\creditrequest\\src\\app\\Providers\\AppServiceProvider.php:41\nStack trace:\n#0 C:\\creditrequest\\vendor\\laravel\\lumen-framework\\src\\Application.php(193): App\\Providers\\AppServiceProvider-&gt;register()\n#1 C:\\creditrequest\\src\\bootstrap\\app.php(130): Laravel\\Lumen\\Application-&gt;register(Object(App\\Providers\\AppServiceProvider))\n#2 C:\\creditrequest\\src\\artisan(18): require('C:\\\\creditreques...')\n#3 {main}&quot;,&quot;context&quot;:{&quot;exception&quot;:{&quot;class&quot;:&quot;SelfTeam\\CoreLumen\\Exceptions\\AppException&quot;,&quot;message&quot;:&quot;Failed to register Doctrine enum type&quot;,&quot;code&quot;:1000,&quot;file&quot;:&quot;C:\\creditrequest\\src\\app\\Providers\\AppServiceProvider.php:41&quot;}},&quot;level&quot;:400,&quot;level_name&quot;:&quot;ERROR&quot;,&quot;channel&quot;:&quot;stage&quot;,&quot;datetime&quot;:&quot;2020-03-27T07:58:46.136069+00:00&quot;,&quot;extra&quot;:{&quot;component&quot;:&quot;credreq&quot;,&quot;remoteIp&quot;:&quot;&quot;}} " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="330" />
-        <entry key="RUSSIAN" value="330" />
+        <entry key="ENGLISH" value="336" />
+        <entry key="RUSSIAN" value="336" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
