@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="период" />
+      <item value="денежный оборот" />
+      <item value="оборот" />
       <item value="write" />
       <item value="запись" />
       <item value="чтение" />
@@ -48,14 +51,11 @@
       <item value="billing NGINX HOST" />
       <item value="product check request" />
       <item value="удаление забытых файлов за прошлый день" />
-      <item value="прошлый день" />
-      <item value="удаление забытых файлов" />
-      <item value="удаление забытых вайлов" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="336" />
-        <entry key="RUSSIAN" value="336" />
+        <entry key="ENGLISH" value="339" />
+        <entry key="RUSSIAN" value="339" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
