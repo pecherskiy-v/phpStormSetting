@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="процент" />
+      <item value="по каждой" />
+      <item value="месяц" />
       <item value="зависимости" />
       <item value="зависисимости" />
       <item value="период" />
@@ -48,14 +51,11 @@
       <item value="разрешенные" />
       <item value="Allo" />
       <item value="Determines if Enum should be considered equal with the variable passed as a parameter. * Returns false if an argument is an object of different class or not an object." />
-      <item value="causes" />
-      <item value="casus" />
-      <item value="billing NGINX HOST" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="340" />
-        <entry key="RUSSIAN" value="341" />
+        <entry key="ENGLISH" value="346" />
+        <entry key="RUSSIAN" value="346" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
