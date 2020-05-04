@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This condition execution costs less than the previous one." />
       <item value="из криф" />
       <item value="множитель" />
       <item value="the numerical position of the last occurrence of needle." />
@@ -50,12 +51,11 @@
       <item value="This assertion can probably be skipped (argument implicitly declares return type)." />
       <item value="два шага" />
       <item value="не полный возврат" />
-      <item value="частичнй возврат" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="350" />
-        <entry key="RUSSIAN" value="350" />
+        <entry key="RUSSIAN" value="351" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
