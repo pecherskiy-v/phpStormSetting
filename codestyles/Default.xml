@@ -29,6 +29,12 @@
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
+  <codeStyleSettings language="Blade">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="1" />
+      <option name="TAB_SIZE" value="1" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="RIGHT_MARGIN" value="200" />
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
