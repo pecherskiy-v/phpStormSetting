@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="аннулировать" />
+      <item value="анулировать" />
+      <item value="счет" />
+      <item value="xsmb" />
+      <item value="cxtn" />
       <item value="deferred Payment Amount" />
       <item value="deferredPaymentAmount" />
       <item value="2 matches found based on name: network toyota-net-test is ambiguous" />
@@ -46,16 +51,11 @@
       <item value="completed" />
       <item value="complete" />
       <item value="complite" />
-      <item value="результат выполнения операции" />
-      <item value="cancel" />
-      <item value="cansel" />
-      <item value="* Asserts that two variables are equal." />
-      <item value="* Asserts that a haystack contains only instances of a given class name." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="350" />
-        <entry key="RUSSIAN" value="351" />
+        <entry key="ENGLISH" value="352" />
+        <entry key="RUSSIAN" value="353" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
