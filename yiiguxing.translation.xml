@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Счет аннулирован" />
       <item value="аннулировать" />
       <item value="анулировать" />
       <item value="счет" />
@@ -50,11 +51,10 @@
       <item value="частичный возврат" />
       <item value="completed" />
       <item value="complete" />
-      <item value="complite" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="352" />
+        <entry key="ENGLISH" value="353" />
         <entry key="RUSSIAN" value="353" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
