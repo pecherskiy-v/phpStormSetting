@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could provoke a PHP Fatal error (cannot use string offset as an array)." />
       <item value="Set swing.bufferPerWindow=false to workaround a slow scrolling in JDK6 (see IDEA-35883), # But this may lead to performance degradation in JDK8, because it disables a double buffering, # which is needed to eliminate tearing on blit-accelerated scrolling and to restore # a frame buffer content without the usual repainting, even when the EDT is blocked. #-" />
       <item value="Uncomment this property to prevent IDE from throwing ProcessCanceledException when user activity # detected. This option is only useful for plugin developers, while debugging PSI related activities # performed in background error analysis thread. # DO NOT UNCOMMENT THIS UNLESS YOU'RE DEBUGGING IDE ITSELF. Significant slowdowns and lockups will happen otherwise. #-" />
       <item value="Configure if a special launcher should be used when running processes from within IDE. # Using Launcher enables &quot;soft exit&quot; and &quot;thread dump&quot; features #-" />
@@ -50,7 +51,6 @@
       <item value="amount" />
       <item value="The way invalid/numeric keys and collisions are treated is determined * by the extract_type. It can be one of the * following values: * EXTR_OVERWRITE * If there is a collision, overwrite the existing variable." />
       <item value="PAYMENT APPROVED NOT ALOWED" />
-      <item value="PAYMENT AMOUNT NO EQUALS REQUEST AMOUNT" />
     </histories>
     <option name="languageScores">
       <map>
