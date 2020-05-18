@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="refund" />
+      <item value="возврат" />
+      <item value="приход" />
       <item value="Creates a sum mathematical expression with the given arguments. * First argument is considered the left expression and the second is the right expression. * When converted to string, it will generated a &lt;left expr&gt; + &lt;right expr&gt;. Example:" />
       <item value="month" />
       <item value="месяц" />
@@ -48,14 +51,11 @@
       <item value="Cannot create memory optimized tables. To create memory optimized tables, the database must have a MEMORY_OPTIMIZED_FILEGROUP that is online and has at least one container." />
       <item value="DDL statements ALTER, DROP and CREATE inside user transactions      are not supported with memory optimized tables.                       " />
       <item value="второй параметр не объект" />
-      <item value="втрой параметр не объект" />
-      <item value="Процесинговый центр недоступен" />
-      <item value="Выполнение операции невозможно" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="362" />
-        <entry key="RUSSIAN" value="362" />
+        <entry key="ENGLISH" value="364" />
+        <entry key="RUSSIAN" value="365" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
