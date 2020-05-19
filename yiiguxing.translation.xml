@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="send register complite" />
       <item value="вычисление" />
       <item value="расчет" />
       <item value="refund" />
@@ -50,7 +51,6 @@
       <item value="чтение" />
       <item value="чтение данных в хранилище" />
       <item value="запись данных в хранилище" />
-      <item value="Cannot create memory optimized tables. To create memory optimized tables, the database must have a MEMORY_OPTIMIZED_FILEGROUP that is online and has at least one container." />
     </histories>
     <option name="languageScores">
       <map>
