@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Attribute charset is not allowed here Inspection info: This inspection highlights unknown HTML tag attributes as invalid, and lets mark such attributes as Custom to avoid highlighting them as invalid." />
       <item value="send register complite" />
       <item value="вычисление" />
       <item value="расчет" />
@@ -50,12 +51,11 @@
       <item value="запись" />
       <item value="чтение" />
       <item value="чтение данных в хранилище" />
-      <item value="запись данных в хранилище" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="365" />
-        <entry key="RUSSIAN" value="365" />
+        <entry key="RUSSIAN" value="366" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
