@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ATTACH" />
       <item value="уровень в работу" />
       <item value="задание в работу" />
       <item value="задание к выполнению" />
@@ -50,12 +51,11 @@
       <item value="deferred Payment Amount" />
       <item value="deferredPaymentAmount" />
       <item value="2 matches found based on name: network toyota-net-test is ambiguous" />
-      <item value="This condition execution costs less than the previous one." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="378" />
-        <entry key="RUSSIAN" value="378" />
+        <entry key="ENGLISH" value="379" />
+        <entry key="RUSSIAN" value="379" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
