@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PENDING" />
       <item value="Invoked when the promise fulfills." />
       <item value="* Returns true if a promise is fulfilled." />
       <item value="Like each_limit, but ensures that no promise in the given $iterable argument * is rejected. If any promise is rejected, then the aggregate promise is * rejected with the encountered rejection." />
@@ -50,12 +51,11 @@
       <item value="This option controls console cyclic buffer: keeps the console output size not higher than the specified buffer size (Kb). # Older lines are deleted. In order to disable cycle buffer use idea.cycle.buffer.size=disabled #-" />
       <item value="Maximum file size (kilobytes) IDE should provide code assistance for. # The larger file is the slower its editor works and higher overall system memory requirements are # if code assistance is enabled. Remove this property or set to very large number if you need # code assistance for any files available regardless their size. #-" />
       <item value="There are two possible values of idea.popup.weight property: &quot;heavy&quot; and &quot;medium&quot;. # If you have WM configured as &quot;Focus follows mouse with Auto Raise&quot; then you have to # set this property to &quot;medium&quot;. It prevents problems with popup menus on some # configurations." />
-      <item value="Git over SSH operations are disabled during our DB upgrade ============================================================================= Could not read from remote repository. Please make sure you have the correct access rights and the repository exists" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="387" />
-        <entry key="RUSSIAN" value="387" />
+        <entry key="ENGLISH" value="388" />
+        <entry key="RUSSIAN" value="388" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
