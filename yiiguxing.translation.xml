@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="совпадения" />
       <item value="очистка" />
       <item value="обнуление" />
       <item value="Add repository for class" />
@@ -50,12 +51,11 @@
       <item value="ruflin/elastica suggests installing egeloen/http-adapter (Allow using httpadapter transport)" />
       <item value="laravel.emergency: unable to create configured logger. using emergency logger." />
       <item value="Could provoke a PHP Fatal error (cannot use string offset as an array)." />
-      <item value="Set swing.bufferPerWindow=false to workaround a slow scrolling in JDK6 (see IDEA-35883), # But this may lead to performance degradation in JDK8, because it disables a double buffering, # which is needed to eliminate tearing on blit-accelerated scrolling and to restore # a frame buffer content without the usual repainting, even when the EDT is blocked. #-" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="394" />
-        <entry key="RUSSIAN" value="394" />
+        <entry key="ENGLISH" value="396" />
+        <entry key="RUSSIAN" value="396" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
