@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="перестраховаться" />
+      <item value="перестраховываемся" />
       <item value="поле не может быть пустым" />
       <item value="совпадения" />
       <item value="очистка" />
@@ -49,13 +51,11 @@
       <item value="object mapping for [context] tried to parse field [null] as object, but found a concrete value" />
       <item value="as the final mapping would have more than 1 type: [record, doc]&quot;" />
       <item value="Package guzzlehttp/streams is abandoned, you should avoid using it. No replacement was suggested." />
-      <item value="ruflin/elastica suggests installing egeloen/http-adapter (Allow using httpadapter transport)" />
-      <item value="laravel.emergency: unable to create configured logger. using emergency logger." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="398" />
-        <entry key="RUSSIAN" value="399" />
+        <entry key="RUSSIAN" value="400" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
