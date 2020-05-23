@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ERROR: Removing network for build" />
+      <item value="WARNING: You most probably have uncommitted changes. WARNING: These changes will not be tested. " />
       <item value="перестраховаться" />
       <item value="перестраховываемся" />
       <item value="поле не может быть пустым" />
@@ -49,8 +51,6 @@
       <item value="месяц" />
       <item value="mouth" />
       <item value="object mapping for [context] tried to parse field [null] as object, but found a concrete value" />
-      <item value="as the final mapping would have more than 1 type: [record, doc]&quot;" />
-      <item value="Package guzzlehttp/streams is abandoned, you should avoid using it. No replacement was suggested." />
     </histories>
     <option name="languageScores">
       <map>
