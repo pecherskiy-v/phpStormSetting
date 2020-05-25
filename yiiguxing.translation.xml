@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Срок жизни заявки истек" />
+      <item value="Retrieve an item from the cache and delete it." />
+      <item value="Retrieve an item from the cache by key." />
       <item value="Method call is provided 1 parameters, but the method signature uses 0 parameters" />
       <item value="перечисление" />
       <item value="перечистелние" />
@@ -45,17 +48,14 @@
       <item value="Get an item from the cache, or execute the given Closure and store the result forever." />
       <item value="Store an item in the cache if the key does not exist." />
       <item value="Store an item in the cache." />
-      <item value="Retrieve an item from the cache and delete it." />
       <item value="B 2 P LK LINK" />
       <item value="Attribute charset is not allowed here Inspection info: This inspection highlights unknown HTML tag attributes as invalid, and lets mark such attributes as Custom to avoid highlighting them as invalid." />
       <item value="send register complite" />
-      <item value="вычисление" />
-      <item value="refund" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="402" />
-        <entry key="RUSSIAN" value="403" />
+        <entry key="ENGLISH" value="405" />
+        <entry key="RUSSIAN" value="406" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
