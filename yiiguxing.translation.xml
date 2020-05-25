@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="промежуточный ответ" />
       <item value="загружен" />
       <item value="отправлен" />
       <item value="processed" />
@@ -50,13 +51,12 @@
       <item value="задание к выполнению" />
       <item value="завершить" />
       <item value="* Computes the difference of arrays by using a callback function for data comparison" />
-      <item value="[EA] This loop does not loop." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="414" />
+        <entry key="ENGLISH" value="415" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="414" />
+        <entry key="RUSSIAN" value="415" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
