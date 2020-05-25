@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="перечисление" />
+      <item value="перечистелние" />
       <item value="calculation" />
       <item value="расчет" />
       <item value="расчяет" />
@@ -49,12 +51,10 @@
       <item value="вычисление" />
       <item value="refund" />
       <item value="возврат" />
-      <item value="приход" />
-      <item value="Creates a sum mathematical expression with the given arguments. * First argument is considered the left expression and the second is the right expression. * When converted to string, it will generated a &lt;left expr&gt; + &lt;right expr&gt;. Example:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="401" />
+        <entry key="ENGLISH" value="402" />
         <entry key="RUSSIAN" value="402" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
