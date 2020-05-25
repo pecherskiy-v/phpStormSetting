@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Срок жизни заявки истек" />
       <item value="Retrieve an item from the cache and delete it." />
+      <item value="Срок жизни заявки истек" />
       <item value="Retrieve an item from the cache by key." />
       <item value="Method call is provided 1 parameters, but the method signature uses 0 parameters" />
       <item value="перечисление" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="405" />
+        <entry key="ENGLISH" value="406" />
         <entry key="RUSSIAN" value="406" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
