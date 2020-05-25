@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Method call is provided 1 parameters, but the method signature uses 0 parameters" />
       <item value="перечисление" />
       <item value="перечистелние" />
       <item value="calculation" />
@@ -50,12 +51,11 @@
       <item value="send register complite" />
       <item value="вычисление" />
       <item value="refund" />
-      <item value="возврат" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="402" />
-        <entry key="RUSSIAN" value="402" />
+        <entry key="RUSSIAN" value="403" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
