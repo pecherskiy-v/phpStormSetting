@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Message" />
       <item value="накопительная Комиссия" />
       <item value="накопительная Коммисия" />
       <item value="промежуточный ответ" />
@@ -50,13 +51,12 @@
       <item value="ATTACH" />
       <item value="уровень в работу" />
       <item value="задание в работу" />
-      <item value="задание к выполнению" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="416" />
+        <entry key="ENGLISH" value="417" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="416" />
+        <entry key="RUSSIAN" value="417" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
