@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Entity" />
       <item value="Message" />
       <item value="накопительная Комиссия" />
       <item value="накопительная Коммисия" />
@@ -50,13 +51,12 @@
       <item value="Appends fulfillment and rejection handlers to the promise, and returns * a new promise resolving to the return value of the called handler." />
       <item value="ATTACH" />
       <item value="уровень в работу" />
-      <item value="задание в работу" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="417" />
+        <entry key="ENGLISH" value="418" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="417" />
+        <entry key="RUSSIAN" value="418" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
