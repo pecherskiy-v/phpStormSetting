@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Сотрудник" />
+      <item value="пустышка" />
+      <item value="пустишка" />
       <item value="промежуточный" />
       <item value="промедутойный" />
       <item value="в процесе отправке" />
@@ -48,15 +51,12 @@
       <item value="Invoked when the promise fulfills." />
       <item value="* Returns true if a promise is fulfilled." />
       <item value="Like each_limit, but ensures that no promise in the given $iterable argument * is rejected. If any promise is rejected, then the aggregate promise is * rejected with the encountered rejection." />
-      <item value="Initiate a competitive race between multiple promises or values (values will * become immediately fulfilled promises). * * When count amount of promises have been fulfilled, the returned promise is * fulfilled with an array that contains the fulfillment values of the winners * in order of resolution." />
-      <item value="Given an array of promises, return a promise that is fulfilled when all the * items in the array are fulfilled. * * The promise's fulfillment value is an array with fulfillment values at * respective positions to the original array. If any promise in the array * rejects, the returned promise is rejected with the rejection reason." />
-      <item value="Return type declaration must be compatible with CreditFlowInterface-&gt;attachmentD" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="421" />
+        <entry key="ENGLISH" value="423" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="421" />
+        <entry key="RUSSIAN" value="423" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
