@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Добавленно" />
       <item value="Заявка в процессе отправки" />
       <item value="Заявка в просеве отправки" />
       <item value="PROCCES" />
@@ -50,13 +51,12 @@
       <item value="Returns a promise that is fulfilled when all of the provided promises have * been fulfilled or rejected. * * The returned promise is fulfilled with an array of inspection state arrays." />
       <item value="Waits until the promise completes if possible. * * Pass $unwrap as true to unwrap the result of the promise, either * returning the resolved value or throwing the rejected exception. * * If the promise cannot be waited on, then the promise will be rejected. *" />
       <item value="Waits on all of the provided promises and returns the fulfilled values. * * Returns an array that contains the value of each promise (in the same order * the promises were provided). An exception is thrown if any of the promises * are rejected." />
-      <item value="PENDING" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="425" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="426" />
+        <entry key="RUSSIAN" value="427" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
