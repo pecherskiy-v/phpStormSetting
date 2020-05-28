@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Заявка в процессе отправки" />
+      <item value="Заявка в просеве отправки" />
+      <item value="PROCCES" />
       <item value="Сотрудник" />
       <item value="пустышка" />
       <item value="пустишка" />
@@ -48,15 +51,12 @@
       <item value="Waits until the promise completes if possible. * * Pass $unwrap as true to unwrap the result of the promise, either * returning the resolved value or throwing the rejected exception. * * If the promise cannot be waited on, then the promise will be rejected. *" />
       <item value="Waits on all of the provided promises and returns the fulfilled values. * * Returns an array that contains the value of each promise (in the same order * the promises were provided). An exception is thrown if any of the promises * are rejected." />
       <item value="PENDING" />
-      <item value="Invoked when the promise fulfills." />
-      <item value="* Returns true if a promise is fulfilled." />
-      <item value="Like each_limit, but ensures that no promise in the given $iterable argument * is rejected. If any promise is rejected, then the aggregate promise is * rejected with the encountered rejection." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="423" />
+        <entry key="ENGLISH" value="425" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="423" />
+        <entry key="RUSSIAN" value="426" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
