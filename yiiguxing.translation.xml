@@ -1,13 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Schedule the event to run monthly on a given day and time." />
+      <item value="* Schedule the event to run daily at a given time (10:00, 19:30, etc)." />
+      <item value="* Schedule the event to run between start and end time." />
+      <item value="* Schedule the event to run hourly at a given offset in the hour." />
       <item value="INTERNATIONAL and NATIONAL formats are consistent with the definition in ITU-T Recommendation * E123. For example, the number of the Google Switzerland office will be written as * &quot;+41 44 668 1800&quot; in INTERNATIONAL format, and as &quot;044 668 1800&quot; in NATIONAL format. * E164 format is as per INTERNATIONAL format but with no formatting applied, e.g. * &quot;+41446681800&quot;. RFC3966 is as per INTERNATIONAL format, but with all spaces and other * separating symbols replaced with a hyphen, and with any phone number extension appended with * &quot;;ext=&quot;. It also will have a prefix of &quot;tel:&quot; added, e.g. &quot;tel:+41-44-668-1800&quot;." />
       <item value="Cannot handle token prior to 2020-06-02T14:57:18+0300" />
       <item value="This condition is ambiguous and can be safely removed." />
-      <item value="* Schedule the event to run daily at a given time (10:00, 19:30, etc)." />
       <item value="* Schedule the command at a given time." />
       <item value="* Schedule the event to run daily." />
-      <item value="* Schedule the event to run hourly at a given offset in the hour." />
       <item value="* Schedule the event to run hourly." />
       <item value="* Schedule the event to not run between start and end time." />
       <item value="Добавленно" />
@@ -49,14 +51,12 @@
       <item value="math" />
       <item value="Composer packages were changed. PHP_CodeSniffer config was updated according to composer.json" />
       <item value="ERROR: Removing network for build" />
-      <item value="WARNING: You most probably have uncommitted changes. WARNING: These changes will not be tested. " />
-      <item value="перестраховаться" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="432" />
+        <entry key="ENGLISH" value="436" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="432" />
+        <entry key="RUSSIAN" value="436" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
