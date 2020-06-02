@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot handle token prior to 2020-06-02T14:57:18+0300" />
       <item value="This condition is ambiguous and can be safely removed." />
       <item value="* Schedule the event to run daily at a given time (10:00, 19:30, etc)." />
       <item value="* Schedule the command at a given time." />
@@ -50,7 +51,6 @@
       <item value="WARNING: You most probably have uncommitted changes. WARNING: These changes will not be tested. " />
       <item value="перестраховаться" />
       <item value="перестраховываемся" />
-      <item value="поле не может быть пустым" />
     </histories>
     <option name="languageScores">
       <map>
