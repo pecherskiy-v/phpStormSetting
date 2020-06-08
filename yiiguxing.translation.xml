@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="валидирам" />
+      <item value="валидируем" />
       <item value="This statement seems to be disconnected from its parent foreach." />
       <item value="* Schedule the event to run monthly on a given day and time." />
       <item value="* Schedule the event to run daily at a given time (10:00, 19:30, etc)." />
@@ -49,12 +51,11 @@
       <item value="calculation" />
       <item value="расчет" />
       <item value="расчяет" />
-      <item value="math" />
-      <item value="Composer packages were changed. PHP_CodeSniffer config was updated according to composer.json" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="436" />
+        <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="437" />
         <entry key="ROMANIAN" value="4" />
