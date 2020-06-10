@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="восстановление" />
+      <item value="восстаноление" />
       <item value="Can be converted into if-branch (clearer intention, lower complexity numbers)" />
       <item value="восстановления" />
       <item value="востановления" />
@@ -49,15 +51,13 @@
       <item value="Simulete" />
       <item value="Retrieve an item from the cache and delete it." />
       <item value="Срок жизни заявки истек" />
-      <item value="Retrieve an item from the cache by key." />
-      <item value="Method call is provided 1 parameters, but the method signature uses 0 parameters" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="437" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="439" />
+        <entry key="RUSSIAN" value="440" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
