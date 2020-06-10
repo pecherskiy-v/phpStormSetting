@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="пользователь" />
+      <item value="внешний" />
+      <item value="внутренний" />
+      <item value="внутрений" />
       <item value="восстановление" />
       <item value="восстаноление" />
       <item value="Can be converted into if-branch (clearer intention, lower complexity numbers)" />
@@ -47,17 +51,13 @@
       <item value="simulate" />
       <item value="имитирую" />
       <item value="имитирующий" />
-      <item value="Simulere" />
-      <item value="Simulete" />
-      <item value="Retrieve an item from the cache and delete it." />
-      <item value="Срок жизни заявки истек" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="437" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="440" />
+        <entry key="RUSSIAN" value="445" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
