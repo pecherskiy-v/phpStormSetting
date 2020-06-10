@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Can be converted into if-branch (clearer intention, lower complexity numbers)" />
       <item value="восстановления" />
       <item value="востановления" />
       <item value="PHPDoc for non-existing argument" />
@@ -50,7 +51,6 @@
       <item value="Срок жизни заявки истек" />
       <item value="Retrieve an item from the cache by key." />
       <item value="Method call is provided 1 parameters, but the method signature uses 0 parameters" />
-      <item value="перечисление" />
     </histories>
     <option name="languageScores">
       <map>
