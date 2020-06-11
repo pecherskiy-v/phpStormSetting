@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Невозможно аннулирован данный счет" />
+      <item value="не разрешено" />
+      <item value="NOT ALLOWED" />
+      <item value="PAYMENT VOID NOT ALLOWED" />
+      <item value="PAYMENT VOID NOT ALOWED" />
       <item value="SALE POINT" />
       <item value="&quot;Try to select a different channel to block&quot;," />
       <item value="пользователь" />
@@ -46,18 +51,13 @@
       <item value="промежуточный ответ" />
       <item value="загружен" />
       <item value="отправлен" />
-      <item value="processed" />
-      <item value="обрабатывается" />
-      <item value="process" />
-      <item value="proccess" />
-      <item value="simulate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="440" />
+        <entry key="ENGLISH" value="444" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="445" />
+        <entry key="RUSSIAN" value="447" />
         <entry key="ROMANIAN" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
