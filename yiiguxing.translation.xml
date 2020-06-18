@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="проверяемое" />
       <item value="Failed asserting that an array has the key 'data.number'." />
       <item value="Potentially polymorphic call. The code may be inoperable depending on the actual class instance passed as the argument." />
       <item value="Зборака" />
@@ -50,14 +51,13 @@
       <item value="промедутойный" />
       <item value="в процесе отправке" />
       <item value="SUBMITTED" />
-      <item value="Entity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="448" />
+        <entry key="ENGLISH" value="449" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="448" />
+        <entry key="RUSSIAN" value="449" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SERBIAN" value="1" />
         <entry key="TURKISH" value="1" />
