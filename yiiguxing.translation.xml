@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="необходимо сменить пароль" />
+      <item value="необходимо сменить парорль" />
       <item value="BLOCKED Ch ANGE PASSWODR" />
       <item value="проверяемое" />
       <item value="Failed asserting that an array has the key 'data.number'." />
@@ -49,15 +51,13 @@
       <item value="пустышка" />
       <item value="пустишка" />
       <item value="промежуточный" />
-      <item value="промедутойный" />
-      <item value="в процесе отправке" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="450" />
+        <entry key="ENGLISH" value="451" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="450" />
+        <entry key="RUSSIAN" value="452" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SERBIAN" value="1" />
         <entry key="TURKISH" value="1" />
