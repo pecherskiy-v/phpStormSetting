@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Code Quality" />
+      <item value="inner" />
       <item value="for" />
       <item value="from" />
       <item value="Transaction (Process ID 87) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction." />
@@ -49,15 +51,13 @@
       <item value="* Schedule the event to not run between start and end time." />
       <item value="Добавленно" />
       <item value="Заявка в процессе отправки" />
-      <item value="Заявка в просеве отправки" />
-      <item value="PROCCES" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="452" />
+        <entry key="ENGLISH" value="454" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="453" />
+        <entry key="RUSSIAN" value="454" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SERBIAN" value="1" />
         <entry key="TURKISH" value="1" />
