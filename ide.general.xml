@@ -12,7 +12,11 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="Encoding" value="false" />
+        <entry key="LineSeparator" value="false" />
         <entry key="Memory" value="true" />
+        <entry key="cn.yiiguxing.plugin.translate.ui.TranslatorWidget" value="false" />
+        <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
         <entry key="mtStatusBar" value="false" />
       </map>
     </option>

@@ -1,6 +1,43 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Пустые свойства запрещены" />
+      <item value="название свойства не может быть пустым" />
+      <item value="Название свойства не может быть пустым" />
+      <item value="пустые свойства запрещены" />
+      <item value="имя не может быть пустым" />
+      <item value="имя не божет быть пустым" />
+      <item value="PROPERTY NAME NOT bey EMPTY" />
+      <item value="PROPERTY NAME NOT by EMPTY" />
+      <item value="PROPERTY NAME DO NOT EMPTY" />
+      <item value="PROPRTY NAME DO NOT EMPTY" />
+      <item value="конкретное" />
+      <item value="конткретное" />
+      <item value="bind with Legal Entity" />
+      <item value="bind a Legal Entity" />
+      <item value="bind for Legal Entity" />
+      <item value="bind" />
+      <item value="связать" />
+      <item value="привязать" />
+      <item value="properties" />
+      <item value="propertys" />
+      <item value="контракты" />
+      <item value="реквизиты" />
+      <item value="structure" />
+      <item value="организация к которой привязывается" />
+      <item value="и любые другие подразделения" />
+      <item value="и людые другие подразделения" />
+      <item value="юридическо лицо" />
+      <item value="юредическо лидо" />
+      <item value="property" />
+      <item value="Реквизиты" />
+      <item value="Реквезиты" />
+      <item value="Дочернии подразделения" />
+      <item value="legal entity" />
+      <item value="юридическое лицо" />
+      <item value="юредическое лицо" />
+      <item value="architecture" />
+      <item value="arhitecture" />
       <item value="Code Quality" />
       <item value="inner" />
       <item value="for" />
@@ -14,50 +51,13 @@
       <item value="Failed asserting that an array has the key 'data.number'." />
       <item value="Potentially polymorphic call. The code may be inoperable depending on the actual class instance passed as the argument." />
       <item value="Зборака" />
-      <item value="deferred" />
-      <item value="Dealer center not found" />
-      <item value="Dialer center not found" />
-      <item value="Невозможно аннулирован данный счет" />
-      <item value="не разрешено" />
-      <item value="NOT ALLOWED" />
-      <item value="PAYMENT VOID NOT ALLOWED" />
-      <item value="PAYMENT VOID NOT ALOWED" />
-      <item value="SALE POINT" />
-      <item value="&quot;Try to select a different channel to block&quot;," />
-      <item value="пользователь" />
-      <item value="внешний" />
-      <item value="внутренний" />
-      <item value="внутрений" />
-      <item value="восстановление" />
-      <item value="восстаноление" />
-      <item value="Can be converted into if-branch (clearer intention, lower complexity numbers)" />
-      <item value="восстановления" />
-      <item value="востановления" />
-      <item value="PHPDoc for non-existing argument" />
-      <item value="restore Password" />
-      <item value="валидирам" />
-      <item value="валидируем" />
-      <item value="This statement seems to be disconnected from its parent foreach." />
-      <item value="* Schedule the event to run monthly on a given day and time." />
-      <item value="* Schedule the event to run daily at a given time (10:00, 19:30, etc)." />
-      <item value="* Schedule the event to run between start and end time." />
-      <item value="* Schedule the event to run hourly at a given offset in the hour." />
-      <item value="INTERNATIONAL and NATIONAL formats are consistent with the definition in ITU-T Recommendation * E123. For example, the number of the Google Switzerland office will be written as * &quot;+41 44 668 1800&quot; in INTERNATIONAL format, and as &quot;044 668 1800&quot; in NATIONAL format. * E164 format is as per INTERNATIONAL format but with no formatting applied, e.g. * &quot;+41446681800&quot;. RFC3966 is as per INTERNATIONAL format, but with all spaces and other * separating symbols replaced with a hyphen, and with any phone number extension appended with * &quot;;ext=&quot;. It also will have a prefix of &quot;tel:&quot; added, e.g. &quot;tel:+41-44-668-1800&quot;." />
-      <item value="Cannot handle token prior to 2020-06-02T14:57:18+0300" />
-      <item value="This condition is ambiguous and can be safely removed." />
-      <item value="* Schedule the command at a given time." />
-      <item value="* Schedule the event to run daily." />
-      <item value="* Schedule the event to run hourly." />
-      <item value="* Schedule the event to not run between start and end time." />
-      <item value="Добавленно" />
-      <item value="Заявка в процессе отправки" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="454" />
+        <entry key="ENGLISH" value="466" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="454" />
+        <entry key="RUSSIAN" value="467" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SERBIAN" value="1" />
         <entry key="TURKISH" value="1" />
