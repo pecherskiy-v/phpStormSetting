@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="МУЛЬТИ РЕЗУЛЬТАТ ПО КРИТЕРИям" />
+      <item value="MULTI RESULT BY CRITERIA" />
+      <item value="критерий поиска" />
+      <item value="критерий посика" />
+      <item value="bind" />
       <item value="prepare" />
       <item value="Illuminate\Contracts\Container\BindingResolutionException : Target [Doctrine\ORM\EntityManagerInterface] is not instantiable." />
       <item value="Causes reflection errors as the referenced class is final." />
@@ -25,7 +30,6 @@
       <item value="bind with Legal Entity" />
       <item value="bind a Legal Entity" />
       <item value="bind for Legal Entity" />
-      <item value="bind" />
       <item value="связать" />
       <item value="привязать" />
       <item value="properties" />
@@ -47,17 +51,13 @@
       <item value="юредическое лицо" />
       <item value="architecture" />
       <item value="arhitecture" />
-      <item value="Code Quality" />
-      <item value="inner" />
-      <item value="for" />
-      <item value="from" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="469" />
+        <entry key="ENGLISH" value="473" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="469" />
+        <entry key="RUSSIAN" value="473" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SERBIAN" value="1" />
         <entry key="TURKISH" value="1" />
