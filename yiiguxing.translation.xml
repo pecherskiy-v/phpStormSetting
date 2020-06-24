@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="[Semantical Error] line 0, col 59 near 'sector IS NOT': Error: Cannot add having condition on undefined result variable." />
       <item value="column" />
       <item value="архитектура" />
       <item value="deprecated" />
@@ -50,14 +51,13 @@
       <item value="property" />
       <item value="Реквизиты" />
       <item value="Реквезиты" />
-      <item value="Дочернии подразделения" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="477" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="477" />
+        <entry key="RUSSIAN" value="478" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SERBIAN" value="1" />
         <entry key="TURKISH" value="1" />
