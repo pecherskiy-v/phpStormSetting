@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="не привязанные свойства." />
+      <item value="не привязаные свойтва." />
+      <item value="clean" />
+      <item value="проверка на дублирование добавление" />
+      <item value="проверка на дубюлированое добавление" />
+      <item value="Дублирование свойства" />
+      <item value="Дублирвоание свойства" />
+      <item value="[EA] This statement seems to be disconnected from its parent foreach." />
       <item value="[Semantical Error] line 0, col 59 near 'sector IS NOT': Error: Cannot add having condition on undefined result variable." />
       <item value="column" />
       <item value="архитектура" />
@@ -43,21 +51,13 @@
       <item value="контракты" />
       <item value="реквизиты" />
       <item value="structure" />
-      <item value="организация к которой привязывается" />
-      <item value="и любые другие подразделения" />
-      <item value="и людые другие подразделения" />
-      <item value="юридическо лицо" />
-      <item value="юредическо лидо" />
-      <item value="property" />
-      <item value="Реквизиты" />
-      <item value="Реквезиты" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="477" />
+        <entry key="ENGLISH" value="481" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="478" />
+        <entry key="RUSSIAN" value="481" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SERBIAN" value="1" />
         <entry key="TURKISH" value="1" />
