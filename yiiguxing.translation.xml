@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subsidiari" />
       <item value="$criteia" />
       <item value="This assertion can probably be skipped (argument implicitly declares return type)." />
       <item value="delete" />
       <item value="delet" />
-      <item value="subsidiari" />
       <item value="выделенню" />
       <item value="* Creates an ANY() function expression with the given DQL subquery." />
       <item value="* Creates a SOME() function expression with the given DQL subquery." />
@@ -60,7 +60,7 @@
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="485" />
         <entry key="ROMANIAN" value="4" />
-        <entry key="MALAY" value="1" />
+        <entry key="MALAY" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SERBIAN" value="1" />
         <entry key="TURKISH" value="1" />
