@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Uncaught ErrorException" />
       <item value="$TEST" />
       <item value="Purchase" />
       <item value="одобренный" />
@@ -50,15 +51,14 @@
       <item value="bind" />
       <item value="prepare" />
       <item value="Illuminate\Contracts\Container\BindingResolutionException : Target [Doctrine\ORM\EntityManagerInterface] is not instantiable." />
-      <item value="Causes reflection errors as the referenced class is final." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="497" />
+        <entry key="ENGLISH" value="498" />
         <entry key="ALBANIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="497" />
+        <entry key="RUSSIAN" value="498" />
         <entry key="DUTCH" value="2" />
         <entry key="ROMANIAN" value="4" />
         <entry key="MALAY" value="2" />
