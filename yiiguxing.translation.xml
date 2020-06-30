@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="restore" />
+      <item value="Deleted" />
+      <item value="$soft Deleted" />
       <item value="дата начала действия комиссии" />
       <item value="дата начала действия коммисии" />
       <item value="дата начала действия" />
@@ -48,17 +51,14 @@
       <item value="SQLSTATE[HYT00]: [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired" />
       <item value="An exception occurred while executing 'ALTER TABLE dc_product ADD CONSTRAINT FK_9C484BA46905BD9B FOREIGN KEY (subsidiaries_id) REFE     RENCES subsidiaries (id) ON DELETE CASCADE':                                                                                                                                                                                                                                    SQLSTATE[42000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Introducing FOREIGN KEY constraint 'FK_9C484BA46905BD9B' on      table 'dc_product' may cause cycles or multiple cascade paths. Specify ON DELETE NO ACTION or ON UPDATE NO ACTION, or modify other      FOREIGN KEY constraints." />
       <item value="WARNING! You are about to add, delete or synchronize migration versions from the version table that could result in data lost. Are you sure you wish to continue? (y/n) (yes/no) " />
-      <item value="WARNING! You have previously executed migrations in the database that are not registered migrations. " />
-      <item value="Could not scan for classes inside &quot;src/database/factories&quot; which does not appear to be a file nor a folder " />
-      <item value="Пустые свойства запрещены" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="491" />
+        <entry key="ENGLISH" value="494" />
         <entry key="ALBANIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="492" />
+        <entry key="RUSSIAN" value="494" />
         <entry key="DUTCH" value="2" />
         <entry key="ROMANIAN" value="4" />
         <entry key="MALAY" value="2" />
