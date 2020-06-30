@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ошибка целостности данных" />
       <item value="Договор эквайринга не найдена" />
       <item value="legal Entityes" />
       <item value="recursive" />
@@ -50,15 +51,14 @@
       <item value="МУЛЬТИ РЕЗУЛЬТАТ ПО КРИТЕРИям" />
       <item value="MULTI RESULT BY CRITERIA" />
       <item value="критерий поиска" />
-      <item value="критерий посика" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="501" />
+        <entry key="ENGLISH" value="502" />
         <entry key="ALBANIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="502" />
+        <entry key="RUSSIAN" value="503" />
         <entry key="DUTCH" value="2" />
         <entry key="ROMANIAN" value="4" />
         <entry key="MALAY" value="2" />
