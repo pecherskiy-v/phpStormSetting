@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Вы не зарегистрированы в системе. обратитесь в банк." />
+      <item value="не зарегистрирован в системе" />
+      <item value="не зарегестрироване в системе" />
+      <item value="NOT REGISTERed IN SYSTEM" />
+      <item value="NOT REGISTE Red IN SYSTEM" />
+      <item value="NOT REGISTERed ON SYSTEM" />
+      <item value="NOT REGISTE Red ON SYSTEM" />
+      <item value="NOT REGISTE Rer ON SYSTEM" />
+      <item value="NOT REGISTERED ON SYSTEM" />
+      <item value="NOT REGISTER ON SYSTEM" />
+      <item value="Вы не зарегестрированы в ситеме. обратитесь в банк." />
       <item value="если аннулирован" />
       <item value="This condition execution costs less than the previous one." />
       <item value="Ошибка целостности данных" />
@@ -40,25 +51,14 @@
       <item value="не привязаные свойтва." />
       <item value="clean" />
       <item value="проверка на дублирование добавление" />
-      <item value="проверка на дубюлированое добавление" />
-      <item value="Дублирование свойства" />
-      <item value="Дублирвоание свойства" />
-      <item value="[EA] This statement seems to be disconnected from its parent foreach." />
-      <item value="[Semantical Error] line 0, col 59 near 'sector IS NOT': Error: Cannot add having condition on undefined result variable." />
-      <item value="column" />
-      <item value="архитектура" />
-      <item value="deprecated" />
-      <item value="preparation" />
-      <item value="подготовка" />
-      <item value="МУЛЬТИ РЕЗУЛЬТАТ ПО КРИТЕРИям" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="502" />
+        <entry key="ENGLISH" value="511" />
         <entry key="ALBANIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="504" />
+        <entry key="RUSSIAN" value="511" />
         <entry key="DUTCH" value="2" />
         <entry key="ROMANIAN" value="4" />
         <entry key="MALAY" value="2" />
