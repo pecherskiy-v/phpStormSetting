@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="есть строка комиссии." />
+      <item value="есть строка комисcии." />
       <item value="RESOLVE" />
       <item value="HEADER" />
       <item value="HEADER RESOLVE" />
@@ -49,8 +51,6 @@
       <item value="subsidiari" />
       <item value="$criteia" />
       <item value="This assertion can probably be skipped (argument implicitly declares return type)." />
-      <item value="delete" />
-      <item value="delet" />
     </histories>
     <option name="languageScores">
       <map>
@@ -58,7 +58,7 @@
         <entry key="ALBANIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="516" />
+        <entry key="RUSSIAN" value="518" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="2" />
         <entry key="ROMANIAN" value="4" />
