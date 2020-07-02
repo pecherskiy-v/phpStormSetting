@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Potentially polymorphic call. The code may be inoperable depending on the actual class instance passed as the argument" />
       <item value="есть строка комиссии." />
       <item value="есть строка комисcии." />
       <item value="RESOLVE" />
@@ -50,7 +51,6 @@
       <item value="The ordering direction." />
       <item value="subsidiari" />
       <item value="$criteia" />
-      <item value="This assertion can probably be skipped (argument implicitly declares return type)." />
     </histories>
     <option name="languageScores">
       <map>
