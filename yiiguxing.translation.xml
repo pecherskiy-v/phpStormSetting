@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Resolved operands types are not complimentary, while they should be ([bool, string, array] vs [int])." />
       <item value="prepare" />
       <item value="имя найдено" />
       <item value="Вы не зарегистрированы в системе. обратитесь в банк." />
@@ -50,7 +51,6 @@
       <item value="* Creates an ANY() function expression with the given DQL subquery." />
       <item value="* Creates a SOME() function expression with the given DQL subquery." />
       <item value="не привязанные свойства." />
-      <item value="не привязаные свойтва." />
     </histories>
     <option name="languageScores">
       <map>
@@ -58,7 +58,7 @@
         <entry key="ALBANIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="513" />
+        <entry key="RUSSIAN" value="514" />
         <entry key="DUTCH" value="2" />
         <entry key="ROMANIAN" value="4" />
         <entry key="MALAY" value="2" />
