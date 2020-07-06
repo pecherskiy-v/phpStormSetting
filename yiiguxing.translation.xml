@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Creates a SUBSTRING() function expression with the given arguments." />
       <item value="Dst refspec ARM-2.16.2 matches more than one &#9;&#9;&#9;failed to push some refs to 'gitlab.com:toyota-bank/credit-request-frontend.git'" />
       <item value="не определен" />
       <item value="Potentially polymorphic call. The code may be inoperable depending on the actual class instance passed as the argument" />
@@ -50,11 +51,10 @@
       <item value="subsidiaries" />
       <item value="Unable to create a proxy for a final class &quot;App\Entities\OrgStructure\LegalEntity&quot;." />
       <item value="[Semantical Error] line 0, col 83 near 'sector': Error: 'sector' is not defined." />
-      <item value="The ordering direction." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="516" />
+        <entry key="ENGLISH" value="517" />
         <entry key="ALBANIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
