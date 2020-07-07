@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SQLSTATE[42000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The ORDER BY clause is invalid in views, inline functions, derived tables, subqueries, and common table expressions, unless TOP, OFFSET or FOR XML is also specified." />
       <item value="Аннулированный" />
       <item value="Анулированный" />
       <item value="Error!!! Possible recursion detected (element 'IncomeInfo'). Please correct your schema and try again." />
@@ -50,7 +51,6 @@
       <item value="SUBSIDIARIES" />
       <item value="$subsidiary" />
       <item value="$subsidiarie" />
-      <item value="$subsidiariety" />
     </histories>
     <option name="languageScores">
       <map>
