@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="[S0001][145] ORDER BY items must appear in the select list if SELECT DISTINCT is specified." />
+      <item value="[S0001][8120] Column 'operations.order_state' is invalid in the select list because it is not contained in either an aggregate function or the GROUP BY clause." />
       <item value="There is a field with the same name, but its type can not be resolved." />
       <item value="Sets a map of custom DQL string functions. * * Keys must be function names and values the FQCN of the implementing class. * The function names will be case-insensitive in DQL. * * Any previously added string functions are discarded. *" />
       <item value="SQLSTATE[42000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The ORDER BY clause is invalid in views, inline functions, derived tables, subqueries, and common table expressions, unless TOP, OFFSET or FOR XML is also specified." />
@@ -49,8 +51,6 @@
       <item value="дата начала действия коммисии" />
       <item value="дата начала действия" />
       <item value="Договор Эквайринга" />
-      <item value="Договор Экваринга" />
-      <item value="SUBSIDIARIES" />
     </histories>
     <option name="languageScores">
       <map>
