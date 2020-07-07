@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Аннулированный" />
+      <item value="Анулированный" />
       <item value="Error!!! Possible recursion detected (element 'IncomeInfo'). Please correct your schema and try again." />
       <item value="* Creates a SUBSTRING() function expression with the given arguments." />
       <item value="Dst refspec ARM-2.16.2 matches more than one &#9;&#9;&#9;failed to push some refs to 'gitlab.com:toyota-bank/credit-request-frontend.git'" />
@@ -49,8 +51,6 @@
       <item value="$subsidiary" />
       <item value="$subsidiarie" />
       <item value="$subsidiariety" />
-      <item value="subsidiaries" />
-      <item value="Unable to create a proxy for a final class &quot;App\Entities\OrgStructure\LegalEntity&quot;." />
     </histories>
     <option name="languageScores">
       <map>
@@ -58,7 +58,7 @@
         <entry key="ALBANIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="518" />
+        <entry key="RUSSIAN" value="520" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="2" />
         <entry key="ROMANIAN" value="4" />
