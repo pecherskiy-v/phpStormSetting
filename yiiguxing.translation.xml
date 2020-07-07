@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets a map of custom DQL string functions. * * Keys must be function names and values the FQCN of the implementing class. * The function names will be case-insensitive in DQL. * * Any previously added string functions are discarded. *" />
       <item value="SQLSTATE[42000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The ORDER BY clause is invalid in views, inline functions, derived tables, subqueries, and common table expressions, unless TOP, OFFSET or FOR XML is also specified." />
       <item value="Аннулированный" />
       <item value="Анулированный" />
@@ -50,11 +51,10 @@
       <item value="Договор Экваринга" />
       <item value="SUBSIDIARIES" />
       <item value="$subsidiary" />
-      <item value="$subsidiarie" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="517" />
+        <entry key="ENGLISH" value="518" />
         <entry key="ALBANIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
