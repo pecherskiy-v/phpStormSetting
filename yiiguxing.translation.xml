@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="орфография" />
+      <item value="орфограция" />
       <item value="[S0001][116] Only one expression can be specified in the select list when the subquery is not introduced with EXISTS." />
       <item value="[S0001][145] ORDER BY items must appear in the select list if SELECT DISTINCT is specified." />
       <item value="[S0001][8120] Column 'operations.order_state' is invalid in the select list because it is not contained in either an aggregate function or the GROUP BY clause." />
@@ -49,8 +51,6 @@
       <item value="Deleted" />
       <item value="$soft Deleted" />
       <item value="дата начала действия комиссии" />
-      <item value="дата начала действия коммисии" />
-      <item value="дата начала действия" />
     </histories>
     <option name="languageScores">
       <map>
@@ -58,7 +58,7 @@
         <entry key="ALBANIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="520" />
+        <entry key="RUSSIAN" value="521" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="2" />
         <entry key="ROMANIAN" value="4" />
