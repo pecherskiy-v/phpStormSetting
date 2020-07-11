@@ -2,7 +2,7 @@
   <component name="PhpAutoImport" auto_import_file_scope="true" />
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="3f86c903-6b92-4f02-b708-bd82d8dfb831" name="PHP" home="C:\php-7.2.28-Win32-VC15-x64\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="7f1aef75-1de9-45e4-b73e-a71ba9f3383a" name="PHP 7.2.22" home="C:\php-7.2.22-Win32-VC15-x64\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">

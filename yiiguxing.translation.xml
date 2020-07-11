@@ -1,82 +1,35 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="strlen() expects parameter 1 to be string, integer given" />
-      <item value="Null should be used as the default value (nullable types are the goal, right?)" />
-      <item value="орфография" />
-      <item value="орфограция" />
-      <item value="[S0001][116] Only one expression can be specified in the select list when the subquery is not introduced with EXISTS." />
-      <item value="[S0001][145] ORDER BY items must appear in the select list if SELECT DISTINCT is specified." />
-      <item value="[S0001][8120] Column 'operations.order_state' is invalid in the select list because it is not contained in either an aggregate function or the GROUP BY clause." />
-      <item value="There is a field with the same name, but its type can not be resolved." />
-      <item value="Sets a map of custom DQL string functions. * * Keys must be function names and values the FQCN of the implementing class. * The function names will be case-insensitive in DQL. * * Any previously added string functions are discarded. *" />
-      <item value="SQLSTATE[42000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The ORDER BY clause is invalid in views, inline functions, derived tables, subqueries, and common table expressions, unless TOP, OFFSET or FOR XML is also specified." />
-      <item value="Аннулированный" />
-      <item value="Анулированный" />
-      <item value="Error!!! Possible recursion detected (element 'IncomeInfo'). Please correct your schema and try again." />
-      <item value="* Creates a SUBSTRING() function expression with the given arguments." />
-      <item value="Dst refspec ARM-2.16.2 matches more than one &#9;&#9;&#9;failed to push some refs to 'gitlab.com:toyota-bank/credit-request-frontend.git'" />
-      <item value="не определен" />
-      <item value="Potentially polymorphic call. The code may be inoperable depending on the actual class instance passed as the argument" />
-      <item value="есть строка комиссии." />
-      <item value="есть строка комисcии." />
-      <item value="RESOLVE" />
-      <item value="HEADER" />
-      <item value="HEADER RESOLVE" />
-      <item value="HEADER RESOLB" />
-      <item value="Resolved operands types are not complimentary, while they should be ([bool, string, array] vs [int])." />
-      <item value="prepare" />
-      <item value="имя найдено" />
-      <item value="Вы не зарегистрированы в системе. обратитесь в банк." />
-      <item value="не зарегистрирован в системе" />
-      <item value="не зарегестрироване в системе" />
-      <item value="NOT REGISTERed IN SYSTEM" />
-      <item value="NOT REGISTE Red IN SYSTEM" />
-      <item value="NOT REGISTERed ON SYSTEM" />
-      <item value="NOT REGISTE Red ON SYSTEM" />
-      <item value="NOT REGISTE Rer ON SYSTEM" />
-      <item value="NOT REGISTERED ON SYSTEM" />
-      <item value="NOT REGISTER ON SYSTEM" />
-      <item value="Вы не зарегестрированы в ситеме. обратитесь в банк." />
-      <item value="если аннулирован" />
-      <item value="This condition execution costs less than the previous one." />
-      <item value="Ошибка целостности данных" />
-      <item value="Договор эквайринга не найдена" />
-      <item value="legal Entityes" />
-      <item value="recursive" />
-      <item value="Uncaught ErrorException" />
-      <item value="$TEST" />
-      <item value="Purchase" />
-      <item value="одобренный" />
-      <item value="Approved" />
-      <item value="restore" />
-      <item value="Deleted" />
+      <item value="&quot;extendedMessage&quot;: &quot;A class constant must not be called 'class'; it is reserved for class name fetching&quot;," />
+      <item value="If needle is not a string, it is converted to * an integer and applied as the ordinal value of a character. * &lt;/p&gt;" />
+      <item value="Returns all the elements of this collection that satisfy the predicate p. * The order of the elements is preserved. *" />
+      <item value="Applies the given function to each element in the collection and returns * a new collection with the elements returned by the function. *" />
+      <item value="Selects all elements from a selectable that match the expression and * return a new collection containing these elements. *" />
+      <item value="Tests for the existence of an element that satisfies the given predicate." />
+      <item value="Error : Cannot use object of type stdClass as array" />
+      <item value="Object of class Pecherskiy\DocDoc\Client could not be converted to string" />
+      <item value="Pecherskiy\DocDoc\Exceptions\RequiredFieldIsNotSet : The field city is required" />
+      <item value="get_class_vars() expects parameter 1 to be string, object given" />
+      <item value="&quot;extendedMessage&quot;: &quot;A colon cannot be used in an unquoted mapping value at line 31 (near \&quot; data: credit_data\/block_3_part_1_edit.yaml\&quot;).&quot;," />
+      <item value="Expected 1 space before opening brace; found 0" />
+      <item value="Error : Call to a member function getRepository() on null" />
+      <item value="Result of" />
+      <item value="Result of &amp;&amp; is always false." />
+      <item value="ссылка на след страницу" />
+      <item value="// - ссылка на след страницу" />
+      <item value="Review" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="518" />
-        <entry key="ALBANIAN" value="1" />
-        <entry key="BULGARIAN" value="1" />
-        <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="521" />
-        <entry key="FILIPINO" value="1" />
-        <entry key="DUTCH" value="2" />
+        <entry key="ENGLISH" value="229" />
+        <entry key="RUSSIAN" value="233" />
         <entry key="ROMANIAN" value="4" />
-        <entry key="MALAY" value="2" />
-        <entry key="PORTUGUESE" value="1" />
-        <entry key="SERBIAN" value="1" />
-        <entry key="TURKISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
-        <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="" />
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
   </component>
