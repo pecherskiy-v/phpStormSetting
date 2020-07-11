@@ -1,0 +1,8 @@
+<application>
+  <component name="UISettings">
+    <option name="ANIMATE_WINDOWS" value="false" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="smoothScrolling" value="false" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
+  </component>
+</application>

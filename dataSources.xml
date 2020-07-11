@@ -1,10 +1,10 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="sa@localhost" uuid="9fe7e8cc-abe0-4946-8a7f-7432919acf44">
+    <data-source source="LOCAL" name="sa@localhost" single-connection="true" uuid="9fe7e8cc-abe0-4946-8a7f-7432919acf44">
       <driver-ref>sqlserver.ms</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
-      <jdbc-url>jdbc:sqlserver://localhost:1433;database=billingpage</jdbc-url>
+      <jdbc-url>jdbc:sqlserver://mssql:1433</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="Microsoft SQL Server - @192.168.1.220" uuid="de710d12-9f53-4a73-b7ab-6dc0ab646b0c">
       <driver-ref>sqlserver.ms</driver-ref>
