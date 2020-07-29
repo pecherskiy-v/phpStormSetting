@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Register values to be set to a public property each time this expectation occurs" />
+      <item value="* Alias to andSet(). Allows the natural English construct" />
+      <item value="* Indicates the number of times this expectation should occur" />
+      <item value="* Indicates that this expectation is expected exactly once" />
       <item value="dependencies" />
       <item value="subsidiary" />
       <item value="CREDIT REQUEST CS" />
@@ -29,8 +33,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="237" />
-        <entry key="RUSSIAN" value="237" />
+        <entry key="ENGLISH" value="241" />
+        <entry key="RUSSIAN" value="241" />
         <entry key="ROMANIAN" value="4" />
         <entry key="UKRAINIAN" value="2" />
       </map>
