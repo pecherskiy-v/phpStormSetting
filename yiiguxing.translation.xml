@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'calculation' method can be dropped, as it identical to parent's one." />
       <item value="* Register values to be set to a public property each time this expectation occurs" />
       <item value="* Alias to andSet(). Allows the natural English construct" />
       <item value="* Indicates the number of times this expectation should occur" />
@@ -34,7 +35,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="241" />
-        <entry key="RUSSIAN" value="241" />
+        <entry key="RUSSIAN" value="242" />
         <entry key="ROMANIAN" value="4" />
         <entry key="UKRAINIAN" value="2" />
       </map>
