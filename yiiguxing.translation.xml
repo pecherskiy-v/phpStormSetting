@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Exception PDOException: (IMSSP) SQLSTATE[IMSSP]: This function is not implemented by this driver." />
       <item value="программы с запретом на редактирование" />
       <item value="специальные программы" />
       <item value="Введена недопустимая сумма" />
@@ -44,7 +45,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="247" />
-        <entry key="RUSSIAN" value="247" />
+        <entry key="RUSSIAN" value="248" />
         <entry key="ROMANIAN" value="4" />
         <entry key="UKRAINIAN" value="2" />
       </map>
