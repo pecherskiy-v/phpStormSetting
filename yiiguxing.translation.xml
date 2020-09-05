@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Return part of a string" />
       <item value="DIRECTORY" />
       <item value="* Write session data and end session" />
       <item value="* Clean (erase) the output buffer and turn off output buffering" />
@@ -50,11 +51,10 @@
       <item value="Tests for the existence of an element that satisfies the given predicate." />
       <item value="Error : Cannot use object of type stdClass as array" />
       <item value="Object of class Pecherskiy\DocDoc\Client could not be converted to string" />
-      <item value="Pecherskiy\DocDoc\Exceptions\RequiredFieldIsNotSet : The field city is required" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="260" />
+        <entry key="ENGLISH" value="261" />
         <entry key="RUSSIAN" value="261" />
         <entry key="ROMANIAN" value="4" />
         <entry key="UKRAINIAN" value="2" />
