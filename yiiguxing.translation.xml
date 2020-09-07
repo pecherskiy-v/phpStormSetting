@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="New value type (null) is not matching the resolved parameter type and might introduce types-related false-positives." />
       <item value="* Return part of a string" />
       <item value="DIRECTORY" />
       <item value="* Write session data and end session" />
@@ -50,12 +51,11 @@
       <item value="Selects all elements from a selectable that match the expression and * return a new collection containing these elements. *" />
       <item value="Tests for the existence of an element that satisfies the given predicate." />
       <item value="Error : Cannot use object of type stdClass as array" />
-      <item value="Object of class Pecherskiy\DocDoc\Client could not be converted to string" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="261" />
-        <entry key="RUSSIAN" value="261" />
+        <entry key="RUSSIAN" value="262" />
         <entry key="ROMANIAN" value="4" />
         <entry key="UKRAINIAN" value="2" />
       </map>
