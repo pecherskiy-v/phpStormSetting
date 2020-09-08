@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inflating" />
       <item value="Class may not inherit from final class" />
       <item value="New value type (null) is not matching the resolved parameter type and might introduce types-related false-positives." />
       <item value="* Return part of a string" />
@@ -50,7 +51,6 @@
       <item value="Returns all the elements of this collection that satisfy the predicate p. * The order of the elements is preserved. *" />
       <item value="Applies the given function to each element in the collection and returns * a new collection with the elements returned by the function. *" />
       <item value="Selects all elements from a selectable that match the expression and * return a new collection containing these elements. *" />
-      <item value="Tests for the existence of an element that satisfies the given predicate." />
     </histories>
     <option name="languageScores">
       <map>
