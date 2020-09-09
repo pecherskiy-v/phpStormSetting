@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Average per issue " />
       <item value="[EA] New value type (object) is not matching the resolved parameter type and might introduce types-related false-positives." />
       <item value="inflating" />
       <item value="Class may not inherit from final class" />
@@ -50,7 +51,6 @@
       <item value="&quot;extendedMessage&quot;: &quot;A class constant must not be called 'class'; it is reserved for class name fetching&quot;," />
       <item value="If needle is not a string, it is converted to * an integer and applied as the ordinal value of a character. * &lt;/p&gt;" />
       <item value="Returns all the elements of this collection that satisfy the predicate p. * The order of the elements is preserved. *" />
-      <item value="Applies the given function to each element in the collection and returns * a new collection with the elements returned by the function. *" />
     </histories>
     <option name="languageScores">
       <map>
