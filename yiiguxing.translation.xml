@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Entities" />
       <item value="оплатить заказ" />
       <item value="[EA] Only the first call returns the proper/expected result. Subsequent calls will return 'true'." />
       <item value="[EA] Operating on this return mechanism is considered a bad practice. OOP can be used instead." />
@@ -50,12 +51,11 @@
       <item value="дотупная сумма" />
       <item value="send Types" />
       <item value="обогащение" />
-      <item value="обагощение" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="265" />
-        <entry key="RUSSIAN" value="265" />
+        <entry key="RUSSIAN" value="266" />
         <entry key="ROMANIAN" value="4" />
         <entry key="UKRAINIAN" value="2" />
       </map>
