@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Prevents installation of composer packages with known security vulnerabilities: no API, simply require it" />
       <item value="Entities" />
       <item value="оплатить заказ" />
       <item value="[EA] Only the first call returns the proper/expected result. Subsequent calls will return 'true'." />
@@ -50,7 +51,6 @@
       <item value="доступная сумма" />
       <item value="дотупная сумма" />
       <item value="send Types" />
-      <item value="обогащение" />
     </histories>
     <option name="languageScores">
       <map>
