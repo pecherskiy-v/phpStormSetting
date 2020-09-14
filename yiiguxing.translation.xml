@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="оплатить заказ" />
+      <item value="[EA] Only the first call returns the proper/expected result. Subsequent calls will return 'true'." />
+      <item value="[EA] Operating on this return mechanism is considered a bad practice. OOP can be used instead." />
+      <item value="bootstrap" />
       <item value="новый, оплачено." />
       <item value="Managers" />
       <item value="Manager" />
@@ -47,15 +51,11 @@
       <item value="send Types" />
       <item value="обогащение" />
       <item value="обагощение" />
-      <item value="j,jufotybt" />
-      <item value="'calculation' method can be dropped, as it identical to parent's one." />
-      <item value="* Register values to be set to a public property each time this expectation occurs" />
-      <item value="* Alias to andSet(). Allows the natural English construct" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="264" />
-        <entry key="RUSSIAN" value="264" />
+        <entry key="ENGLISH" value="265" />
+        <entry key="RUSSIAN" value="265" />
         <entry key="ROMANIAN" value="4" />
         <entry key="UKRAINIAN" value="2" />
       </map>
