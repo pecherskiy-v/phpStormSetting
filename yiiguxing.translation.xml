@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="новый, оплачено." />
+      <item value="Managers" />
+      <item value="Manager" />
+      <item value="Maneger" />
+      <item value="Entitys" />
+      <item value="Entity" />
       <item value="retrieve" />
       <item value="[EA] Null pointer exception may occur here." />
       <item value="Failed because: Error: tus: unexpected response while creating upload, originated from request (response code: 400, response text: )" />
@@ -45,17 +51,11 @@
       <item value="'calculation' method can be dropped, as it identical to parent's one." />
       <item value="* Register values to be set to a public property each time this expectation occurs" />
       <item value="* Alias to andSet(). Allows the natural English construct" />
-      <item value="* Indicates the number of times this expectation should occur" />
-      <item value="* Indicates that this expectation is expected exactly once" />
-      <item value="dependencies" />
-      <item value="subsidiary" />
-      <item value="CREDIT REQUEST CS" />
-      <item value="VIEW CREDIT REQUESTS LIST" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="263" />
-        <entry key="RUSSIAN" value="263" />
+        <entry key="ENGLISH" value="264" />
+        <entry key="RUSSIAN" value="264" />
         <entry key="ROMANIAN" value="4" />
         <entry key="UKRAINIAN" value="2" />
       </map>
