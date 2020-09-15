@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dynamic include expression 'require $path' is not analysed." />
       <item value="EA] 'dirname(__DIR__) . '/'' should be used instead (due to how realpath handles streams)" />
       <item value="php - version 5 or higher" />
       <item value="These are required for running Smart IDReader native # libraries anyway, and for building the wrapping PHP module. # If you are running CentOS 6, the compilers can be installed using devtoolset-2 # (see https://gist.github.com/giwa/b1fb1e44dc0a7d270881). # Don't forget to switch environments using 'scl enable devtoolset-2 bash'." />
@@ -50,7 +51,6 @@
       <item value="Closing the users browser connection whilst keeping your php script running has been an issue since 4.1, when the behaviour of register_shutdown_function() was modified so that it would not automatically close the users connection.  sts at mail dot xubion dot hu Posted the original solution:" />
       <item value="hey, thanks to arr1, and it is very useful for me, when I need to return to the user fast and then do something else.  When using the codes, it nearly drive me mad and I found another thing that may affect the codes:  Content-Encoding: gzip  This is because the zlib is on and the content will be compressed. But this will not output the buffer until all output is over.  So, it may need to send the header to prevent this problem.  now, the code becomes:" />
       <item value="* Returns connection status bitfield" />
-      <item value="* Checks if or where headers have been sent" />
     </histories>
     <option name="languageScores">
       <map>
