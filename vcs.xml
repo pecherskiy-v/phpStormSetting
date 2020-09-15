@@ -170,9 +170,13 @@
           <option name="url" value="git@gitlab.com:toyota-bank/archivist-interface.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:selfteam/docker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\repo\toyota-bank" />
+    <option name="cloneParentDir" value="C:\repo" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
