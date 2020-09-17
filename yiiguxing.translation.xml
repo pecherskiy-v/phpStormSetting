@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ERROR: Preparation failed: Error response from daemon: OCI runtime create failed: container_linux.go:346: starting container process caused &quot;exec: \&quot;/opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P 'Hello129336!@' -Q 'CREATE DATABASE billingpage;'\&quot;: stat /opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P 'Hello129336!@' -Q 'CREATE DATABASE billingpage;': no such file or directory&quot;: unknown (executor_docker.go:495:0s) Will be retried in 3s ..." />
+      <item value="Failed to remove network for build" />
+      <item value="No container found for php72_1 " />
       <item value=" Configuring incomplete, errors occurred!" />
       <item value="Cannot declare class Monolog\Utils, because the name is already in use" />
       <item value="Timer Connection Idle" />
@@ -48,13 +51,10 @@
       <item value="Class may not inherit from final class" />
       <item value="New value type (null) is not matching the resolved parameter type and might introduce types-related false-positives." />
       <item value="* Return part of a string" />
-      <item value="DIRECTORY" />
-      <item value="* Write session data and end session" />
-      <item value="* Clean (erase) the output buffer and turn off output buffering" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="276" />
+        <entry key="ENGLISH" value="277" />
         <entry key="RUSSIAN" value="277" />
         <entry key="ROMANIAN" value="4" />
         <entry key="UKRAINIAN" value="2" />
