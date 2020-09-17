@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="terminate called after throwing an instance of 'std::runtime_error'   what():  locale::facet::_S_create_c_locale name not valid" />
       <item value="ERROR: Preparation failed: Error response from daemon: OCI runtime create failed: container_linux.go:346: starting container process caused &quot;exec: \&quot;/opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P 'Hello129336!@' -Q 'CREATE DATABASE billingpage;'\&quot;: stat /opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P 'Hello129336!@' -Q 'CREATE DATABASE billingpage;': no such file or directory&quot;: unknown (executor_docker.go:495:0s) Will be retried in 3s ..." />
       <item value="Failed to remove network for build" />
       <item value="No container found for php72_1 " />
@@ -50,12 +51,11 @@
       <item value="inflating" />
       <item value="Class may not inherit from final class" />
       <item value="New value type (null) is not matching the resolved parameter type and might introduce types-related false-positives." />
-      <item value="* Return part of a string" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="277" />
-        <entry key="RUSSIAN" value="277" />
+        <entry key="RUSSIAN" value="278" />
         <entry key="ROMANIAN" value="4" />
         <entry key="UKRAINIAN" value="2" />
       </map>
