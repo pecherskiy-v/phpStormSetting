@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot declare class Monolog\Utils, because the name is already in use" />
       <item value="Timer Connection Idle" />
       <item value="Timer ConnectionIdle" />
       <item value="Timer_ConnectionIdle" />
@@ -50,7 +51,6 @@
       <item value="* Write session data and end session" />
       <item value="* Clean (erase) the output buffer and turn off output buffering" />
       <item value="* Flush (send) the output buffer and turn off output buffering" />
-      <item value="* Flush the output buffer" />
     </histories>
     <option name="languageScores">
       <map>
