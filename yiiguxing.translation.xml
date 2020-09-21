@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="- We also use allure plugin in jenkins to see the tests result" />
+      <item value="- The entrypoint file allows to install extra packages in the codeceptjs container" />
+      <item value="- The codeceptjs container will remain sleeping till you send a docker exec" />
+      <item value="- USER_ID is used to avoid files owned by root, this could cause some problems with jenkins." />
       <item value="Operating on this return mechanism is considered a bad practice. OOP can be used instead." />
       <item value="Bundle" />
       <item value="Composer packages were changed, so excluded folders were updated." />
@@ -47,15 +51,11 @@
       <item value="Entitys" />
       <item value="Entity" />
       <item value="retrieve" />
-      <item value="[EA] Null pointer exception may occur here." />
-      <item value="Failed because: Error: tus: unexpected response while creating upload, originated from request (response code: 400, response text: )" />
-      <item value="* &lt;p&gt;Determine if a variable is set and is not &lt;b&gt;NULL&lt;/b&gt;.&lt;/p&gt; * &lt;p&gt;If a variable has been unset with unset(), it will no longer be set. &lt;b&gt;isset()&lt;/b&gt; will return &lt;b&gt;FALSE&lt;/b&gt; if testing a variable * that has been set to &lt;b&gt;NULL&lt;/b&gt;. Also note that a null character (&quot;\0&quot;) is not equivalent to the PHP &lt;b&gt;NULL&lt;/b&gt; constant.&lt;/p&gt; * &lt;p&gt;If multiple parameters are supplied then &lt;b&gt;isset()&lt;/b&gt; will return &lt;b&gt;TRUE&lt;/b&gt; only if all of the parameters are set. * Evaluation goes from left to right and stops as soon as an unset variable is encountered.&lt;/p&gt;" />
-      <item value="sum could not take such arguments" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="281" />
-        <entry key="RUSSIAN" value="282" />
+        <entry key="ENGLISH" value="285" />
+        <entry key="RUSSIAN" value="285" />
         <entry key="ROMANIAN" value="4" />
         <entry key="UKRAINIAN" value="2" />
       </map>
