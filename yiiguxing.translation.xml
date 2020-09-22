@@ -1,6 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Время жизни счета" />
+      <item value="Время жизни сччета" />
+      <item value="correspondent account" />
+      <item value="корреспондентский счет" />
+      <item value="rjhtcgjyltycrbq  счет" />
+      <item value="Расчетный счет" />
+      <item value="postAdress" />
+      <item value="post Adress" />
+      <item value="$postAdress" />
+      <item value="$post Adress" />
+      <item value="position" />
+      <item value="Должность" />
+      <item value="curator" />
+      <item value="Куратора" />
+      <item value="Подписант" />
+      <item value="лицо с правом подписи" />
+      <item value="Occupation" />
+      <item value="Род деятельности" />
+      <item value="Договор" />
       <item value="Пользователь не найден" />
       <item value="- We also use allure plugin in jenkins to see the tests result" />
       <item value="- The entrypoint file allows to install extra packages in the codeceptjs container" />
@@ -32,31 +51,13 @@
       <item value="# 1. Run this script from its local directory with two parameters - the path to the directory # containing libsmartIdEngine.so installed in your system (&quot;../../bin&quot; if you simply are using # the unpacked SDK) and the path to your php-config binary # (&quot;/usr/bin/php-config&quot; if you are using default configurations). # Keep in mind that the built PHP module will link to the absolute path # to the libsmartIdEngine.so library." />
       <item value="Next, a module build directory is created and the module is built according # to the CMake script provided. Local SWIG build will be used to generate the # wrapper, and $1-st argument of this script will be used to find the # libsmartIdEngine.so library to link with." />
       <item value="First, the script unpacks, configures the sources with a local install prefix, # builds and installs SWIG (not in the system, simply in the local folder). # SWIG sources (exact version v3.0.12 is required) is placed here, it also can # be downloaded from https://downloads.sourceforge.net/project/swig/swig/swig-3.0.12/swig-3.0.12.tar.gz" />
-      <item value="HOWTO: # 1. Run this script from its local directory with two parameters - the path to the directory # containing libsmartIdEngine.so installed in your system (&quot;../../bin&quot; if you simply are using # the unpacked SDK) and the path to your php-config binary # (&quot;/usr/bin/php-config&quot; if you are using default configurations). # Keep in mind that the built PHP module will link to the absolute path # to the libsmartIdEngine.so library." />
-      <item value="You can't specify document types that belong to different engines.\n " />
-      <item value="    Failed to spawn session: Found no single engine that supports settings-enabled document types:\n " />
-      <item value="# This script is designed to locally build PHP integration module for smartIdEngine library." />
-      <item value="# You can use this autobuild system instead of perbuilt .py and .so if any troubles occured" />
-      <item value="#   This script is designed to locally build PHP integration module for smartIdEngine library. " />
-      <item value="was deadlocked on  lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction. " />
-      <item value="Prevents installation of composer packages with known security vulnerabilities: no API, simply require it" />
-      <item value="Entities" />
-      <item value="оплатить заказ" />
-      <item value="[EA] Only the first call returns the proper/expected result. Subsequent calls will return 'true'." />
-      <item value="[EA] Operating on this return mechanism is considered a bad practice. OOP can be used instead." />
-      <item value="bootstrap" />
-      <item value="новый, оплачено." />
-      <item value="Managers" />
-      <item value="Manager" />
-      <item value="Maneger" />
-      <item value="Entitys" />
-      <item value="Entity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="286" />
-        <entry key="RUSSIAN" value="287" />
+        <entry key="ENGLISH" value="295" />
+        <entry key="RUSSIAN" value="297" />
         <entry key="ROMANIAN" value="4" />
+        <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
       </map>
     </option>
