@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Пользователь не найден" />
       <item value="- We also use allure plugin in jenkins to see the tests result" />
       <item value="- The entrypoint file allows to install extra packages in the codeceptjs container" />
       <item value="- The codeceptjs container will remain sleeping till you send a docker exec" />
@@ -50,12 +51,11 @@
       <item value="Maneger" />
       <item value="Entitys" />
       <item value="Entity" />
-      <item value="retrieve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="285" />
-        <entry key="RUSSIAN" value="285" />
+        <entry key="ENGLISH" value="286" />
+        <entry key="RUSSIAN" value="287" />
         <entry key="ROMANIAN" value="4" />
         <entry key="UKRAINIAN" value="2" />
       </map>
