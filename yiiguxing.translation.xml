@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Creates a promise for a value if the value is not a promise." />
+      <item value="Creates a promise for a value if the value is not a promise." />
+      <item value="Введен неверный номер телефона" />
+      <item value="ENTERED PHONE NOT CORRECT" />
+      <item value="ENTER PHONE NOT CORRECT" />
+      <item value="USER PHONE NOT CORRECT" />
+      <item value="CORRECT" />
       <item value="occupation" />
       <item value="prepare" />
       <item value="Сайт" />
@@ -44,18 +51,11 @@
       <item value="Timer ConnectionIdle" />
       <item value="Timer_ConnectionIdle" />
       <item value="Dynamic include expression 'require $path' is not analysed." />
-      <item value="EA] 'dirname(__DIR__) . '/'' should be used instead (due to how realpath handles streams)" />
-      <item value="php - version 5 or higher" />
-      <item value="These are required for running Smart IDReader native # libraries anyway, and for building the wrapping PHP module. # If you are running CentOS 6, the compilers can be installed using devtoolset-2 # (see https://gist.github.com/giwa/b1fb1e44dc0a7d270881). # Don't forget to switch environments using 'scl enable devtoolset-2 bash'." />
-      <item value="Configuring incomplete, errors occurred!" />
-      <item value="# Version of the PHP module development libraries has to exactly correspond to the version # of the PHP runtime libraries. Thus if the PHP modules built on external SDK build machines # is different from the version used on client's machine, the PHP integration module will not # be operational. The local build will guarantee that the PHP versions match. #" />
-      <item value="# REQUIREMENTS: # cmake - version 2.8 or higher. Required for building the PHP module. # gcc/g++ - version 4.8 or higher. These are required for running Smart IDReader native # libraries anyway, and for building the wrapping PHP module. # If you are running CentOS 6, the compilers can be installed using devtoolset-2 # (see https://gist.github.com/giwa/b1fb1e44dc0a7d270881). # Don't forget to switch environments using 'scl enable devtoolset-2 bash'. # php - version 5 or higher # php-dev/php-devel package: module-development libraries should be available, # as well as 'php-config' command. Before running the script please check # that 'php-config' command is available." />
-      <item value="# 2. When this script is finished, the compiled module will be placed in ../../bin # directory, and the php bindings will be placed in ../../bindings/php directory. # 3. Check that php.ini contains the extension_dir pointing to the directory with # compiled phpSmartIdEngine.so module and the extension=phpSmartIdEngine to # 4. Check the sample: $ php -c php.ini smartid_sample.php" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="298" />
-        <entry key="RUSSIAN" value="298" />
+        <entry key="ENGLISH" value="307" />
+        <entry key="RUSSIAN" value="307" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
