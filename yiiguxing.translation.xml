@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="# this creates a service per class whose id is the fully-qualified class name" />
+      <item value="# makes classes in src/ available to be used as services" />
+      <item value="&quot;Message&quot;: &quot;You have requested a non-existent service \&quot;App\\Http\\Controllers\\OrderController\&quot;.&quot;," />
       <item value="* Creates a promise for a value if the value is not a promise." />
       <item value="Creates a promise for a value if the value is not a promise." />
       <item value="Введен неверный номер телефона" />
@@ -48,14 +51,11 @@
       <item value=" Configuring incomplete, errors occurred!" />
       <item value="Cannot declare class Monolog\Utils, because the name is already in use" />
       <item value="Timer Connection Idle" />
-      <item value="Timer ConnectionIdle" />
-      <item value="Timer_ConnectionIdle" />
-      <item value="Dynamic include expression 'require $path' is not analysed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="307" />
-        <entry key="RUSSIAN" value="307" />
+        <entry key="ENGLISH" value="310" />
+        <entry key="RUSSIAN" value="310" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
