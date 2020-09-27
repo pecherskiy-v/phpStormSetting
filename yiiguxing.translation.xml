@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transformers" />
       <item value="&quot;Message&quot;: &quot;The controller for URI \&quot;\/new\&quot; is not callable: You have requested a non-existent service \&quot;OrderController\&quot;.&quot;," />
       <item value="requires that you provide a value for the &quot;$orderManager&quot; argument. Either the argument is nullable and no null value has been provided, no default value has been provided or because there is a non optional argument after this one." />
       <item value="Namespace prefix must end with a &quot;\&quot;: &quot;\App\Managers&quot;." />
@@ -50,12 +51,11 @@
       <item value="  More than one result was found for query although one row or none was expected.   " />
       <item value="staff" />
       <item value="terminate called after throwing an instance of 'std::runtime_error'   what():  locale::facet::_S_create_c_locale name not valid" />
-      <item value="ERROR: Preparation failed: Error response from daemon: OCI runtime create failed: container_linux.go:346: starting container process caused &quot;exec: \&quot;/opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P 'Hello129336!@' -Q 'CREATE DATABASE billingpage;'\&quot;: stat /opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P 'Hello129336!@' -Q 'CREATE DATABASE billingpage;': no such file or directory&quot;: unknown (executor_docker.go:495:0s) Will be retried in 3s ..." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="311" />
-        <entry key="RUSSIAN" value="311" />
+        <entry key="RUSSIAN" value="312" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
