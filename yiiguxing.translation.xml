@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="$subsidiary" />
       <item value="Transformers" />
       <item value="&quot;Message&quot;: &quot;The controller for URI \&quot;\/new\&quot; is not callable: You have requested a non-existent service \&quot;OrderController\&quot;.&quot;," />
       <item value="requires that you provide a value for the &quot;$orderManager&quot; argument. Either the argument is nullable and no null value has been provided, no default value has been provided or because there is a non optional argument after this one." />
@@ -50,11 +51,10 @@
       <item value="Composer packages were changed, so PHP include paths were updated." />
       <item value="  More than one result was found for query although one row or none was expected.   " />
       <item value="staff" />
-      <item value="terminate called after throwing an instance of 'std::runtime_error'   what():  locale::facet::_S_create_c_locale name not valid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="311" />
+        <entry key="ENGLISH" value="312" />
         <entry key="RUSSIAN" value="312" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
