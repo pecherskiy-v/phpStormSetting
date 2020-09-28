@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Quote regular expression characters" />
+      <item value="* Split string by a regular expression" />
       <item value="обогащение" />
       <item value="hecking Account" />
       <item value="$subsidiary" />
@@ -49,13 +51,11 @@
       <item value="- USER_ID is used to avoid files owned by root, this could cause some problems with jenkins." />
       <item value="Operating on this return mechanism is considered a bad practice. OOP can be used instead." />
       <item value="Bundle" />
-      <item value="Composer packages were changed, so excluded folders were updated." />
-      <item value="Composer packages were changed, so PHP include paths were updated." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="314" />
-        <entry key="RUSSIAN" value="314" />
+        <entry key="ENGLISH" value="316" />
+        <entry key="RUSSIAN" value="316" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
