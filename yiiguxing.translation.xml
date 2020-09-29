@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Throwable" />
+      <item value="commissions" />
+      <item value="not Bind From Legal Entity" />
       <item value="* Quote regular expression characters" />
       <item value="* Split string by a regular expression" />
       <item value="обогащение" />
@@ -48,14 +51,11 @@
       <item value="- We also use allure plugin in jenkins to see the tests result" />
       <item value="- The entrypoint file allows to install extra packages in the codeceptjs container" />
       <item value="- The codeceptjs container will remain sleeping till you send a docker exec" />
-      <item value="- USER_ID is used to avoid files owned by root, this could cause some problems with jenkins." />
-      <item value="Operating on this return mechanism is considered a bad practice. OOP can be used instead." />
-      <item value="Bundle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="316" />
-        <entry key="RUSSIAN" value="316" />
+        <entry key="ENGLISH" value="319" />
+        <entry key="RUSSIAN" value="319" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
