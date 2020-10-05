@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="20:20 External file changes sync may be slow: Project files cannot be watched (are they under network mount?)" />
       <item value="* Determines if the instance is less (before) than another" />
       <item value="* Determines if the instance is greater (after) than another" />
       <item value="* Determines if the instance is equal to another" />
@@ -50,12 +51,11 @@
       <item value="position" />
       <item value="Должность" />
       <item value="curator" />
-      <item value="Куратора" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="329" />
-        <entry key="RUSSIAN" value="329" />
+        <entry key="ENGLISH" value="330" />
+        <entry key="RUSSIAN" value="330" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
