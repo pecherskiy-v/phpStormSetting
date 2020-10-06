@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="доступ запрещен" />
+      <item value="Access denied" />
       <item value="20:20 External file changes sync may be slow: Project files cannot be watched (are they under network mount?)" />
       <item value="* Determines if the instance is less (before) than another" />
       <item value="* Determines if the instance is greater (after) than another" />
@@ -49,13 +51,11 @@
       <item value="$postAdress" />
       <item value="$post Adress" />
       <item value="position" />
-      <item value="Должность" />
-      <item value="curator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="330" />
-        <entry key="RUSSIAN" value="330" />
+        <entry key="ENGLISH" value="332" />
+        <entry key="RUSSIAN" value="333" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
