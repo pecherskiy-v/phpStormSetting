@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="[EA] This condition execution costs less than the previous one." />
       <item value="доступ запрещен" />
       <item value="Access denied" />
       <item value="20:20 External file changes sync may be slow: Project files cannot be watched (are they under network mount?)" />
@@ -50,7 +51,6 @@
       <item value="post Adress" />
       <item value="$postAdress" />
       <item value="$post Adress" />
-      <item value="position" />
     </histories>
     <option name="languageScores">
       <map>
