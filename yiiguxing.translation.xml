@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="One of the COLUMN_RENAMING_* constants or array for BC reasons (CUSTOM)." />
       <item value="[Semantical Error] line 0, col 81 near '.property p WHERE': Error: Identification Variable Subsidiaries used in join path expression but was not defined before." />
       <item value="Partitions this collection in two collections according to a predicate. * Keys are preserved in the resulting collections." />
       <item value="[EA] This condition execution costs less than the previous one." />
@@ -50,11 +51,10 @@
       <item value="rjhtcgjyltycrbq  счет" />
       <item value="Расчетный счет" />
       <item value="postAdress" />
-      <item value="post Adress" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="333" />
+        <entry key="ENGLISH" value="334" />
         <entry key="RUSSIAN" value="334" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
