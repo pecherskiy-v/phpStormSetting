@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="create Entity List By Array" />
+      <item value="create Entity List" />
+      <item value="create Form Entity List" />
+      <item value="create Form Array Entity List" />
+      <item value="create FormArray Entity List" />
+      <item value="createFromArrayEntityList" />
       <item value="Thank you!" />
       <item value="Спасибо" />
       <item value="One of the COLUMN_RENAMING_* constants or array for BC reasons (CUSTOM)." />
@@ -45,17 +51,11 @@
       <item value="CORRECT" />
       <item value="occupation" />
       <item value="prepare" />
-      <item value="Сайт" />
-      <item value="Время жизни счета" />
-      <item value="Время жизни сччета" />
-      <item value="correspondent account" />
-      <item value="корреспондентский счет" />
-      <item value="rjhtcgjyltycrbq  счет" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="335" />
-        <entry key="RUSSIAN" value="336" />
+        <entry key="ENGLISH" value="336" />
+        <entry key="RUSSIAN" value="337" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
