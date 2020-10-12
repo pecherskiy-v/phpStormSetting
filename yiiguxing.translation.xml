@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* The array to work on" />
+      <item value="* Changes all keys in an array" />
+      <item value="[EA] This condition execution costs less than the previous one." />
       <item value="create Entity List By Array" />
       <item value="create Entity List" />
       <item value="create Form Entity List" />
@@ -12,7 +15,6 @@
       <item value="One of the COLUMN_RENAMING_* constants or array for BC reasons (CUSTOM)." />
       <item value="[Semantical Error] line 0, col 81 near '.property p WHERE': Error: Identification Variable Subsidiaries used in join path expression but was not defined before." />
       <item value="Partitions this collection in two collections according to a predicate. * Keys are preserved in the resulting collections." />
-      <item value="[EA] This condition execution costs less than the previous one." />
       <item value="доступ запрещен" />
       <item value="Access denied" />
       <item value="20:20 External file changes sync may be slow: Project files cannot be watched (are they under network mount?)" />
@@ -49,13 +51,11 @@
       <item value="ENTER PHONE NOT CORRECT" />
       <item value="USER PHONE NOT CORRECT" />
       <item value="CORRECT" />
-      <item value="occupation" />
-      <item value="prepare" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="336" />
-        <entry key="RUSSIAN" value="337" />
+        <entry key="ENGLISH" value="338" />
+        <entry key="RUSSIAN" value="338" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
