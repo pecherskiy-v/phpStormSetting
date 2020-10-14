@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="разрешенные столбцы" />
+      <item value="разрешенные стобци" />
+      <item value="allowen Columns" />
+      <item value="allow Column" />
       <item value="Создатель файлов" />
       <item value="менеджер по созданию файлов" />
       <item value="создатель файлов" />
@@ -47,15 +51,11 @@
       <item value="Transformers" />
       <item value="&quot;Message&quot;: &quot;The controller for URI \&quot;\/new\&quot; is not callable: You have requested a non-existent service \&quot;OrderController\&quot;.&quot;," />
       <item value="requires that you provide a value for the &quot;$orderManager&quot; argument. Either the argument is nullable and no null value has been provided, no default value has been provided or because there is a non optional argument after this one." />
-      <item value="Namespace prefix must end with a &quot;\&quot;: &quot;\App\Managers&quot;." />
-      <item value="Expected to find class &quot;App\Entities\Order&quot; in file &quot;/var/www/mvc/src/app/Entities/Order.php&quot; while importing services from resource &quot;../app/*&quot;, but it was not found! Check the namespace prefix used with the resource." />
-      <item value="The file &quot;../src/app&quot; does not exist (in: &quot;/var/www/mvc/src/public/../config&quot;, &quot;/var/www/mvc/src/public&quot;).{&quot;code&quot;:0,&quot;Message&quot;:&quot;Too few arguments to function App\\Http\\Controllers\\OrderController::__construct(), 0 passed in \/var\/www\/mvc\/src\/public\/index.php on line 136 and exactly 1 expected&quot;,&quot;file&quot;:&quot;\/var\/www\/mvc\/src\/app\/Http\/Controllers\/OrderController.php&quot;,&quot;line&quot;:14,&quot;stack&quot;:[{&quot;file&quot;:&quot;\/var\/www\/mvc\/src\/public\/index.php&quot;,&quot;line&quot;:136,&quot;function&quot;:&quot;__construct&quot;,&quot;class&quot;:&quot;App\\Http\\Controllers\\OrderController&quot;,&quot;type&quot;:&quot;-&gt;&quot;,&quot;args&quot;:[]},{&quot;file&quot;:&quot;\/var\/www\/mvc\/vendor\/symfony\/http-kernel\/Controller\/ControllerResolver.php&quot;,&quot;line&quot;:49,&quot;function&quot;:&quot;instantiateController&quot;,&quot;class&quot;:&quot;class@anonymous \/var\/www\/mvc\/src\/public\/index.php0x7fe21ce0a1de&quot;,&quot;type&quot;:&quot;-&gt;&quot;,&quot;args&quot;:[&quot;App\\Http\\Controllers\\OrderController&quot;]},{&quot;file&quot;:&quot;\/var\/www\/mvc\/vendor\/symfony\/http-kernel\/HttpKernel.php&quot;,&quot;line&quot;:140,&quot;function&quot;:&quot;getController&quot;,&quot;class&quot;:&quot;Symfony\\Component\\HttpKernel\\Controller\\ControllerResolver&quot;,&quot;type&quot;:&quot;-&gt;&quot;,&quot;args&quot;:[{&quot;attributes&quot;:{},&quot;request&quot;:{},&quot;query&quot;:{},&quot;server&quot;:{},&quot;files&quot;:{},&quot;cookies&quot;:{},&quot;headers&quot;:{}}]},{&quot;file&quot;:&quot;\/var\/www\/mvc\/vendor\/symfony\/http-kernel\/HttpKernel.php&quot;,&quot;line&quot;:79,&quot;function&quot;:&quot;handleRaw&quot;,&quot;class&quot;:&quot;Symfony\\Component\\HttpKernel\\HttpKernel&quot;,&quot;type&quot;:&quot;-&gt;&quot;,&quot;args&quot;:[{&quot;attributes&quot;:{},&quot;request&quot;:{},&quot;query&quot;:{},&quot;server&quot;:{},&quot;files&quot;:{},&quot;cookies&quot;:{},&quot;headers&quot;:{}},1]},{&quot;file&quot;:&quot;\/var\/www\/mvc\/src\/public\/index.php&quot;,&quot;line&quot;:161,&quot;function&quot;:&quot;handle&quot;,&quot;class&quot;:&quot;Symfony\\Component\\HttpKernel\\HttpKernel&quot;,&quot;type&quot;:&quot;-&gt;&quot;,&quot;args&quot;:[{&quot;attributes&quot;:{},&quot;request&quot;:{},&quot;query&quot;:{},&quot;server&quot;:{},&quot;files&quot;:{},&quot;cookies&quot;:{},&quot;headers&quot;:{}},1,false]}]} " />
-      <item value="# this creates a service per class whose id is the fully-qualified class name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="346" />
-        <entry key="RUSSIAN" value="346" />
+        <entry key="ENGLISH" value="349" />
+        <entry key="RUSSIAN" value="349" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
