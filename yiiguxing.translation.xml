@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="$legal Entities" />
+      <item value="$$legal Entities" />
+      <item value="$$legalEntities" />
+      <item value="$subsidiaries" />
+      <item value="$subsisiaries" />
       <item value="разрешенные столбцы" />
       <item value="разрешенные стобци" />
       <item value="allowen Columns" />
@@ -46,19 +51,15 @@
       <item value="* Quote regular expression characters" />
       <item value="* Split string by a regular expression" />
       <item value="обогащение" />
-      <item value="hecking Account" />
-      <item value="$subsidiary" />
-      <item value="Transformers" />
-      <item value="&quot;Message&quot;: &quot;The controller for URI \&quot;\/new\&quot; is not callable: You have requested a non-existent service \&quot;OrderController\&quot;.&quot;," />
-      <item value="requires that you provide a value for the &quot;$orderManager&quot; argument. Either the argument is nullable and no null value has been provided, no default value has been provided or because there is a non optional argument after this one." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="349" />
-        <entry key="RUSSIAN" value="349" />
+        <entry key="ENGLISH" value="350" />
+        <entry key="RUSSIAN" value="351" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
+        <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
