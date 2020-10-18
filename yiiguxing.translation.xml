@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="elevate" />
+      <item value="возвести в степень" />
+      <item value="степень" />
       <item value="$legal Entities" />
       <item value="$$legal Entities" />
       <item value="$$legalEntities" />
@@ -48,14 +51,11 @@
       <item value="Throwable" />
       <item value="commissions" />
       <item value="not Bind From Legal Entity" />
-      <item value="* Quote regular expression characters" />
-      <item value="* Split string by a regular expression" />
-      <item value="обогащение" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="350" />
-        <entry key="RUSSIAN" value="351" />
+        <entry key="ENGLISH" value="353" />
+        <entry key="RUSSIAN" value="354" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
