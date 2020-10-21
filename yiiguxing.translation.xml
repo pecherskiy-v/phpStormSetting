@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This statement seems to be disconnected from its parent foreach." />
       <item value="elevate" />
       <item value="возвести в степень" />
       <item value="степень" />
@@ -50,7 +51,6 @@
       <item value="* Fill an array with values" />
       <item value="Throwable" />
       <item value="commissions" />
-      <item value="not Bind From Legal Entity" />
     </histories>
     <option name="languageScores">
       <map>
