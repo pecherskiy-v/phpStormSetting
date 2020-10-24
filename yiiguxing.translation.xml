@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="2020-10-24 20:06:59.925 [info] &lt;0.942.0&gt; connection &lt;0.942.0&gt; (172.18.0.1:35242 -&gt; 172.18.0.4:5672): user 'rabbitmq' authenticated and granted access to vhost '/'" />
       <item value="Not correct request" />
       <item value="Not valid request" />
       <item value="Not valide request" />
@@ -50,11 +51,10 @@
       <item value="доступ запрещен" />
       <item value="Access denied" />
       <item value="20:20 External file changes sync may be slow: Project files cannot be watched (are they under network mount?)" />
-      <item value="* Determines if the instance is less (before) than another" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="358" />
+        <entry key="ENGLISH" value="359" />
         <entry key="RUSSIAN" value="359" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
