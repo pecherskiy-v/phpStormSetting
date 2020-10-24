@@ -12,5 +12,11 @@
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
       <jdbc-url>jdbc:sqlserver://192.168.1.220</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="database.sqlite" uuid="16469b25-ba22-4892-89e6-05736871b55d">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:/repo/toyota-bank/recognition/src/storage/app/database.sqlite</jdbc-url>
+    </data-source>
   </component>
 </application>
