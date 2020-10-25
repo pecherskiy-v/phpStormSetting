@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="EA] Null should be used as the default value (nullable types are the goal, right?)" />
       <item value="обработка сообщения завершена" />
       <item value="приняли событие" />
       <item value="приняли собыдие" />
@@ -50,12 +51,11 @@
       <item value="create Entity List" />
       <item value="create Form Entity List" />
       <item value="create Form Array Entity List" />
-      <item value="create FormArray Entity List" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="367" />
-        <entry key="RUSSIAN" value="367" />
+        <entry key="RUSSIAN" value="368" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
