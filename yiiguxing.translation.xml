@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="promise" />
       <item value="WORKER COUNT" />
       <item value="EA] Null should be used as the default value (nullable types are the goal, right?)" />
       <item value="обработка сообщения завершена" />
@@ -50,12 +51,11 @@
       <item value="[EA] This condition execution costs less than the previous one." />
       <item value="create Entity List By Array" />
       <item value="create Entity List" />
-      <item value="create Form Entity List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="368" />
-        <entry key="RUSSIAN" value="368" />
+        <entry key="ENGLISH" value="369" />
+        <entry key="RUSSIAN" value="369" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
