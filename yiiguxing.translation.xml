@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&lt;!-- Namespace prefix must end with a &amp;quot;\&amp;quot;: &amp;quot;App\Controller\EventsController&amp;quot; in /var/www/mvc/config/services.yaml (which is loaded in resource &amp;quot;/var/www/mvc/config/services.yaml&amp;quot;). (500 Internal Server Error) --&gt;" />
       <item value="&lt;!-- Service &amp;quot;old_sound_rabbit_mq.task_producer&amp;quot; not found: even though it exists in the app's container, the container inside &amp;quot;App\Controller\EventsController&amp;quot; is a smaller service locator that only knows about the &amp;quot;http_kernel&amp;quot;, &amp;quot;message_bus&amp;quot;, &amp;quot;messenger.default_bus&amp;quot;, &amp;quot;parameter_bag&amp;quot;, &amp;quot;request_stack&amp;quot;, &amp;quot;router&amp;quot; and &amp;quot;session&amp;quot; services. Try using dependency injection instead. (500 Internal Server Error) --&gt;" />
       <item value="&lt;!-- Invalid &amp;quot;env(url:default:/:RABBITMQ_VHOST)&amp;quot; name: only &amp;quot;word&amp;quot; characters are allowed. (500 Internal Server Error) --&gt;" />
       <item value="    The recipe for this package comes from the &quot;contrib&quot; repository, which is open to community contributions. " />
@@ -50,12 +51,11 @@
       <item value="Спасибо" />
       <item value="One of the COLUMN_RENAMING_* constants or array for BC reasons (CUSTOM)." />
       <item value="[Semantical Error] line 0, col 81 near '.property p WHERE': Error: Identification Variable Subsidiaries used in join path expression but was not defined before." />
-      <item value="Partitions this collection in two collections according to a predicate. * Keys are preserved in the resulting collections." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="361" />
-        <entry key="RUSSIAN" value="361" />
+        <entry key="ENGLISH" value="362" />
+        <entry key="RUSSIAN" value="362" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
