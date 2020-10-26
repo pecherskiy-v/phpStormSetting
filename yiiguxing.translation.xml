@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Currently, Octopus has the following job presets for Bank project:" />
+      <item value="Some jobs can be scheduled from CLI using Octopus' built-in preset feature." />
+      <item value="Octopus can be shut down by the following command" />
+      <item value="That can also be done via Monit util." />
+      <item value="In order to start Octopus manually one should execute the following command" />
       <item value="Невозможно аннулировать данный счет" />
       <item value="* Computes the intersection of arrays" />
       <item value="send event complete" />
@@ -46,16 +51,11 @@
       <item value="создатель файлов" />
       <item value="моздатель файлов" />
       <item value="генератор файлов" />
-      <item value="Укажите корректный номер" />
-      <item value="некорректный номер телефона" />
-      <item value="не корректный номер телефона" />
-      <item value="Given object is not an instance of the class this property was declared in" />
-      <item value="* The array to work on" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="373" />
-        <entry key="RUSSIAN" value="373" />
+        <entry key="ENGLISH" value="378" />
+        <entry key="RUSSIAN" value="378" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
