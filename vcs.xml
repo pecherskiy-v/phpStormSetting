@@ -218,6 +218,10 @@
           <option name="url" value="git@gitlab.com:toyota-bank/components/postie.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:toyota-bank/interfaces/credit-request-interface.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\repo\toyota" />
