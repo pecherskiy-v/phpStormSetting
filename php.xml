@@ -2,12 +2,53 @@
   <component name="PhpAutoImport" auto_import_file_scope="true" />
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="e91a1083-a990-4838-916f-2d8361f9a02a" name="PHP" home="C:\php-7.2.28-Win32-VC15-x64\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="e91a1083-a990-4838-916f-2d8361f9a02a" name="PHP 7.2" home="C:\php-7.2.34-Win32-VC15-x64\php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="7c670c40-faee-4300-adea-3c40be9f545b" name="PHP 7.4" home="C:\php-7.4.11-Win32-vc15-x64\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="2801b0fa-40e8-4ea6-86bd-7b24e704b830" name="PHP 7.3" home="C:\php-7.3.23-Win32-VC15-x64\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
+      <interpreter name="PHP 7.3">
+        <phpinfo binary_type="PHP" php_cgi="C:\php-7.3.23-Win32-VC15-x64\php-cgi.exe" php_cli="C:\php-7.3.23-Win32-VC15-x64\php.exe" path_separator=";" version="7.3.23">
+          <additional_php_ini />
+          <configuration_file>C:\php-7.3.23-Win32-VC15-x64\php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value=".;C:\php\pear" />
+          </configuration_options>
+          <debuggers />
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="bcmath" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="filter" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="json" />
+            <extension name="libxml" />
+            <extension name="mysqlnd" />
+            <extension name="pcre" />
+            <extension name="readline" />
+            <extension name="session" />
+            <extension name="standard" />
+            <extension name="tokenizer" />
+            <extension name="wddx" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
       <interpreter name="PHP 7.4">
         <phpinfo binary_type="PHP" php_cgi="C:\php-7.4.11-Win32-vc15-x64\php-cgi.exe" php_cli="C:\php-7.4.11-Win32-vc15-x64\php.exe" path_separator=";" version="7.4.11">
           <additional_php_ini />
@@ -26,7 +67,6 @@
             <extension name="bcmath" />
             <extension name="calendar" />
             <extension name="ctype" />
-            <extension name="curl" />
             <extension name="date" />
             <extension name="dom" />
             <extension name="filter" />
@@ -34,9 +74,7 @@
             <extension name="iconv" />
             <extension name="json" />
             <extension name="libxml" />
-            <extension name="mbstring" />
             <extension name="mysqlnd" />
-            <extension name="openssl" />
             <extension name="pcre" />
             <extension name="readline" />
             <extension name="session" />
@@ -50,10 +88,10 @@
           </loaded_extensions>
         </phpinfo>
       </interpreter>
-      <interpreter name="PHP">
-        <phpinfo binary_type="PHP" php_cgi="C:\php-7.2.28-Win32-VC15-x64\php-cgi.exe" php_cli="C:\php-7.2.28-Win32-VC15-x64\php.exe" path_separator=";" version="7.2.28">
+      <interpreter name="PHP 7.2">
+        <phpinfo binary_type="PHP" php_cgi="C:\php-7.2.34-Win32-VC15-x64\php-cgi.exe" php_cli="C:\php-7.2.34-Win32-VC15-x64\php.exe" path_separator=";" version="7.2.34">
           <additional_php_ini />
-          <configuration_file>C:\php-7.2.28-Win32-VC15-x64\php.ini</configuration_file>
+          <configuration_file>C:\php-7.2.34-Win32-VC15-x64\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".;C:\php\pear" />
           </configuration_options>
@@ -74,29 +112,23 @@
             <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="gd" />
-            <extension name="gmp" />
             <extension name="hash" />
             <extension name="iconv" />
             <extension name="intl" />
             <extension name="json" />
-            <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
             <extension name="mysqlnd" />
             <extension name="openssl" />
             <extension name="pcre" />
-            <extension name="pdo_sqlite" />
             <extension name="readline" />
             <extension name="session" />
-            <extension name="soap" />
             <extension name="standard" />
             <extension name="tokenizer" />
             <extension name="wddx" />
             <extension name="xml" />
             <extension name="xmlreader" />
-            <extension name="xmlrpc" />
             <extension name="xmlwriter" />
-            <extension name="xsl" />
             <extension name="zip" />
             <extension name="zlib" />
           </loaded_extensions>

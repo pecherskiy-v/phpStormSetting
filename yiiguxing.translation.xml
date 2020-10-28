@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A token will be created and stored in &quot;C:/Users/peche/AppData/Roaming/Composer/auth.json&quot;, your password will never be stored To revoke access to this token you can visit https://gitlab.com/profile/applications " />
       <item value="Currently, Octopus has the following job presets for Bank project:" />
       <item value="Some jobs can be scheduled from CLI using Octopus' built-in preset feature." />
       <item value="Octopus can be shut down by the following command" />
@@ -50,12 +51,11 @@
       <item value="менеджер по созданию файлов" />
       <item value="создатель файлов" />
       <item value="моздатель файлов" />
-      <item value="генератор файлов" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="378" />
-        <entry key="RUSSIAN" value="378" />
+        <entry key="RUSSIAN" value="379" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
