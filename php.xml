@@ -123,6 +123,7 @@
             <extension name="pcre" />
             <extension name="readline" />
             <extension name="session" />
+            <extension name="soap" />
             <extension name="standard" />
             <extension name="tokenizer" />
             <extension name="wddx" />
