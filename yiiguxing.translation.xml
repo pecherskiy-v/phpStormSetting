@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="UNLIMIT ROW" />
       <item value="Identification Variable Subsidiaries used in join path expression but was not defined before." />
       <item value="A token will be created and stored in &quot;C:/Users/peche/AppData/Roaming/Composer/auth.json&quot;, your password will never be stored To revoke access to this token you can visit https://gitlab.com/profile/applications " />
       <item value="Currently, Octopus has the following job presets for Bank project:" />
@@ -50,11 +51,10 @@
       <item value="allow Column" />
       <item value="Создатель файлов" />
       <item value="менеджер по созданию файлов" />
-      <item value="создатель файлов" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="378" />
+        <entry key="ENGLISH" value="379" />
         <entry key="RUSSIAN" value="379" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
