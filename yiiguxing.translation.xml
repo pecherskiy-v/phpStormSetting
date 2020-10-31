@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="put Object Acl" />
+      <item value="put Object Legal Hold" />
+      <item value="put Object Lock Configuration" />
+      <item value="put Object Retention" />
+      <item value="put Public Access Block" />
       <item value="'get_class(...)' does not accept null as argument in PHP 7.2+ versions." />
       <item value="It was probably intended to use '$this-&gt;upload('file_get_contents($fileName)', 'basename($fileName)', $legalEntityId)' here." />
       <item value="Причина последней блокировки пользователя" />
@@ -46,16 +51,11 @@
       <item value="степень" />
       <item value="$legal Entities" />
       <item value="$$legal Entities" />
-      <item value="$$legalEntities" />
-      <item value="$subsidiaries" />
-      <item value="$subsisiaries" />
-      <item value="разрешенные столбцы" />
-      <item value="разрешенные стобци" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="381" />
-        <entry key="RUSSIAN" value="382" />
+        <entry key="ENGLISH" value="386" />
+        <entry key="RUSSIAN" value="386" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
