@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="It was probably intended to use '$this-&gt;upload('file_get_contents($fileName)', 'basename($fileName)', $legalEntityId)' here." />
       <item value="Причина последней блокировки пользователя" />
       <item value="Potentially polymorphic call. UpdateExternalRequestDto does not have members in its hierarchy " />
       <item value="UNLIMIT ROW" />
@@ -50,12 +51,11 @@
       <item value="разрешенные столбцы" />
       <item value="разрешенные стобци" />
       <item value="allowen Columns" />
-      <item value="allow Column" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="381" />
-        <entry key="RUSSIAN" value="381" />
+        <entry key="RUSSIAN" value="382" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
