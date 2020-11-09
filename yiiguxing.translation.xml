@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="attributes" />
       <item value="pull" />
       <item value="Resolved operands types are not complimentary, while they should be ([\Illuminate\Support\Collection] vs [array])." />
       <item value="[EA] $this-&gt;roles is immediately overridden, perhaps it was intended to use 'else' here." />
@@ -50,12 +51,11 @@
       <item value="check" />
       <item value="preparation" />
       <item value="подготовка" />
-      <item value="This statement seems to be disconnected from its parent foreach." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="389" />
-        <entry key="RUSSIAN" value="389" />
+        <entry key="ENGLISH" value="390" />
+        <entry key="RUSSIAN" value="390" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
