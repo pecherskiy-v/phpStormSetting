@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DAILY REPORT" />
+      <item value="месячный" />
+      <item value="MOUTH REPORT" />
+      <item value="PERIOD REPORT" />
       <item value="extendedMessage: &quot;[Semantical Error] line 0, col 196 near '.property p WHERE': Error: Identification Variable sub used in join path expression but was not defined before.&quot; " />
       <item value="Checks whether the request is secure or not. * * This method can read the client protocol from the &quot;X-Forwarded-Proto&quot; header * when trusted proxies were set via &quot;setTrustedProxies()&quot;. *" />
       <item value="attributes" />
@@ -47,15 +51,11 @@
       <item value="Not valid request" />
       <item value="Not valide request" />
       <item value="Allows optimizing the container by removing unused services; this also means                             # fetching services directly from the container via $container-&gt;get() won't work.                             # The best practice is to be explicit about your dependencies anyway" />
-      <item value="prepare" />
-      <item value="worker" />
-      <item value="csv only" />
-      <item value="check" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="391" />
-        <entry key="RUSSIAN" value="392" />
+        <entry key="ENGLISH" value="395" />
+        <entry key="RUSSIAN" value="396" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
