@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="[EA] __construct is probably missing FilesReportListResponseDto::__construct call." />
+      <item value="Missing parent constructor call" />
       <item value="сумма к перечислению" />
       <item value="отправлен" />
       <item value="jnghfdkty" />
@@ -49,13 +51,11 @@
       <item value="приняли событие" />
       <item value="приняли собыдие" />
       <item value="# add more service definitions when explicit configuration is needed # please note that last definitions always *replace* previous ones" />
-      <item value="# controllers are imported separately to make sure services can be injected # as action arguments even if you don't extend any base controller class" />
-      <item value="&lt;!-- Namespace prefix must end with a &amp;quot;\&amp;quot;: &amp;quot;App\Controller\EventsController&amp;quot; in /var/www/mvc/config/services.yaml (which is loaded in resource &amp;quot;/var/www/mvc/config/services.yaml&amp;quot;). (500 Internal Server Error) --&gt;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="400" />
-        <entry key="RUSSIAN" value="400" />
+        <entry key="RUSSIAN" value="401" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
