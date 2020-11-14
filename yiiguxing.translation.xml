@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nginx: [emerg] &quot;proxy_pass&quot; cannot have URI part in location given by regular expression, or inside named location, or inside &quot;if&quot;...inx.conf:747" />
       <item value="field not found" />
       <item value="need Recognition" />
       <item value="[EA] Class has 3 parent classes, consider using appropriate design patterns." />
@@ -50,12 +51,11 @@
       <item value="* Computes the intersection of arrays" />
       <item value="send event complete" />
       <item value="send event complite" />
-      <item value="promise" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="404" />
-        <entry key="RUSSIAN" value="404" />
+        <entry key="RUSSIAN" value="405" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
