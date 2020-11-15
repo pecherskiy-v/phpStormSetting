@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AWS_PUBLIC_path prefix" />
+      <item value="префикс пути" />
+      <item value="окончание" />
       <item value="Request has expired" />
       <item value="retries" />
       <item value="'doc' =&gt; 'Specifies settings for endpoint discovery. Provide an instance of Aws\EndpointDiscovery\ConfigurationInterface, an instance Aws\CacheInterface, a callable that provides a promise for a Configuration object, or an associative array with the following keys: enabled: (bool) Set to true to enable endpoint discovery, false to explicitly disable it. Defaults to false; cache_limit: (int) The maximum number of keys in the endpoints cache. Defaults to 1000.'," />
@@ -48,14 +51,11 @@
       <item value="A token will be created and stored in &quot;C:/Users/peche/AppData/Roaming/Composer/auth.json&quot;, your password will never be stored To revoke access to this token you can visit https://gitlab.com/profile/applications " />
       <item value="Currently, Octopus has the following job presets for Bank project:" />
       <item value="Some jobs can be scheduled from CLI using Octopus' built-in preset feature." />
-      <item value="Octopus can be shut down by the following command" />
-      <item value="That can also be done via Monit util." />
-      <item value="In order to start Octopus manually one should execute the following command" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="408" />
-        <entry key="RUSSIAN" value="408" />
+        <entry key="ENGLISH" value="410" />
+        <entry key="RUSSIAN" value="410" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
