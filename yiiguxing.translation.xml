@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="[WARNING]: Empty continuation lines will become errors in a future release." />
       <item value="AWS_PUBLIC_path prefix" />
       <item value="префикс пути" />
       <item value="окончание" />
@@ -50,12 +51,11 @@
       <item value="Identification Variable Subsidiaries used in join path expression but was not defined before." />
       <item value="A token will be created and stored in &quot;C:/Users/peche/AppData/Roaming/Composer/auth.json&quot;, your password will never be stored To revoke access to this token you can visit https://gitlab.com/profile/applications " />
       <item value="Currently, Octopus has the following job presets for Bank project:" />
-      <item value="Some jobs can be scheduled from CLI using Octopus' built-in preset feature." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="410" />
-        <entry key="RUSSIAN" value="410" />
+        <entry key="ENGLISH" value="411" />
+        <entry key="RUSSIAN" value="411" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
