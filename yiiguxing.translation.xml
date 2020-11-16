@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ERROR: Job failed: Error response from daemon: pull access denied for registry.gitlab.com/toyota-bank/components/hermes/toyota-hermes-backend, repository does not exist or may require 'docker login': denied: requested access to the resource is denied (executor_docker.go:188:1s)" />
       <item value="[WARNING]: Empty continuation lines will become errors in a future release." />
       <item value="AWS_PUBLIC_path prefix" />
       <item value="префикс пути" />
@@ -50,12 +51,11 @@
       <item value="UNLIMIT ROW" />
       <item value="Identification Variable Subsidiaries used in join path expression but was not defined before." />
       <item value="A token will be created and stored in &quot;C:/Users/peche/AppData/Roaming/Composer/auth.json&quot;, your password will never be stored To revoke access to this token you can visit https://gitlab.com/profile/applications " />
-      <item value="Currently, Octopus has the following job presets for Bank project:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="411" />
-        <entry key="RUSSIAN" value="411" />
+        <entry key="RUSSIAN" value="412" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
