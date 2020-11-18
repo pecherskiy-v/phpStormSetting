@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="22:23 [S0001][3701] Cannot drop the database 'hermes_test', because it does not exist or you do not have permission." />
       <item value="* Computes the intersection of arrays using keys for comparison" />
       <item value="$allow" />
       <item value="* Computes the intersection of arrays" />
@@ -50,12 +51,11 @@
       <item value="put Public Access Block" />
       <item value="'get_class(...)' does not accept null as argument in PHP 7.2+ versions." />
       <item value="It was probably intended to use '$this-&gt;upload('file_get_contents($fileName)', 'basename($fileName)', $legalEntityId)' here." />
-      <item value="Причина последней блокировки пользователя" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="415" />
-        <entry key="RUSSIAN" value="415" />
+        <entry key="ENGLISH" value="416" />
+        <entry key="RUSSIAN" value="416" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
