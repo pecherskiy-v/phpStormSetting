@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="test Generate Report Single Sector" />
       <item value="revise" />
       <item value="сверки" />
       <item value="Reconciliation Of Discrepancies" />
@@ -50,11 +51,10 @@
       <item value="attributes" />
       <item value="pull" />
       <item value="Resolved operands types are not complimentary, while they should be ([\Illuminate\Support\Collection] vs [array])." />
-      <item value="[EA] $this-&gt;roles is immediately overridden, perhaps it was intended to use 'else' here." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="423" />
+        <entry key="ENGLISH" value="424" />
         <entry key="RUSSIAN" value="424" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
