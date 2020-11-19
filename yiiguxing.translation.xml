@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="payload" />
+      <item value="завершен" />
+      <item value="complete" />
+      <item value="complite" />
       <item value="инициатор синхронизации" />
       <item value="22:23 [S0001][3701] Cannot drop the database 'hermes_test', because it does not exist or you do not have permission." />
       <item value="* Computes the intersection of arrays using keys for comparison" />
@@ -47,15 +51,11 @@
       <item value="Options used to configure the upload process." />
       <item value="put Object Acl" />
       <item value="put Object Legal Hold" />
-      <item value="put Object Lock Configuration" />
-      <item value="put Object Retention" />
-      <item value="put Public Access Block" />
-      <item value="'get_class(...)' does not accept null as argument in PHP 7.2+ versions." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="417" />
-        <entry key="RUSSIAN" value="417" />
+        <entry key="ENGLISH" value="420" />
+        <entry key="RUSSIAN" value="420" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
