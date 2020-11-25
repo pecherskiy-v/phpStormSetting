@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="доступен для скачивания" />
       <item value="file" />
       <item value="$file S 3 Path" />
       <item value="obsolete" />
@@ -50,12 +51,11 @@
       <item value="нулевой реестр" />
       <item value="нулевой" />
       <item value="DAILY REPORT" />
-      <item value="месячный" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="429" />
-        <entry key="RUSSIAN" value="429" />
+        <entry key="ENGLISH" value="430" />
+        <entry key="RUSSIAN" value="430" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
