@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="report" />
+      <item value="кузщке" />
+      <item value="скачать невозможно" />
+      <item value="отчет скачать невозможно" />
+      <item value="REPORT DOWNLOAD INPOSIBL" />
       <item value="доступен для скачивания" />
       <item value="file" />
       <item value="$file S 3 Path" />
@@ -46,16 +51,12 @@
       <item value="отправлен" />
       <item value="jnghfdkty" />
       <item value="reeg" />
-      <item value="sten" />
-      <item value="net" />
-      <item value="нулевой реестр" />
-      <item value="нулевой" />
-      <item value="DAILY REPORT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="430" />
-        <entry key="RUSSIAN" value="430" />
+        <entry key="ENGLISH" value="432" />
+        <entry key="RUSSIAN" value="433" />
+        <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
