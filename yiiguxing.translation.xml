@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="uses" />
       <item value="Every 1 day from 2020-10-01 to 2020-10-31" />
       <item value="Download Url Dto" />
       <item value="скачивание невозможно" />
@@ -50,11 +51,10 @@
       <item value="расширение" />
       <item value="расшинение" />
       <item value="[EA] __construct is probably missing FilesReportListResponseDto::__construct call." />
-      <item value="Missing parent constructor call" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="435" />
+        <entry key="ENGLISH" value="436" />
         <entry key="RUSSIAN" value="436" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="4" />
