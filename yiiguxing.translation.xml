@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="[EA] This property initialization seems to be quite 'heavy', consider using static property or constant instead." />
       <item value="uses" />
       <item value="Every 1 day from 2020-10-01 to 2020-10-31" />
       <item value="Download Url Dto" />
@@ -50,12 +51,11 @@
       <item value="extension" />
       <item value="расширение" />
       <item value="расшинение" />
-      <item value="[EA] __construct is probably missing FilesReportListResponseDto::__construct call." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="436" />
-        <entry key="RUSSIAN" value="436" />
+        <entry key="RUSSIAN" value="437" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="SWEDISH" value="1" />
