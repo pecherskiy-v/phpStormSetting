@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Potentially polymorphic call. UpdateExternalRequestDto does not have members in its hierarchy" />
       <item value="Introducing FOREIGN KEY constraint 'FK_DA460427C3C6F69F' on table 'offers' may cause cycles or multiple cascade paths. Specify ON DELETE NO ACTION or ON UPDATE NO ACTION, or modify other FOREIGN KEY constraints." />
       <item value="Doctrine\DBAL\DBALException : An exception occurred while executing 'ALTER TABLE offers ADD CONSTRAINT FK_DA460427C3C6F69F FOREIGN KEY (car_id) REFERENCES cars (id) ON DELETE CASCADE':" />
       <item value="Команда" />
@@ -50,12 +51,11 @@
       <item value="[WARNING]: Empty continuation lines will become errors in a future release." />
       <item value="AWS_PUBLIC_path prefix" />
       <item value="префикс пути" />
-      <item value="окончание" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="443" />
-        <entry key="RUSSIAN" value="443" />
+        <entry key="RUSSIAN" value="444" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="5" />
         <entry key="SWEDISH" value="1" />
