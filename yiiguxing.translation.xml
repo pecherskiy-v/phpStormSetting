@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extension" />
+      <item value="расширение" />
       <item value="Unable to connect to &quot;http://localhost:4444/wd/hub&quot;, make sure browser driver is running on that address. If you use services like chromedriver see initialiseServices logs above or in wdio.log file as the service might had problems to start the driver. " />
       <item value="'JSON_VALUE' is not a recognized built-in function name." />
       <item value="Potentially polymorphic call. UpdateExternalRequestDto does not have members in its hierarchy" />
@@ -49,13 +51,11 @@
       <item value="$allow" />
       <item value="* Computes the intersection of arrays" />
       <item value="сектора из запроса" />
-      <item value="ERROR: Job failed: Error response from daemon: pull access denied for registry.gitlab.com/toyota-bank/components/hermes/toyota-hermes-backend, repository does not exist or may require 'docker login': denied: requested access to the resource is denied (executor_docker.go:188:1s)" />
-      <item value="[WARNING]: Empty continuation lines will become errors in a future release." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="443" />
-        <entry key="RUSSIAN" value="444" />
+        <entry key="ENGLISH" value="444" />
+        <entry key="RUSSIAN" value="445" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="5" />
         <entry key="SWEDISH" value="1" />
