@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="контейнер" />
       <item value="extension" />
       <item value="расширение" />
       <item value="Unable to connect to &quot;http://localhost:4444/wd/hub&quot;, make sure browser driver is running on that address. If you use services like chromedriver see initialiseServices logs above or in wdio.log file as the service might had problems to start the driver. " />
@@ -50,11 +51,10 @@
       <item value="* Computes the intersection of arrays using keys for comparison" />
       <item value="$allow" />
       <item value="* Computes the intersection of arrays" />
-      <item value="сектора из запроса" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="444" />
+        <entry key="ENGLISH" value="445" />
         <entry key="RUSSIAN" value="445" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="5" />
