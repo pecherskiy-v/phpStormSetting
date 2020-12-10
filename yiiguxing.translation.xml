@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cleaning" />
+      <item value="cleanig" />
+      <item value="clear" />
+      <item value="clean" />
       <item value="контейнер" />
       <item value="extension" />
       <item value="расширение" />
@@ -47,15 +51,11 @@
       <item value="complete" />
       <item value="complite" />
       <item value="инициатор синхронизации" />
-      <item value="22:23 [S0001][3701] Cannot drop the database 'hermes_test', because it does not exist or you do not have permission." />
-      <item value="* Computes the intersection of arrays using keys for comparison" />
-      <item value="$allow" />
-      <item value="* Computes the intersection of arrays" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="445" />
-        <entry key="RUSSIAN" value="445" />
+        <entry key="ENGLISH" value="450" />
+        <entry key="RUSSIAN" value="450" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="5" />
         <entry key="SWEDISH" value="1" />
@@ -63,6 +63,9 @@
         <entry key="SPANISH" value="1" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1607551684530" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
