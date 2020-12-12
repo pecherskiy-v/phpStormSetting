@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="399" />
     <histories>
+      <item value="befor" />
+      <item value="beafor" />
+      <item value="bafor" />
+      <item value="ba" />
+      <item value="v" />
       <item value="Error while reading line from the server." />
       <item value="[EA] This condition is duplicated in another ifelseif branch." />
       <item value="Parameters number exceeds the specified limit" />
@@ -50,11 +55,6 @@
       <item value="Report Reconciliation Of Discrepancies" />
       <item value="acquiring Agreements" />
       <item value="test Generate Report Single Sector" />
-      <item value="revise" />
-      <item value="сверки" />
-      <item value="Reconciliation Of Discrepancies" />
-      <item value="Reconciliation" />
-      <item value="payload" />
     </histories>
     <option name="languageScores">
       <map>
