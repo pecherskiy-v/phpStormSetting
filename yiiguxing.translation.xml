@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="399" />
     <histories>
+      <item value="[EA] This condition is duplicated in another ifelseif branch." />
       <item value="Parameters number exceeds the specified limit" />
       <item value="[EA] Null should be used as the default value (nullable types are the goal, right?)" />
       <item value="cleaning" />
@@ -54,7 +55,6 @@
       <item value="Reconciliation" />
       <item value="payload" />
       <item value="завершен" />
-      <item value="complete" />
     </histories>
     <option name="languageScores">
       <map>
