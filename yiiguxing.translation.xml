@@ -1,10 +1,28 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="621" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="399" />
     <histories>
+      <item value="неизвестен&#10;" />
+      <item value="неизвет" />
+      <item value="неизветсе" />
+      <item value="ytbpdtcnt" />
+      <item value="неизвестен" />
+      <item value="неизве" />
+      <item value="не определен" />
+      <item value="не опреде" />
+      <item value="ubdefine" />
+      <item value="ubdefi&#10;ne" />
+      <item value="ubdefune" />
+      <item value="ubd" />
+      <item value="ubde" />
+      <item value="гившаут" />
+      <item value="гивш" />
+      <item value="не определн&#10;" />
+      <item value="не " />
+      <item value="un" />
       <item value="змейка&#10;" />
       <item value="p" />
       <item value="шнаке" />
@@ -37,24 +55,6 @@
       <item value="Комманда" />
       <item value="you need to select a_sector" />
       <item value="необходимо выбрать сектор" />
-      <item value="необхождом выбрать сектор" />
-      <item value="сектор не выбран" />
-      <item value="NOT SELECTED SECTOR" />
-      <item value="NOT SELECTE SECTOR" />
-      <item value="* Pluck an array of values from an array." />
-      <item value="[EA] This property initialization seems to be quite 'heavy', consider using static property or constant instead." />
-      <item value="uses" />
-      <item value="Every 1 day from 2020-10-01 to 2020-10-31" />
-      <item value="Download Url Dto" />
-      <item value="скачивание невозможно" />
-      <item value="документ не найден" />
-      <item value="report" />
-      <item value="кузщке" />
-      <item value="скачать невозможно" />
-      <item value="отчет скачать невозможно" />
-      <item value="REPORT DOWNLOAD INPOSIBL" />
-      <item value="доступен для скачивания" />
-      <item value="file" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1607551684530" />
+    <option name="lastTrimTime" value="1608046034231" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
