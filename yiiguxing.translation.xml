@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="399" />
     <histories>
+      <item value="Using aggregate-free condition(s) in HAVING clause might be inefficient. Consider moving them to WHERE" />
       <item value="неизвестен&#10;" />
       <item value="неизвет" />
       <item value="неизветсе" />
@@ -54,7 +55,6 @@
       <item value="Команда" />
       <item value="Комманда" />
       <item value="you need to select a_sector" />
-      <item value="необходимо выбрать сектор" />
     </histories>
     <option name="languageScores">
       <map>
