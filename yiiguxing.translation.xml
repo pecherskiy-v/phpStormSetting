@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="621" />
+    <option name="newTranslationDialogWidth" value="1150" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="399" />
     <histories>
+      <item value="minio1_1         | Disk `/data1` is a root disk. Please ensure the disk is mounted properly, refusing to use root disk.&#10;" />
+      <item value="minio 1" />
       <item value="Using aggregate-free condition(s) in HAVING clause might be inefficient. Consider moving them to WHERE" />
       <item value="неизвестен&#10;" />
       <item value="неизвет" />
@@ -53,8 +55,6 @@
       <item value="Introducing FOREIGN KEY constraint 'FK_DA460427C3C6F69F' on table 'offers' may cause cycles or multiple cascade paths. Specify ON DELETE NO ACTION or ON UPDATE NO ACTION, or modify other FOREIGN KEY constraints." />
       <item value="Doctrine\DBAL\DBALException : An exception occurred while executing 'ALTER TABLE offers ADD CONSTRAINT FK_DA460427C3C6F69F FOREIGN KEY (car_id) REFERENCES cars (id) ON DELETE CASCADE':" />
       <item value="Команда" />
-      <item value="Комманда" />
-      <item value="you need to select a_sector" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1608046034231" />
+    <option name="lastTrimTime" value="1608570096526" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
