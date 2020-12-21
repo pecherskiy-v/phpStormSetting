@@ -1,10 +1,26 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="1146" />
+    <option name="newTranslationDialogWidth" value="1130" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="399" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="наполнить" />
+      <item value="напо" />
+      <item value="напол" />
+      <item value="наполниет" />
+      <item value="наполниет&#10;" />
+      <item value="yf" />
+      <item value="обязательно" />
+      <item value="обезятельно" />
+      <item value="require&#10;" />
+      <item value="require" />
+      <item value="requ" />
+      <item value="re" />
+      <item value="prepare Request" />
+      <item value="prepera Request" />
+      <item value="Namespace prefix must end with a &quot;\&quot;: &quot;App\Http\Requests&quot; in services.yaml (which is loaded in resource &quot;services.yaml&quot;)." />
       <item value="simple" />
       <item value="Example Manager" />
       <item value="docker-compose for local dev environment" />
@@ -40,26 +56,11 @@
       <item value="змейка&#10;" />
       <item value="p" />
       <item value="шнаке" />
-      <item value="shnake&#10;" />
-      <item value="shnake" />
-      <item value="sh" />
-      <item value="s" />
-      <item value="befor" />
-      <item value="beafor" />
-      <item value="bafor" />
-      <item value="ba" />
-      <item value="v" />
-      <item value="Error while reading line from the server." />
-      <item value="[EA] This condition is duplicated in another ifelseif branch." />
-      <item value="Parameters number exceeds the specified limit" />
-      <item value="[EA] Null should be used as the default value (nullable types are the goal, right?)" />
-      <item value="cleaning" />
-      <item value="cleanig" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="452" />
-        <entry key="RUSSIAN" value="452" />
+        <entry key="ENGLISH" value="453" />
+        <entry key="RUSSIAN" value="455" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="5" />
         <entry key="SWEDISH" value="1" />
