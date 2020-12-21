@@ -18,5 +18,11 @@
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:C:/repo/toyota-bank/recognition/src/storage/app/database.sqlite</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="b2b_admin_db@localhost" uuid="76f4f796-4996-417d-8b15-fc7e500e7112">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/b2b_admin_db</jdbc-url>
+    </data-source>
   </component>
 </application>
