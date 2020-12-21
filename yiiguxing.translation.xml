@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="399" />
     <histories>
+      <item value="simple" />
+      <item value="Example Manager" />
       <item value="docker-compose for local dev environment" />
       <item value="docker-compose from local dev environment" />
       <item value="init docker-compose from local dev environment" />
@@ -53,13 +55,11 @@
       <item value="[EA] Null should be used as the default value (nullable types are the goal, right?)" />
       <item value="cleaning" />
       <item value="cleanig" />
-      <item value="clear" />
-      <item value="clean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="450" />
-        <entry key="RUSSIAN" value="450" />
+        <entry key="ENGLISH" value="452" />
+        <entry key="RUSSIAN" value="452" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="5" />
         <entry key="SWEDISH" value="1" />
