@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="1126" />
+    <option name="newTranslationDialogWidth" value="1122" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="bootstrap&#10;" />
+      <item value="bootstrap" />
+      <item value="boots" />
       <item value="does not need to be migrated." />
       <item value="наполнить" />
       <item value="напо" />
@@ -53,9 +56,6 @@
       <item value="гивш" />
       <item value="не определн&#10;" />
       <item value="не " />
-      <item value="un" />
-      <item value="змейка&#10;" />
-      <item value="p" />
     </histories>
     <option name="languageScores">
       <map>
