@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="1118" />
+    <option name="newTranslationDialogWidth" value="1114" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="sceleton" />
       <item value="[EA] Operating on this return mechanism is considered a bad practice. OOP can be used instead." />
+      <item value="sceleton" />
       <item value="bootstrap&#10;" />
       <item value="bootstrap" />
       <item value="boots" />
