@@ -4,6 +4,7 @@
       <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping pattern=".env-local" type="PLAIN_TEXT" />
+      <mapping pattern="doctrine" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="env-stage" type="PLAIN_TEXT" />
       <mapping pattern="fg" type="PLAIN_TEXT" />

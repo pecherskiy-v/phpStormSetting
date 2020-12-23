@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="1114" />
+    <option name="newTranslationDialogWidth" value="1110" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="  Package doctrine/migrations at version 3.0.1 has a PHP requirement incompatible with your PHP version, PHP extensions and Composer version  &#10;" />
       <item value="db:wipe" />
       <item value="[EA] Operating on this return mechanism is considered a bad practice. OOP can be used instead." />
       <item value="sceleton" />
@@ -55,7 +56,6 @@
       <item value="ubdefune" />
       <item value="ubd" />
       <item value="ubde" />
-      <item value="гившаут" />
     </histories>
     <option name="languageScores">
       <map>
