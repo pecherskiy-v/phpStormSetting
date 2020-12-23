@@ -20,6 +20,7 @@
       <mapping ext="rul" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="YAML" />
     </extensionMap>
   </component>
 </application>
