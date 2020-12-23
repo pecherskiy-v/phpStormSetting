@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Remember to call &quot;create()&quot; or &quot;update()&quot; and NOT &quot;save()&quot; when working" />
+      <item value="Migrate" />
       <item value="A classname to be used to gain access to the template content as well as the ability to have a callback once the migration file has been created." />
       <item value="... put here the code to create the user this method must return an integer number with the &quot;exit status code&quot; of the command. You can also use these constants to make code more readable return this if there was no problem running the command (it's equivalent to returning int(0))" />
       <item value="You probably used curly braces to define migration path in your Phinx configuration file, but no directories have been matched using this pattern. Y  &#10;  ou need to create a migration directory manually.   " />
@@ -54,13 +56,11 @@
       <item value="неизве" />
       <item value="не определен" />
       <item value="не опреде" />
-      <item value="ubdefine" />
-      <item value="ubdefi&#10;ne" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="456" />
-        <entry key="RUSSIAN" value="456" />
+        <entry key="ENGLISH" value="457" />
+        <entry key="RUSSIAN" value="457" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="5" />
         <entry key="SWEDISH" value="1" />
