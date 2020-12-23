@@ -6,6 +6,7 @@
       <mapping pattern=".env-local" type="PLAIN_TEXT" />
       <mapping pattern="doctrine" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping pattern="phinx" type="PLAIN_TEXT" />
       <mapping pattern="env-stage" type="PLAIN_TEXT" />
       <mapping pattern="fg" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
