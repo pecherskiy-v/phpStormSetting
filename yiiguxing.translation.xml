@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The JWS has a detached payload, but no payload is provided." />
+      <item value="is Payload Detached" />
       <item value="Our key." />
       <item value="midelware" />
       <item value="midel" />
@@ -54,13 +56,11 @@
       <item value="require" />
       <item value="requ" />
       <item value="re" />
-      <item value="prepare Request" />
-      <item value="prepera Request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="465" />
-        <entry key="RUSSIAN" value="465" />
+        <entry key="ENGLISH" value="467" />
+        <entry key="RUSSIAN" value="467" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="5" />
         <entry key="SWEDISH" value="1" />
