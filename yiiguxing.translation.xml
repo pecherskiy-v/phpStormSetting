@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Our key." />
       <item value="midelware" />
       <item value="midel" />
       <item value="Cannot load resource &quot;attributes.yaml&quot;. Make sure there is a loader supporting the &quot;glob&quot; type." />
@@ -55,12 +56,11 @@
       <item value="re" />
       <item value="prepare Request" />
       <item value="prepera Request" />
-      <item value="Namespace prefix must end with a &quot;\&quot;: &quot;App\Http\Requests&quot; in services.yaml (which is loaded in resource &quot;services.yaml&quot;)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="464" />
-        <entry key="RUSSIAN" value="464" />
+        <entry key="ENGLISH" value="465" />
+        <entry key="RUSSIAN" value="465" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="5" />
         <entry key="SWEDISH" value="1" />
