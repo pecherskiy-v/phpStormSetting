@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="refresh" />
       <item value="There is no extension able to load the configuration for &quot;paths&quot; (in &quot;/opt/project/src/config/../config/migrations.yaml&quot;). Looked for namespace &quot;paths&quot;, found &quot;none&quot; in /opt/project/src/config/../config/migrations.yaml (which is loaded in resource &quot;/opt/project/src/config/../config/migrations.yaml&quot;)." />
       <item value="midle name&#10;last name&#10;first name" />
       <item value="midle name&#10;last name&#10;fi" />
@@ -55,12 +56,11 @@
       <item value="init docker compose from local dev envrimoment" />
       <item value="init docker compose from local dev envrimo" />
       <item value="init docker compose from local dev envri" />
-      <item value="init docker compose from local dev env" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="458" />
-        <entry key="RUSSIAN" value="458" />
+        <entry key="ENGLISH" value="459" />
+        <entry key="RUSSIAN" value="459" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="5" />
         <entry key="SWEDISH" value="1" />
