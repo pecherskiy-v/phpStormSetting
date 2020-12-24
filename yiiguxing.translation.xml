@@ -1,11 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="1098" />
+    <option name="newTranslationDialogWidth" value="1094" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The file &quot;attributes.yaml&quot; does not exist (in: &quot;Array&quot;)." />
+      <item value="GlobFileLoader loads files from a glob pattern." />
+      <item value="On PHP 8, the annotation class can be used as an attribute as well:" />
+      <item value="The @Route annotation main value is the route path. The annotation also recognizes several parameters: requirements, options, defaults, schemes, methods, host, and name. The name parameter is mandatory. Here is an example of how you should be able to use it:" />
+      <item value="The @Route annotation can be set on the class (for global parameters), and on each method." />
+      <item value="You need to define an implementation for the configureRoute() method. Most of the time, this method should define some PHP callable to be called for the route (a controller in MVC speak)." />
       <item value="&quot;Cannot load resource \&quot;../../app/Http/Controllers/\&quot;. Make sure there is a loader supporting the \&quot;attributes\&quot; type.&quot;" />
       <item value="refresh" />
       <item value="There is no extension able to load the configuration for &quot;paths&quot; (in &quot;/opt/project/src/config/../config/migrations.yaml&quot;). Looked for namespace &quot;paths&quot;, found &quot;none&quot; in /opt/project/src/config/../config/migrations.yaml (which is loaded in resource &quot;/opt/project/src/config/../config/migrations.yaml&quot;)." />
@@ -50,17 +56,11 @@
       <item value="Namespace prefix must end with a &quot;\&quot;: &quot;App\Http\Requests&quot; in services.yaml (which is loaded in resource &quot;services.yaml&quot;)." />
       <item value="simple" />
       <item value="Example Manager" />
-      <item value="docker-compose for local dev environment" />
-      <item value="docker-compose from local dev environment" />
-      <item value="init docker-compose from local dev environment" />
-      <item value="init docker compose from local dev environment" />
-      <item value="init docker compose from local dev envrimoment" />
-      <item value="init docker compose from local dev envrimo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="459" />
-        <entry key="RUSSIAN" value="459" />
+        <entry key="ENGLISH" value="464" />
+        <entry key="RUSSIAN" value="464" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="5" />
         <entry key="SWEDISH" value="1" />
