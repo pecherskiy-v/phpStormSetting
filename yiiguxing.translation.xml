@@ -1,11 +1,18 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="1082" />
+    <option name="newTranslationDialogWidth" value="1078" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="success" />
+      <item value="payload" />
+      <item value="удалить токен из кеша" />
+      <item value="удалить токен и" />
+      <item value="удалить тод" />
+      <item value="удал" />
+      <item value="удаляит" />
       <item value="не удалось создать новый токен&#10;" />
       <item value="не удалось создать новый токен" />
       <item value="не удалось со" />
@@ -49,18 +56,11 @@
       <item value="sceleton" />
       <item value="bootstrap&#10;" />
       <item value="bootstrap" />
-      <item value="boots" />
-      <item value="does not need to be migrated." />
-      <item value="наполнить" />
-      <item value="напо" />
-      <item value="напол" />
-      <item value="наполниет" />
-      <item value="наполниет&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="468" />
-        <entry key="RUSSIAN" value="468" />
+        <entry key="ENGLISH" value="470" />
+        <entry key="RUSSIAN" value="470" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="5" />
         <entry key="SWEDISH" value="1" />
