@@ -1,11 +1,18 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="1086" />
+    <option name="newTranslationDialogWidth" value="1082" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="не удалось создать новый токен&#10;" />
+      <item value="не удалось создать новый токен" />
+      <item value="не удалось со" />
+      <item value="не у" />
+      <item value="выа" />
+      <item value="не" />
+      <item value="This exception is thrown by claim checkers when a claim check failed." />
       <item value="The JWS has a detached payload, but no payload is provided." />
       <item value="is Payload Detached" />
       <item value="Our key." />
@@ -49,18 +56,11 @@
       <item value="напол" />
       <item value="наполниет" />
       <item value="наполниет&#10;" />
-      <item value="yf" />
-      <item value="обязательно" />
-      <item value="обезятельно" />
-      <item value="require&#10;" />
-      <item value="require" />
-      <item value="requ" />
-      <item value="re" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="467" />
-        <entry key="RUSSIAN" value="467" />
+        <entry key="ENGLISH" value="468" />
+        <entry key="RUSSIAN" value="468" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="5" />
         <entry key="SWEDISH" value="1" />
