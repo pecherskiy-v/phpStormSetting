@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="1090" />
+    <option name="newTranslationDialogWidth" value="1086" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="midelware" />
+      <item value="midel" />
       <item value="Cannot load resource &quot;attributes.yaml&quot;. Make sure there is a loader supporting the &quot;glob&quot; type." />
       <item value="The file &quot;attributes.yaml&quot; does not exist (in: &quot;Array&quot;)." />
       <item value="GlobFileLoader loads files from a glob pattern." />
@@ -25,7 +27,6 @@
       <item value="midle name" />
       <item value="midle" />
       <item value="mid" />
-      <item value="midel" />
       <item value="Migration contains both change() and/or up()/down() methods.  Ignoring up() and down()." />
       <item value="Remember to call &quot;create()&quot; or &quot;update()&quot; and NOT &quot;save()&quot; when working" />
       <item value="Migrate" />
@@ -55,7 +56,6 @@
       <item value="prepare Request" />
       <item value="prepera Request" />
       <item value="Namespace prefix must end with a &quot;\&quot;: &quot;App\Http\Requests&quot; in services.yaml (which is loaded in resource &quot;services.yaml&quot;)." />
-      <item value="simple" />
     </histories>
     <option name="languageScores">
       <map>
