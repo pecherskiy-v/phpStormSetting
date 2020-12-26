@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Appruve" />
       <item value="про нас" />
       <item value="ghj" />
       <item value="about" />
@@ -55,14 +56,14 @@
       <item value="You probably used curly braces to define migration path in your Phinx configuration file, but no directories have been matched using this pattern. Y  &#10;  ou need to create a migration directory manually.   " />
       <item value="  Package doctrine/migrations at version 3.0.1 has a PHP requirement incompatible with your PHP version, PHP extensions and Composer version  &#10;" />
       <item value="db:wipe" />
-      <item value="[EA] Operating on this return mechanism is considered a bad practice. OOP can be used instead." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="471" />
-        <entry key="RUSSIAN" value="471" />
+        <entry key="RUSSIAN" value="472" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="5" />
+        <entry key="MALTESE" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
         <entry key="SPANISH" value="1" />
@@ -70,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1608570096526" />
+    <option name="lastTrimTime" value="1609002272815" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
