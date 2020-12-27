@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Trailing spaces not allowed" />
       <item value="Block must not be padded by blank lines" />
       <item value="Unexpected space before function parentheses" />
       <item value="Missing semicolon" />
@@ -55,12 +56,11 @@
       <item value="midle name&#10;last name&#10;fi" />
       <item value="midle name&#10;last name&#10;" />
       <item value="midle name&#10;last name" />
-      <item value="midle name&#10;last" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="474" />
-        <entry key="RUSSIAN" value="474" />
+        <entry key="ENGLISH" value="475" />
+        <entry key="RUSSIAN" value="475" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="5" />
         <entry key="MALTESE" value="1" />
