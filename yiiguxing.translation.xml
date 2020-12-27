@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="1058" />
+    <option name="newTranslationDialogWidth" value="1054" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Warning: Maximum update depth exceeded. This can happen when a component calls setState inside useEffect, but useEffect either doesn't have a dependency array, or one of the dependencies changes on every render." />
+      <item value="OrchidE" />
       <item value="create" />
       <item value="attach" />
       <item value="Unexpected space before function parentheses" />
@@ -54,8 +56,6 @@
       <item value="GlobFileLoader loads files from a glob pattern." />
       <item value="On PHP 8, the annotation class can be used as an attribute as well:" />
       <item value="The @Route annotation main value is the route path. The annotation also recognizes several parameters: requirements, options, defaults, schemes, methods, host, and name. The name parameter is mandatory. Here is an example of how you should be able to use it:" />
-      <item value="The @Route annotation can be set on the class (for global parameters), and on each method." />
-      <item value="You need to define an implementation for the configureRoute() method. Most of the time, this method should define some PHP callable to be called for the route (a controller in MVC speak)." />
     </histories>
     <option name="languageScores">
       <map>
