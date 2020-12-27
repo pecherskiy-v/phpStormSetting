@@ -1,11 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="1074" />
+    <option name="newTranslationDialogWidth" value="1070" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="это аутентифицирован" />
+      <item value="это аутентифицирован " />
+      <item value="это аутентифицировак" />
+      <item value="это аутентифициров" />
+      <item value="это аутентифи" />
+      <item value="это аутентифиwbhjdfy" />
+      <item value="это аутентификация" />
+      <item value="is Authentication" />
       <item value="access Token" />
       <item value="Appruve" />
       <item value="про нас" />
@@ -48,14 +56,6 @@
       <item value="midle name&#10;" />
       <item value="midle name" />
       <item value="midle" />
-      <item value="mid" />
-      <item value="Migration contains both change() and/or up()/down() methods.  Ignoring up() and down()." />
-      <item value="Remember to call &quot;create()&quot; or &quot;update()&quot; and NOT &quot;save()&quot; when working" />
-      <item value="Migrate" />
-      <item value="A classname to be used to gain access to the template content as well as the ability to have a callback once the migration file has been created." />
-      <item value="... put here the code to create the user this method must return an integer number with the &quot;exit status code&quot; of the command. You can also use these constants to make code more readable return this if there was no problem running the command (it's equivalent to returning int(0))" />
-      <item value="You probably used curly braces to define migration path in your Phinx configuration file, but no directories have been matched using this pattern. Y  &#10;  ou need to create a migration directory manually.   " />
-      <item value="  Package doctrine/migrations at version 3.0.1 has a PHP requirement incompatible with your PHP version, PHP extensions and Composer version  &#10;" />
     </histories>
     <option name="languageScores">
       <map>
