@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="1046" />
+    <option name="newTranslationDialogWidth" value="1042" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Uncaught (in promise)" />
       <item value="Unnecessarily quoted property 'Accept' found" />
       <item value="Access to fetch at 'http://admin.business.local/v1/login' from origin 'http://front.business.local' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled." />
       <item value="Expected parentheses around arrow function argument" />
@@ -55,7 +56,6 @@
       <item value="is Payload Detached" />
       <item value="Our key." />
       <item value="midelware" />
-      <item value="midel" />
     </histories>
     <option name="languageScores">
       <map>
