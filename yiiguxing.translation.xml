@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="1042" />
+    <option name="newTranslationDialogWidth" value="1038" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="invalid token" />
+      <item value="invalide token" />
       <item value="Uncaught (in promise)" />
       <item value="Unnecessarily quoted property 'Accept' found" />
       <item value="Access to fetch at 'http://admin.business.local/v1/login' from origin 'http://front.business.local' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled." />
@@ -54,14 +56,13 @@
       <item value="This exception is thrown by claim checkers when a claim check failed." />
       <item value="The JWS has a detached payload, but no payload is provided." />
       <item value="is Payload Detached" />
-      <item value="Our key." />
-      <item value="midelware" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="483" />
-        <entry key="RUSSIAN" value="483" />
+        <entry key="ENGLISH" value="484" />
+        <entry key="RUSSIAN" value="485" />
         <entry key="HAITIAN_CREOLE" value="1" />
+        <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="5" />
         <entry key="MALTESE" value="1" />
         <entry key="SWEDISH" value="1" />
