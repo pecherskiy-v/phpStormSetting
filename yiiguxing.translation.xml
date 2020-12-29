@@ -6,6 +6,13 @@
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This allows to enable 6.7 migration aliases" />
+      <item value="filebeat can export internal metrics to a central Elasticsearch monitoring cluster. This requires xpack monitoring to be enabled in Elasticsearch. The reporting is disabled by default." />
+      <item value="At debug level, you can selectively enable logging only for some components. To enable all selectors use [&quot;&quot;]. Examples of other selectors are &quot;beat&quot;, &quot;publish&quot;, &quot;service&quot;." />
+      <item value="Sets log level. The default log level is info. Available log levels are: error, warning, info, debug" />
+      <item value="the url from where to download the dashboards archive. by default this url has a value which is computed based on the beat name and version. for released versions, this url points to the dashboard archive on the artifacts.elastic.co website." />
+      <item value="These settings control loading the sample dashboards to the Kibana index. Loading the dashboards is disabled by default and can be enabled either by setting the options here or by using the `setup` command." />
+      <item value="The name of the shipper that publishes the network data. It can be used to group all the transactions sent by a single shipper in the web interface." />
       <item value="elasticsearch" />
       <item value="Overwriting ILM policy is disabled. Set `setup.ilm.overwrite:true` for enabling.&#10;&#10;Index setup finished.&#10;Loading dashboards (Kibana must be running and reachable)&#10;" />
       <item value="invalid token" />
@@ -49,18 +56,11 @@
       <item value="удалить тод" />
       <item value="удал" />
       <item value="удаляит" />
-      <item value="не удалось создать новый токен&#10;" />
-      <item value="не удалось создать новый токен" />
-      <item value="не удалось со" />
-      <item value="не у" />
-      <item value="выа" />
-      <item value="не" />
-      <item value="This exception is thrown by claim checkers when a claim check failed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="485" />
-        <entry key="RUSSIAN" value="485" />
+        <entry key="ENGLISH" value="493" />
+        <entry key="RUSSIAN" value="493" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="5" />
