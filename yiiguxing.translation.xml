@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Would you like to run the app on another port instead?" />
       <item value="Find your rendered docs at the given route or set route to false if you | want to use your own route and controller. Provide a fully qualified | path to your API blueprint as well as to the required Drafter CLI. |" />
       <item value="This allows to enable 6.7 migration aliases" />
       <item value="filebeat can export internal metrics to a central Elasticsearch monitoring cluster. This requires xpack monitoring to be enabled in Elasticsearch. The reporting is disabled by default." />
@@ -55,7 +56,6 @@
       <item value="удалить токен из кеша" />
       <item value="удалить токен и" />
       <item value="удалить тод" />
-      <item value="удал" />
     </histories>
     <option name="languageScores">
       <map>
