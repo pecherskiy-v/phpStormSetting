@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="[EA] __construct is probably missing Singleton::__construct call." />
       <item value="When authentication succeeded but authenticated user doesn't have access to the resource." />
       <item value="Allows to retrieve a new, valid JSON Web Token based on a valid JSON Web Token." />
       <item value="| Has restricted scope | No |" />
@@ -55,7 +56,6 @@
       <item value="access Token" />
       <item value="Appruve" />
       <item value="про нас" />
-      <item value="ghj" />
     </histories>
     <option name="languageScores">
       <map>
