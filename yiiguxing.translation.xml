@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="the name of the system for the Logstash log message, used to fill the @source field" />
+      <item value="the key for 'extra' fields from the Monolog record" />
       <item value="[EA] __construct is probably missing Singleton::__construct call." />
       <item value="When authentication succeeded but authenticated user doesn't have access to the resource." />
       <item value="Allows to retrieve a new, valid JSON Web Token based on a valid JSON Web Token." />
@@ -54,13 +56,11 @@
       <item value="это аутентификация" />
       <item value="is Authentication" />
       <item value="access Token" />
-      <item value="Appruve" />
-      <item value="про нас" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="500" />
-        <entry key="RUSSIAN" value="500" />
+        <entry key="ENGLISH" value="502" />
+        <entry key="RUSSIAN" value="502" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="5" />
