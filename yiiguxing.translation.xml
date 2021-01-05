@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Cannot inherit previously-inherited or override constant TABLE from interface" />
       <item value="Prepare an SQL statement for execution" />
       <item value="Подтверждение почты" />
       <item value="Подтверждение почты " />
@@ -55,12 +56,11 @@
       <item value="вло" />
       <item value="Trailing spaces not allowed" />
       <item value="Block must not be padded by blank lines" />
-      <item value="Missing semicolon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="504" />
-        <entry key="RUSSIAN" value="504" />
+        <entry key="ENGLISH" value="505" />
+        <entry key="RUSSIAN" value="505" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="5" />
