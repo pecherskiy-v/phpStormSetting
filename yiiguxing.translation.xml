@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="1034" />
+    <option name="newTranslationDialogWidth" value="1030" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Подтверждение почты" />
+      <item value="Подтверждение почты " />
+      <item value="Подтверждение почты&#10;" />
+      <item value="Подтвер" />
+      <item value="Подтве" />
       <item value="регистрация" />
       <item value="регистр" />
       <item value="register" />
@@ -51,11 +56,6 @@
       <item value="Block must not be padded by blank lines" />
       <item value="Missing semicolon" />
       <item value="это аутентифицирован" />
-      <item value="это аутентифицирован " />
-      <item value="это аутентифицировак" />
-      <item value="это аутентифициров" />
-      <item value="это аутентифи" />
-      <item value="это аутентифиwbhjdfy" />
     </histories>
     <option name="languageScores">
       <map>
