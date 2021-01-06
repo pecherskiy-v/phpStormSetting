@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Daily Quest Manager" />
+      <item value="Question Manager" />
       <item value="User already exists" />
       <item value="After successful registration a confirmation email MUST be sent to provided address." />
       <item value="Allows to retrieve a valid JSON Web Token for username and password." />
@@ -54,13 +56,11 @@
       <item value="OrchidE" />
       <item value="create" />
       <item value="attach" />
-      <item value="Unexpected space before function parentheses" />
-      <item value="вложение " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="511" />
-        <entry key="RUSSIAN" value="511" />
+        <entry key="ENGLISH" value="513" />
+        <entry key="RUSSIAN" value="513" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="5" />
