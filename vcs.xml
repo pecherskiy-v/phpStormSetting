@@ -302,6 +302,10 @@
           <option name="url" value="git@github.com:iGusev/phpnsq.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:pecherskiy-v/phpnsq.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\repo\numbuster" />
