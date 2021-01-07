@@ -1,11 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="1022" />
-    <option name="newTranslationDialogX" value="1058" />
-    <option name="newTranslationDialogY" value="399" />
+    <option name="newTranslationDialogWidth" value="1020" />
+    <option name="newTranslationDialogX" value="685" />
+    <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="subscribe" />
+      <item value="thre" />
+      <item value="othe" />
+      <item value="body" />
+      <item value="адресат" />
+      <item value="адмре" />
+      <item value="flhtcfn" />
+      <item value="to" />
+      <item value="from" />
       <item value="defered" />
       <item value="set In Flight" />
       <item value="annual" />
@@ -47,20 +56,11 @@
       <item value="Sets log level. The default log level is info. Available log levels are: error, warning, info, debug" />
       <item value="the url from where to download the dashboards archive. by default this url has a value which is computed based on the beat name and version. for released versions, this url points to the dashboard archive on the artifacts.elastic.co website." />
       <item value="These settings control loading the sample dashboards to the Kibana index. Loading the dashboards is disabled by default and can be enabled either by setting the options here or by using the `setup` command." />
-      <item value="The name of the shipper that publishes the network data. It can be used to group all the transactions sent by a single shipper in the web interface." />
-      <item value="elasticsearch" />
-      <item value="Overwriting ILM policy is disabled. Set `setup.ilm.overwrite:true` for enabling.&#10;&#10;Index setup finished.&#10;Loading dashboards (Kibana must be running and reachable)&#10;" />
-      <item value="invalid token" />
-      <item value="invalide token" />
-      <item value="Uncaught (in promise)" />
-      <item value="Unnecessarily quoted property 'Accept' found" />
-      <item value="Access to fetch at 'http://admin.business.local/v1/login' from origin 'http://front.business.local' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled." />
-      <item value="Expected parentheses around arrow function argument" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="516" />
-        <entry key="RUSSIAN" value="516" />
+        <entry key="ENGLISH" value="522" />
+        <entry key="RUSSIAN" value="522" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="5" />
