@@ -6,8 +6,8 @@
     <option name="newTranslationDialogY" value="399" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="set In Flight" />
       <item value="defered" />
+      <item value="set In Flight" />
       <item value="annual" />
       <item value="a" />
       <item value="methoda" />
@@ -59,8 +59,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="515" />
-        <entry key="RUSSIAN" value="515" />
+        <entry key="ENGLISH" value="516" />
+        <entry key="RUSSIAN" value="516" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="5" />
