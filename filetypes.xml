@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="Dockerfile_Nginx" type="AUTO_DETECTED" />
       <mapping pattern="build_info" type="AUTO_DETECTED" />
       <mapping pattern="dockerfile" type="AUTO_DETECTED" />
+      <mapping ext="nginx" type="Dockerfile" />
       <mapping ext="apib" type="Markdown" />
       <mapping pattern="fg" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
