@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Unnecessarily quoted property 'accessToken' found  quote-props&#10;" />
       <item value="не утсановлен id" />
       <item value="не утсановлен if" />
       <item value="не утсановлен " />
@@ -55,7 +56,6 @@
       <item value="id must not be accessed before initialization&quot;" />
       <item value="You have requested a non-existent service" />
       <item value="Cannot inherit previously-inherited or override constant TABLE from interface" />
-      <item value="Prepare an SQL statement for execution" />
     </histories>
     <option name="languageScores">
       <map>
