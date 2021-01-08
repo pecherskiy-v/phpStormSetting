@@ -47,6 +47,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.bash">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.sh" />
+              <option name="myPluginName" value="Shell Script" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.bigtiff">
           <value>
             <plugin>
@@ -874,12 +883,36 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ps1">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.plugin.adernov.powershell" />
+              <option name="myPluginName" value="PowerShell" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.psd">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.psd1">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.plugin.adernov.powershell" />
+              <option name="myPluginName" value="PowerShell" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.psm1">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.plugin.adernov.powershell" />
+              <option name="myPluginName" value="PowerShell" />
             </plugin>
           </value>
         </entry>
@@ -924,6 +957,15 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.sh">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.sh" />
+              <option name="myPluginName" value="Shell Script" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1239,6 +1281,15 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.zsh">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.sh" />
+              <option name="myPluginName" value="Shell Script" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1627,9 +1678,19 @@
                       <FeaturePluginData displayName="PHP Web Page" pluginName="PHP" pluginId="com.jetbrains.php" />
                     </value>
                   </entry>
+                  <entry key="PowerShellRunType">
+                    <value>
+                      <FeaturePluginData displayName="PowerShell" pluginName="PowerShell" pluginId="com.intellij.plugin.adernov.powershell" />
+                    </value>
+                  </entry>
                   <entry key="ReactNative">
                     <value>
                       <FeaturePluginData displayName="React Native" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
+                    </value>
+                  </entry>
+                  <entry key="ShConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" />
                     </value>
                   </entry>
                   <entry key="TSqltConfigurationType">

@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="dockerfile" type="AUTO_DETECTED" />
       <mapping ext="apib" type="Markdown" />
       <mapping pattern="fg" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
