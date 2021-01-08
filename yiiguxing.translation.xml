@@ -1,11 +1,36 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="1020" />
+    <option name="newTranslationDialogWidth" value="1012" />
     <option name="newTranslationDialogX" value="685" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="не утсановлен id" />
+      <item value="не утсановлен if" />
+      <item value="не утсановлен " />
+      <item value="не утс" />
+      <item value="yt " />
+      <item value="идентификатор не установлен" />
+      <item value="id not set" />
+      <item value="не установелн id" />
+      <item value="не установелн " />
+      <item value="не у" />
+      <item value="column" />
+      <item value="colum" />
+      <item value="colun" />
+      <item value="Email not found" />
+      <item value="INVALIDE TOKEN" />
+      <item value="INVALIDE TOČKEN" />
+      <item value="INVALIDE TOCKEN" />
+      <item value="resolve" />
+      <item value="reso" />
+      <item value="res" />
+      <item value="reds" />
+      <item value="re" />
+      <item value="Пользователь уже существует" />
+      <item value="User already exists" />
+      <item value="filds" />
       <item value="subscribe" />
       <item value="thre" />
       <item value="othe" />
@@ -23,7 +48,6 @@
       <item value="method" />
       <item value="Daily Quest Manager" />
       <item value="Question Manager" />
-      <item value="User already exists" />
       <item value="After successful registration a confirmation email MUST be sent to provided address." />
       <item value="Allows to retrieve a valid JSON Web Token for username and password." />
       <item value="Could not execute App \ Models \ User :: __ construct ()" />
@@ -32,42 +56,21 @@
       <item value="You have requested a non-existent service" />
       <item value="Cannot inherit previously-inherited or override constant TABLE from interface" />
       <item value="Prepare an SQL statement for execution" />
-      <item value="Подтверждение почты" />
-      <item value="Подтверждение почты " />
-      <item value="Подтверждение почты&#10;" />
-      <item value="Подтвер" />
-      <item value="Подтве" />
-      <item value="регистрация" />
-      <item value="регистр" />
-      <item value="register" />
-      <item value="the name of the system for the Logstash log message, used to fill the @source field" />
-      <item value="the key for 'extra' fields from the Monolog record" />
-      <item value="[EA] __construct is probably missing Singleton::__construct call." />
-      <item value="When authentication succeeded but authenticated user doesn't have access to the resource." />
-      <item value="Allows to retrieve a new, valid JSON Web Token based on a valid JSON Web Token." />
-      <item value="| Has restricted scope | No |" />
-      <item value="| Requires authentication | No |" />
-      <item value="Access tokens are required to access nearly all endpoints of this API." />
-      <item value="Would you like to run the app on another port instead?" />
-      <item value="Find your rendered docs at the given route or set route to false if you | want to use your own route and controller. Provide a fully qualified | path to your API blueprint as well as to the required Drafter CLI. |" />
-      <item value="This allows to enable 6.7 migration aliases" />
-      <item value="filebeat can export internal metrics to a central Elasticsearch monitoring cluster. This requires xpack monitoring to be enabled in Elasticsearch. The reporting is disabled by default." />
-      <item value="At debug level, you can selectively enable logging only for some components. To enable all selectors use [&quot;&quot;]. Examples of other selectors are &quot;beat&quot;, &quot;publish&quot;, &quot;service&quot;." />
-      <item value="Sets log level. The default log level is info. Available log levels are: error, warning, info, debug" />
-      <item value="the url from where to download the dashboards archive. by default this url has a value which is computed based on the beat name and version. for released versions, this url points to the dashboard archive on the artifacts.elastic.co website." />
-      <item value="These settings control loading the sample dashboards to the Kibana index. Loading the dashboards is disabled by default and can be enabled either by setting the options here or by using the `setup` command." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="522" />
-        <entry key="RUSSIAN" value="522" />
+        <entry key="ENGLISH" value="524" />
+        <entry key="RUSSIAN" value="524" />
         <entry key="HAITIAN_CREOLE" value="1" />
-        <entry key="CROATIAN" value="1" />
+        <entry key="CROATIAN" value="2" />
         <entry key="ROMANIAN" value="5" />
         <entry key="MALTESE" value="1" />
+        <entry key="BENGALI" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
         <entry key="SPANISH" value="1" />
+        <entry key="HINDI" value="1" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
