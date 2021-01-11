@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="1012" />
+    <option name="newTranslationDialogWidth" value="1010" />
     <option name="newTranslationDialogX" value="685" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Keywords as part of namespace are only allowed since PHP 8.0" />
       <item value="Expected parentheses around arrow function argument arrow-parens" />
       <item value="Expected parentheses around arrow function argument" />
       <item value="Unnecessarily quoted property 'accessToken' found  quote-props&#10;" />
@@ -55,7 +56,6 @@
       <item value="Allows to retrieve a valid JSON Web Token for username and password." />
       <item value="Could not execute App \ Models \ User :: __ construct ()" />
       <item value="Could not execute App\Models\User::__construct()" />
-      <item value="id must not be accessed before initialization&quot;" />
     </histories>
     <option name="languageScores">
       <map>
