@@ -1,11 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="1010" />
+    <option name="newTranslationDialogWidth" value="1006" />
     <option name="newTranslationDialogX" value="685" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Expected parameter of type 'Symfony\Component\Mime\Header\Headers|void', 'Symfony\Bridge\Twig\Mime\BodyRenderer' provided" />
+      <item value="Loads template from the filesystem." />
+      <item value="Twig, the flexible, fast, and secure template language for PHP ============================================================== Twig is a template language for PHP, released under the new BSD license (code and documentation). Twig uses a syntax similar to the Django and Jinja template languages which inspired the Twig runtime environment. Sponsors -------- .. raw:: html &lt;a href=&quot;https:blackfire.iodocsintroduction?utm_source=twig&amp;utm_medium=github_readme&amp;utm_campaign=logo&quot;&gt; &lt;img src=&quot;https:static.blackfire.ioassetsintemporalslogopngblackfire-io_secondary_horizontal_transparent.png?1&quot; width=&quot;255px&quot; alt=&quot;Blackfire.io&quot;&gt; &lt;a&gt; More Information ---------------- Read the `documentation`_ for more information. .. _documentation: https:twig.symfony.comdocumentation" />
+      <item value="Escape parameter placeholders %." />
+      <item value="Replaces parameter placeholders (%name%) by their values." />
+      <item value="Replaces parameter placeholders (%name%) by their values for all parameters." />
+      <item value="[EA] '...::critical(...)' should be used instead." />
+      <item value="There is no extension able to load the configuration for &quot;mailer&quot; (in &quot;/app/config/packages/mailer.yaml&quot;). Looked for namespace &quot;mailer&quot;, found &quot;none&quot; in /app/config/packages/mailer.yaml (which is being imported from &quot;/app/bin/../config/services.yaml&quot;)." />
+      <item value="Looked for namespace &quot;framework&quot;, found &quot;none&quot;. " />
       <item value="Keywords as part of namespace are only allowed since PHP 8.0" />
       <item value="Expected parentheses around arrow function argument arrow-parens" />
       <item value="Expected parentheses around arrow function argument" />
@@ -47,20 +56,11 @@
       <item value="defered" />
       <item value="set In Flight" />
       <item value="annual" />
-      <item value="a" />
-      <item value="methoda" />
-      <item value="method" />
-      <item value="Daily Quest Manager" />
-      <item value="Question Manager" />
-      <item value="After successful registration a confirmation email MUST be sent to provided address." />
-      <item value="Allows to retrieve a valid JSON Web Token for username and password." />
-      <item value="Could not execute App \ Models \ User :: __ construct ()" />
-      <item value="Could not execute App\Models\User::__construct()" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="526" />
-        <entry key="RUSSIAN" value="526" />
+        <entry key="ENGLISH" value="531" />
+        <entry key="RUSSIAN" value="531" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="2" />
         <entry key="ROMANIAN" value="5" />
