@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="check" />
       <item value="Комплектность документов" />
       <item value="consultation Was Received" />
       <item value="Ввод пользователем" />
@@ -55,11 +56,10 @@
       <item value="subscribe" />
       <item value="thre" />
       <item value="othe" />
-      <item value="body" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="533" />
+        <entry key="ENGLISH" value="534" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="RUSSIAN" value="535" />
         <entry key="HAITIAN_CREOLE" value="1" />
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1610047395638" />
+    <option name="lastTrimTime" value="1610490834686" />
   </component>
   <component name="Settings">
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
