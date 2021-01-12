@@ -1,11 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="1006" />
+    <option name="newTranslationDialogWidth" value="1002" />
     <option name="newTranslationDialogX" value="685" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Комплектность документов" />
+      <item value="consultation Was Received" />
+      <item value="Ввод пользователем" />
+      <item value="Unable to find template &quot;/app/templates/image/email_confirmation/89391592905977960.png&quot; (looked into: /app/bin/../templates)." />
+      <item value="Malformed namespaced template name &quot;@89391592905977960&quot; (expecting &quot;@namespace/template_name&quot;)." />
+      <item value="sened" />
+      <item value="This behavior depends on the application embedding Twig." />
+      <item value="config" />
       <item value="Expected parameter of type 'Symfony\Component\Mime\Header\Headers|void', 'Symfony\Bridge\Twig\Mime\BodyRenderer' provided" />
       <item value="Loads template from the filesystem." />
       <item value="Twig, the flexible, fast, and secure template language for PHP ============================================================== Twig is a template language for PHP, released under the new BSD license (code and documentation). Twig uses a syntax similar to the Django and Jinja template languages which inspired the Twig runtime environment. Sponsors -------- .. raw:: html &lt;a href=&quot;https:blackfire.iodocsintroduction?utm_source=twig&amp;utm_medium=github_readme&amp;utm_campaign=logo&quot;&gt; &lt;img src=&quot;https:static.blackfire.ioassetsintemporalslogopngblackfire-io_secondary_horizontal_transparent.png?1&quot; width=&quot;255px&quot; alt=&quot;Blackfire.io&quot;&gt; &lt;a&gt; More Information ---------------- Read the `documentation`_ for more information. .. _documentation: https:twig.symfony.comdocumentation" />
@@ -48,19 +56,12 @@
       <item value="thre" />
       <item value="othe" />
       <item value="body" />
-      <item value="адресат" />
-      <item value="адмре" />
-      <item value="flhtcfn" />
-      <item value="to" />
-      <item value="from" />
-      <item value="defered" />
-      <item value="set In Flight" />
-      <item value="annual" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="531" />
-        <entry key="RUSSIAN" value="531" />
+        <entry key="ENGLISH" value="533" />
+        <entry key="AZERBAIJANI" value="1" />
+        <entry key="RUSSIAN" value="535" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="2" />
         <entry key="ROMANIAN" value="5" />
