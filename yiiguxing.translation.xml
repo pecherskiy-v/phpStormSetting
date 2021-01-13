@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="checked" />
       <item value="check" />
       <item value="Комплектность документов" />
       <item value="consultation Was Received" />
@@ -55,11 +56,10 @@
       <item value="filds" />
       <item value="subscribe" />
       <item value="thre" />
-      <item value="othe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="534" />
+        <entry key="ENGLISH" value="535" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="RUSSIAN" value="535" />
         <entry key="HAITIAN_CREOLE" value="1" />
