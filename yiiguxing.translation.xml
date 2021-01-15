@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="nullable" />
       <item value="Wrapper for json_decode that throws when an error occurs." />
       <item value="The attribute marks the function that has no impact on the program state or passed parameters used after the function execution. This means that a function call that resolves to such a function can be safely removed if the execution result is not used in code afterwards." />
       <item value="re-feed" />
@@ -55,13 +56,12 @@
       <item value="Replaces parameter placeholders (%name%) by their values for all parameters." />
       <item value="[EA] '...::critical(...)' should be used instead." />
       <item value="There is no extension able to load the configuration for &quot;mailer&quot; (in &quot;/app/config/packages/mailer.yaml&quot;). Looked for namespace &quot;mailer&quot;, found &quot;none&quot; in /app/config/packages/mailer.yaml (which is being imported from &quot;/app/bin/../config/services.yaml&quot;)." />
-      <item value="Looked for namespace &quot;framework&quot;, found &quot;none&quot;. " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="554" />
+        <entry key="ENGLISH" value="555" />
         <entry key="AZERBAIJANI" value="1" />
-        <entry key="RUSSIAN" value="554" />
+        <entry key="RUSSIAN" value="555" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="3" />
         <entry key="ROMANIAN" value="6" />
