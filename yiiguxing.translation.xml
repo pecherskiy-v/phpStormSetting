@@ -1,11 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="992" />
+    <option name="newTranslationDialogWidth" value="990" />
     <option name="newTranslationDialogX" value="685" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="обогащение " />
+      <item value="обогащение" />
+      <item value="number" />
+      <item value="autor Id" />
       <item value="The attribute specifies possible array keys and their types." />
       <item value="Field with same name already defined in this class" />
       <item value="Paginate" />
@@ -52,18 +56,14 @@
       <item value="check" />
       <item value="Комплектность документов" />
       <item value="consultation Was Received" />
-      <item value="Ввод пользователем" />
-      <item value="Unable to find template &quot;/app/templates/image/email_confirmation/89391592905977960.png&quot; (looked into: /app/bin/../templates)." />
-      <item value="Malformed namespaced template name &quot;@89391592905977960&quot; (expecting &quot;@namespace/template_name&quot;)." />
-      <item value="sened" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="560" />
+        <entry key="ENGLISH" value="561" />
         <entry key="AZERBAIJANI" value="1" />
-        <entry key="RUSSIAN" value="560" />
+        <entry key="RUSSIAN" value="561" />
         <entry key="HAITIAN_CREOLE" value="1" />
-        <entry key="CROATIAN" value="3" />
+        <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
         <entry key="MALTESE" value="5" />
         <entry key="BENGALI" value="1" />
