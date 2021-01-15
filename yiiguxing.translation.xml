@@ -1,11 +1,18 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="996" />
+    <option name="newTranslationDialogWidth" value="994" />
     <option name="newTranslationDialogX" value="685" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The attribute marks the function that has no impact on the program state or passed parameters used after the function execution. This means that a function call that resolves to such a function can be safely removed if the execution result is not used in code afterwards." />
+      <item value="re-feed" />
+      <item value="повторная подача" />
+      <item value="п" />
+      <item value="gjnjhyfz gj" />
+      <item value="appruve" />
+      <item value="REJECT" />
       <item value="Add a foreign key to a database table." />
       <item value="Add a foreign key to a database table with a given name." />
       <item value="Add a foreign key to a database table with a given name. In options you can specify on_delete|on_delete = cascade|no_action .., on_update, constraint = constraint name." />
@@ -28,7 +35,6 @@
       <item value="пользователь не определен" />
       <item value="пользователь н" />
       <item value="поль" />
-      <item value="п" />
       <item value="phone Appruve" />
       <item value="checked" />
       <item value="check" />
@@ -50,22 +56,16 @@
       <item value="There is no extension able to load the configuration for &quot;mailer&quot; (in &quot;/app/config/packages/mailer.yaml&quot;). Looked for namespace &quot;mailer&quot;, found &quot;none&quot; in /app/config/packages/mailer.yaml (which is being imported from &quot;/app/bin/../config/services.yaml&quot;)." />
       <item value="Looked for namespace &quot;framework&quot;, found &quot;none&quot;. " />
       <item value="Keywords as part of namespace are only allowed since PHP 8.0" />
-      <item value="Expected parentheses around arrow function argument arrow-parens" />
-      <item value="Expected parentheses around arrow function argument" />
-      <item value="Unnecessarily quoted property 'accessToken' found  quote-props&#10;" />
-      <item value="не утсановлен id" />
-      <item value="не утсановлен if" />
-      <item value="не утсановлен " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="551" />
+        <entry key="ENGLISH" value="553" />
         <entry key="AZERBAIJANI" value="1" />
-        <entry key="RUSSIAN" value="551" />
+        <entry key="RUSSIAN" value="553" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="3" />
         <entry key="ROMANIAN" value="6" />
-        <entry key="MALTESE" value="4" />
+        <entry key="MALTESE" value="5" />
         <entry key="BENGALI" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
