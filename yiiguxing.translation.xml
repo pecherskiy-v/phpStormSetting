@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="phone Appruve" />
       <item value="checked" />
       <item value="check" />
       <item value="Комплектность документов" />
@@ -55,17 +56,16 @@
       <item value="User already exists" />
       <item value="filds" />
       <item value="subscribe" />
-      <item value="thre" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="535" />
         <entry key="AZERBAIJANI" value="1" />
-        <entry key="RUSSIAN" value="535" />
+        <entry key="RUSSIAN" value="536" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="2" />
         <entry key="ROMANIAN" value="5" />
-        <entry key="MALTESE" value="1" />
+        <entry key="MALTESE" value="2" />
         <entry key="BENGALI" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
