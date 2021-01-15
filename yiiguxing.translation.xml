@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="attachment Documents" />
+      <item value="attachnet Documents" />
+      <item value="description" />
+      <item value="Has restricted scope" />
       <item value="success" />
       <item value="nullable" />
       <item value="Wrapper for json_decode that throws when an error occurs." />
@@ -32,7 +36,6 @@
       <item value="appruved id" />
       <item value="autor id" />
       <item value="request autor id" />
-      <item value="Has restricted scope" />
       <item value="succes" />
       <item value="пользователь не определен" />
       <item value="пользователь н" />
@@ -53,15 +56,12 @@
       <item value="Twig, the flexible, fast, and secure template language for PHP ============================================================== Twig is a template language for PHP, released under the new BSD license (code and documentation). Twig uses a syntax similar to the Django and Jinja template languages which inspired the Twig runtime environment. Sponsors -------- .. raw:: html &lt;a href=&quot;https:blackfire.iodocsintroduction?utm_source=twig&amp;utm_medium=github_readme&amp;utm_campaign=logo&quot;&gt; &lt;img src=&quot;https:static.blackfire.ioassetsintemporalslogopngblackfire-io_secondary_horizontal_transparent.png?1&quot; width=&quot;255px&quot; alt=&quot;Blackfire.io&quot;&gt; &lt;a&gt; More Information ---------------- Read the `documentation`_ for more information. .. _documentation: https:twig.symfony.comdocumentation" />
       <item value="Escape parameter placeholders %." />
       <item value="Replaces parameter placeholders (%name%) by their values." />
-      <item value="Replaces parameter placeholders (%name%) by their values for all parameters." />
-      <item value="[EA] '...::critical(...)' should be used instead." />
-      <item value="There is no extension able to load the configuration for &quot;mailer&quot; (in &quot;/app/config/packages/mailer.yaml&quot;). Looked for namespace &quot;mailer&quot;, found &quot;none&quot; in /app/config/packages/mailer.yaml (which is being imported from &quot;/app/bin/../config/services.yaml&quot;)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="556" />
+        <entry key="ENGLISH" value="559" />
         <entry key="AZERBAIJANI" value="1" />
-        <entry key="RUSSIAN" value="556" />
+        <entry key="RUSSIAN" value="559" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="3" />
         <entry key="ROMANIAN" value="6" />
