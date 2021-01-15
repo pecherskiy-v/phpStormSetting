@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="success" />
       <item value="nullable" />
       <item value="Wrapper for json_decode that throws when an error occurs." />
       <item value="The attribute marks the function that has no impact on the program state or passed parameters used after the function execution. This means that a function call that resolves to such a function can be safely removed if the execution result is not used in code afterwards." />
@@ -32,7 +33,6 @@
       <item value="autor id" />
       <item value="request autor id" />
       <item value="Has restricted scope" />
-      <item value="success" />
       <item value="succes" />
       <item value="пользователь не определен" />
       <item value="пользователь н" />
@@ -59,9 +59,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="555" />
+        <entry key="ENGLISH" value="556" />
         <entry key="AZERBAIJANI" value="1" />
-        <entry key="RUSSIAN" value="555" />
+        <entry key="RUSSIAN" value="556" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="3" />
         <entry key="ROMANIAN" value="6" />
