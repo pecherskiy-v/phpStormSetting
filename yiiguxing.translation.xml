@@ -1,16 +1,24 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="998" />
+    <option name="newTranslationDialogWidth" value="996" />
     <option name="newTranslationDialogX" value="685" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="phones from requests" />
+      <item value="номера из запросов" />
+      <item value="номера из дапросов" />
+      <item value="номера и" />
+      <item value="nb" />
+      <item value="phones of requests" />
+      <item value="Verification Requests" />
+      <item value="comments" />
+      <item value="commentary" />
       <item value="moderator id" />
       <item value="appruved id" />
       <item value="autor id" />
       <item value="request autor id" />
-      <item value="phones of requests" />
       <item value="Has restricted scope" />
       <item value="success" />
       <item value="succes" />
@@ -48,20 +56,12 @@
       <item value="не утс" />
       <item value="yt " />
       <item value="идентификатор не установлен" />
-      <item value="id not set" />
-      <item value="не установелн id" />
-      <item value="не установелн " />
-      <item value="не у" />
-      <item value="column" />
-      <item value="colum" />
-      <item value="colun" />
-      <item value="Email not found" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="540" />
+        <entry key="ENGLISH" value="547" />
         <entry key="AZERBAIJANI" value="1" />
-        <entry key="RUSSIAN" value="540" />
+        <entry key="RUSSIAN" value="547" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="3" />
         <entry key="ROMANIAN" value="6" />
