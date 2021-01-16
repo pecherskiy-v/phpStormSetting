@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="query" />
+      <item value="queury" />
       <item value="author Last Name" />
       <item value="author First Name" />
       <item value="autor Last Name" />
@@ -54,14 +56,12 @@
       <item value="succes" />
       <item value="пользователь не определен" />
       <item value="пользователь н" />
-      <item value="поль" />
-      <item value="phone Appruve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="564" />
+        <entry key="ENGLISH" value="566" />
         <entry key="AZERBAIJANI" value="1" />
-        <entry key="RUSSIAN" value="564" />
+        <entry key="RUSSIAN" value="566" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
