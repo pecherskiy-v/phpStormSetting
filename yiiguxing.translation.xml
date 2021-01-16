@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="author Last Name" />
+      <item value="author First Name" />
+      <item value="autor Last Name" />
       <item value="Column created_at must be either aggregated, or mentioned in GROUP BY clause" />
       <item value="обогащение " />
       <item value="обогащение" />
@@ -53,15 +56,12 @@
       <item value="пользователь н" />
       <item value="поль" />
       <item value="phone Appruve" />
-      <item value="checked" />
-      <item value="check" />
-      <item value="Комплектность документов" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="561" />
+        <entry key="ENGLISH" value="564" />
         <entry key="AZERBAIJANI" value="1" />
-        <entry key="RUSSIAN" value="561" />
+        <entry key="RUSSIAN" value="564" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
