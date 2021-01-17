@@ -6,6 +6,13 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="funny" />
+      <item value="fu" />
+      <item value="f" />
+      <item value="fany" />
+      <item value="fanny" />
+      <item value="афттн" />
+      <item value="аф" />
       <item value="nullable" />
       <item value="author id" />
       <item value="query" />
@@ -49,13 +56,6 @@
       <item value="phones of requests" />
       <item value="Verification Requests" />
       <item value="comments" />
-      <item value="commentary" />
-      <item value="moderator id" />
-      <item value="appruved id" />
-      <item value="autor id" />
-      <item value="request autor id" />
-      <item value="succes" />
-      <item value="пользователь не определен" />
     </histories>
     <option name="languageScores">
       <map>
