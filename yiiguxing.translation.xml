@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Retrieve" />
+      <item value="подтверждаемая" />
       <item value="Plus Icon" />
       <item value="Assign array to a variable before exporting as module default importno-anonymous-default-export" />
       <item value="Expected '!==' and instead saw '!=' eqeqeq" />
@@ -54,14 +56,12 @@
       <item value="phones from requests" />
       <item value="номера из запросов" />
       <item value="номера из дапросов" />
-      <item value="номера и" />
-      <item value="nb" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="571" />
+        <entry key="ENGLISH" value="572" />
         <entry key="AZERBAIJANI" value="1" />
-        <entry key="RUSSIAN" value="571" />
+        <entry key="RUSSIAN" value="573" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
