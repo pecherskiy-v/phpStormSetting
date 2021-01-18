@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Plus Icon" />
       <item value="Assign array to a variable before exporting as module default importno-anonymous-default-export" />
       <item value="Expected '!==' and instead saw '!=' eqeqeq" />
       <item value="funny" />
@@ -55,13 +56,12 @@
       <item value="номера из дапросов" />
       <item value="номера и" />
       <item value="nb" />
-      <item value="phones of requests" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="570" />
+        <entry key="ENGLISH" value="571" />
         <entry key="AZERBAIJANI" value="1" />
-        <entry key="RUSSIAN" value="570" />
+        <entry key="RUSSIAN" value="571" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1610490834686" />
+    <option name="lastTrimTime" value="1610963837939" />
   </component>
   <component name="Settings">
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
