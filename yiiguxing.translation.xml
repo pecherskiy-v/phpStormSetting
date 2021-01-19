@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Range Not Satisfiable" />
+      <item value="Unable to open" />
       <item value="All &quot;X-Forwarded-&quot; headers sent by &quot;usual&quot; reverse proxy" />
       <item value="A bit field of Request::HEADER_, to set which headers to trust from your proxies" />
       <item value="&lt;eval&gt;:1 SyntaxError: Invalid JSON: &lt;json&gt;:1:0 Expected json literal but found eof" />
@@ -54,14 +56,12 @@
       <item value="повторная подача" />
       <item value="п" />
       <item value="gjnjhyfz gj" />
-      <item value="appruve" />
-      <item value="REJECT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="577" />
+        <entry key="ENGLISH" value="580" />
         <entry key="AZERBAIJANI" value="1" />
-        <entry key="RUSSIAN" value="577" />
+        <entry key="RUSSIAN" value="580" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
