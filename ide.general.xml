@@ -15,8 +15,10 @@
       <map>
         <entry key="LineSeparator" value="false" />
         <entry key="Memory" value="true" />
+        <entry key="TranslatorWidget" value="false" />
         <entry key="cn.yiiguxing.plugin.translate.ui.TranslatorWidget" value="false" />
         <entry key="mtStatusBar" value="false" />
+        <entry key="php.language.level.widget" value="false" />
       </map>
     </option>
   </component>
