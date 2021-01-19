@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Warning: Cannot update a component (`VerificationRequestsView`) while rendering a different component (`Results`). To locate the bad setState() call inside `Results`, follow the stack trace as described in" />
       <item value="Range Not Satisfiable" />
       <item value="Unable to open" />
       <item value="All &quot;X-Forwarded-&quot; headers sent by &quot;usual&quot; reverse proxy" />
@@ -55,7 +56,6 @@
       <item value="re-feed" />
       <item value="повторная подача" />
       <item value="п" />
-      <item value="gjnjhyfz gj" />
     </histories>
     <option name="languageScores">
       <map>
