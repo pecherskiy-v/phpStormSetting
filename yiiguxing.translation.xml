@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="All &quot;X-Forwarded-&quot; headers sent by &quot;usual&quot; reverse proxy" />
+      <item value="A bit field of Request::HEADER_, to set which headers to trust from your proxies" />
       <item value="&lt;eval&gt;:1 SyntaxError: Invalid JSON: &lt;json&gt;:1:0 Expected json literal but found eof" />
       <item value="Invalid URI because of unsubstituted variable 'location' at C:\repo\numbuster\b2b-backend\api\client\tus\init.http:19:6" />
       <item value="Undefined array key 1 in" />
@@ -54,14 +56,12 @@
       <item value="gjnjhyfz gj" />
       <item value="appruve" />
       <item value="REJECT" />
-      <item value="Add a foreign key to a database table." />
-      <item value="Add a foreign key to a database table with a given name." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="575" />
+        <entry key="ENGLISH" value="577" />
         <entry key="AZERBAIJANI" value="1" />
-        <entry key="RUSSIAN" value="575" />
+        <entry key="RUSSIAN" value="577" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
