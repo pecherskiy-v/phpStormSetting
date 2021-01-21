@@ -1,67 +1,67 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="988" />
+    <option name="newTranslationDialogWidth" value="978" />
     <option name="newTranslationDialogX" value="685" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="Warning: Cannot update a component (`VerificationRequestsView`) while rendering a different component (`Results`). To locate the bad setState() call inside `Results`, follow the stack trace as described in" />
-      <item value="Range Not Satisfiable" />
-      <item value="Unable to open" />
-      <item value="All &quot;X-Forwarded-&quot; headers sent by &quot;usual&quot; reverse proxy" />
-      <item value="A bit field of Request::HEADER_, to set which headers to trust from your proxies" />
-      <item value="&lt;eval&gt;:1 SyntaxError: Invalid JSON: &lt;json&gt;:1:0 Expected json literal but found eof" />
-      <item value="Invalid URI because of unsubstituted variable 'location' at C:\repo\numbuster\b2b-backend\api\client\tus\init.http:19:6" />
-      <item value="Undefined array key 1 in" />
-      <item value="Either redis, file or apcu. Leave empty for file based cache." />
-      <item value="Retrieve" />
-      <item value="подтверждаемая" />
-      <item value="Plus Icon" />
-      <item value="Assign array to a variable before exporting as module default importno-anonymous-default-export" />
-      <item value="Expected '!==' and instead saw '!=' eqeqeq" />
-      <item value="funny" />
-      <item value="fu" />
-      <item value="f" />
-      <item value="fany" />
-      <item value="fanny" />
-      <item value="афттн" />
-      <item value="аф" />
-      <item value="nullable" />
-      <item value="author id" />
-      <item value="query" />
-      <item value="queury" />
-      <item value="author Last Name" />
-      <item value="author First Name" />
-      <item value="autor Last Name" />
-      <item value="Column created_at must be either aggregated, or mentioned in GROUP BY clause" />
-      <item value="обогащение " />
-      <item value="обогащение" />
-      <item value="number" />
-      <item value="autor Id" />
-      <item value="The attribute specifies possible array keys and their types." />
-      <item value="Field with same name already defined in this class" />
-      <item value="Paginate" />
-      <item value="Paginates" />
-      <item value="Pagginate" />
-      <item value="Pagginate&#10;" />
-      <item value="Pagginate Trait" />
-      <item value="attachment Documents" />
-      <item value="attachnet Documents" />
-      <item value="description" />
-      <item value="Has restricted scope" />
-      <item value="success" />
-      <item value="Wrapper for json_decode that throws when an error occurs." />
-      <item value="The attribute marks the function that has no impact on the program state or passed parameters used after the function execution. This means that a function call that resolves to such a function can be safely removed if the execution result is not used in code afterwards." />
-      <item value="re-feed" />
-      <item value="повторная подача" />
-      <item value="п" />
+      <item value="expression is not allowed as field default value" />
+      <item value="RUN JOB" />
+      <item value="Assert a job was not pushed..." />
+      <item value="Assert a job was pushed twice..." />
+      <item value="Assert a job was pushed to a given queue..." />
+      <item value="Assert that no jobs were pushed..." />
+      <item value="Perform order shipping..." />
+      <item value="умножаемое" />
+      <item value="умно" />
+      <item value="множитель" />
+      <item value="множ" />
+      <item value="мнод" />
+      <item value="м" />
+      <item value="vyj;bntkm" />
+      <item value="vyj" />
+      <item value="e" />
+      <item value="attempt" />
+      <item value="попытка" />
+      <item value="по" />
+      <item value="gjgsnrf" />
+      <item value="gj" />
+      <item value="retry" />
+      <item value="CALLBACK RETRY COUNT" />
+      <item value="CALLBACK RETRY DELAY TIME FACTOR" />
+      <item value="CALLBACK RETRY DELAY TIME MINUTES" />
+      <item value="CALLBACK REPTRY DELAY TIME MINUTES" />
+      <item value="CALLBACK REPTRY DELAY TIME MINUTS" />
+      <item value="мно" />
+      <item value="индекс" />
+      <item value="index" />
+      <item value="CALLBACK REPTRY COUNT" />
+      <item value="CALLBACK REPTRY DELAY TIME SEC" />
+      <item value="QUEUE" />
+      <item value="другой Перезвони" />
+      <item value="другой вид Перезвони" />
+      <item value="другй вид Перезвони" />
+      <item value="другуй вид Перезвони" />
+      <item value="другуй вид" />
+      <item value="другуй " />
+      <item value="другой " />
+      <item value="другй " />
+      <item value="другуй Перезвони" />
+      <item value="другуй Перезвон" />
+      <item value="другую Перезвони" />
+      <item value="Перезвони" />
+      <item value="Перезвони в " />
+      <item value="Перезвони в другую " />
+      <item value="Перезвони в другуюю" />
+      <item value="Перезвони в любую" />
+      <item value="Перезвони " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="580" />
+        <entry key="ENGLISH" value="597" />
         <entry key="AZERBAIJANI" value="1" />
-        <entry key="RUSSIAN" value="580" />
+        <entry key="RUSSIAN" value="597" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
