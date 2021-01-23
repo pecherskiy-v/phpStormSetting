@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="976" />
+    <option name="newTranslationDialogWidth" value="974" />
     <option name="newTranslationDialogX" value="685" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header contains multiple " />
+      <item value="Access to XMLHttpRequest at 'http://admin.business.local/v1/files' from origin 'http://front.business.local' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource." />
       <item value="Warning: Each child in a list should have a unique &quot;key&quot; prop.&#10;" />
       <item value="An exception occurred while executing" />
       <item value="бухгалтерия" />
@@ -54,8 +56,6 @@
       <item value="другуй " />
       <item value="другой " />
       <item value="другй " />
-      <item value="другуй Перезвони" />
-      <item value="другуй Перезвон" />
     </histories>
     <option name="languageScores">
       <map>
