@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Warning: Each child in a list should have a unique &quot;key&quot; prop.&#10;" />
       <item value="An exception occurred while executing" />
       <item value="бухгалтерия" />
       <item value="бу" />
@@ -55,7 +56,6 @@
       <item value="другй " />
       <item value="другуй Перезвони" />
       <item value="другуй Перезвон" />
-      <item value="другую Перезвони" />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1610963837939" />
+    <option name="lastTrimTime" value="1611439812738" />
   </component>
   <component name="Settings">
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
