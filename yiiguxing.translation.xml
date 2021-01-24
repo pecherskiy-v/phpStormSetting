@@ -1,11 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="968" />
+    <option name="newTranslationDialogWidth" value="964" />
     <option name="newTranslationDialogX" value="685" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="место хранения " />
+      <item value="место " />
+      <item value="отношение к сущьности" />
+      <item value="отношение к " />
+      <item value="отношение" />
+      <item value="отно" />
+      <item value="связь" />
+      <item value="связ" />
       <item value="documents For Verification" />
       <item value="document For Verification" />
       <item value="document From Virification" />
@@ -48,14 +56,6 @@
       <item value="CALLBACK REPTRY DELAY TIME MINUTES" />
       <item value="CALLBACK REPTRY DELAY TIME MINUTS" />
       <item value="мно" />
-      <item value="индекс" />
-      <item value="index" />
-      <item value="CALLBACK REPTRY COUNT" />
-      <item value="CALLBACK REPTRY DELAY TIME SEC" />
-      <item value="QUEUE" />
-      <item value="другой Перезвони" />
-      <item value="другой вид Перезвони" />
-      <item value="другй вид Перезвони" />
     </histories>
     <option name="languageScores">
       <map>
