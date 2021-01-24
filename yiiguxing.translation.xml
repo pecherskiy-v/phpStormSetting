@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="phone-verification-documents" />
+      <item value="Virification" />
+      <item value="Min IO Req Virifi Document Provider" />
       <item value="storage" />
       <item value="storege" />
       <item value="Field 'file_name' doesn't have a default value" />
@@ -53,16 +56,13 @@
       <item value="gjgsnrf" />
       <item value="gj" />
       <item value="retry" />
-      <item value="CALLBACK RETRY COUNT" />
-      <item value="CALLBACK RETRY DELAY TIME FACTOR" />
-      <item value="CALLBACK RETRY DELAY TIME MINUTES" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="602" />
+        <entry key="ENGLISH" value="605" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="602" />
+        <entry key="RUSSIAN" value="605" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
