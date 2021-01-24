@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="964" />
+    <option name="newTranslationDialogWidth" value="962" />
     <option name="newTranslationDialogX" value="685" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Field 'file_name' doesn't have a default value" />
       <item value="место хранения " />
       <item value="место " />
       <item value="отношение к сущьности" />
@@ -55,7 +56,6 @@
       <item value="CALLBACK RETRY DELAY TIME MINUTES" />
       <item value="CALLBACK REPTRY DELAY TIME MINUTES" />
       <item value="CALLBACK REPTRY DELAY TIME MINUTS" />
-      <item value="мно" />
     </histories>
     <option name="languageScores">
       <map>
