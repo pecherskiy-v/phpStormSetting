@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="970" />
+    <option name="newTranslationDialogWidth" value="968" />
     <option name="newTranslationDialogX" value="685" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="documents For Verification" />
+      <item value="document For Verification" />
+      <item value="document From Virification" />
       <item value="Request Entity Too Large" />
       <item value="Failed because: Error: tus: failed to upload chunk at offset 0, caused by [object ProgressEvent], originated from request (method: PATCH, url: http://admin.business.local/v1/files/13e57a4e-3707-4786-8e1e-7f30fc3239f6, response code: n/a, response text: n/a, request id: n/a)" />
       <item value="has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header contains multiple " />
@@ -53,15 +56,12 @@
       <item value="другой Перезвони" />
       <item value="другой вид Перезвони" />
       <item value="другй вид Перезвони" />
-      <item value="другуй вид Перезвони" />
-      <item value="другуй вид" />
-      <item value="другуй " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="600" />
+        <entry key="ENGLISH" value="601" />
         <entry key="AZERBAIJANI" value="1" />
-        <entry key="RUSSIAN" value="600" />
+        <entry key="RUSSIAN" value="601" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
