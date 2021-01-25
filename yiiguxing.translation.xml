@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="952" />
-    <option name="newTranslationDialogX" value="586" />
-    <option name="newTranslationDialogY" value="175" />
+    <option name="newTranslationDialogWidth" value="950" />
+    <option name="newTranslationDialogX" value="755" />
+    <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="possible keys" />
+      <item value="possible_keys" />
+      <item value="possible_" />
+      <item value="possible" />
+      <item value="poss" />
       <item value="Доступ" />
       <item value="разрешения" />
       <item value="разрешени\я" />
@@ -51,11 +56,6 @@
       <item value="документы заявки на " />
       <item value="документы заявки" />
       <item value="дук" />
-      <item value="phone-verification-documents" />
-      <item value="Virification" />
-      <item value="Min IO Req Virifi Document Provider" />
-      <item value="storage" />
-      <item value="storege" />
     </histories>
     <option name="languageScores">
       <map>
