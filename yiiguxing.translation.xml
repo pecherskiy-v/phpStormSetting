@@ -1,11 +1,33 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="958" />
+    <option name="newTranslationDialogWidth" value="956" />
     <option name="newTranslationDialogX" value="586" />
     <option name="newTranslationDialogY" value="175" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="CHANGE PHONE STATUS" />
+      <item value="ADD PHONES FOR REQUEST" />
+      <item value="ADD DOCUMENTS FOR REQUEST" />
+      <item value="ADD DOCUMENTS TO REQU" />
+      <item value="ADD PHONES TO REQUEST" />
+      <item value="ADD PHONE FOR REQUEST" />
+      <item value="ADD DOCUMENTS TO REQUEST" />
+      <item value="ADD PHONE f Or REQUEST" />
+      <item value="добавить телефон к запросу" />
+      <item value="добавить телефон к запроса" />
+      <item value="добавить телефон к " />
+      <item value="добавить теле" />
+      <item value="ADD PHONE FRO REQUEST" />
+      <item value="ADD PHONE FROM REQUEST" />
+      <item value="ADD PHONE TO REQUEST" />
+      <item value="CREATE REQUEST" />
+      <item value="READ DOCUMENTS LIST BY REQUEST" />
+      <item value="READ DOCUMENTS BY REQUEST LIST" />
+      <item value="READ REQUEST LIST" />
+      <item value="READ PHONE LIST" />
+      <item value="&lt;?php declare(strict_types=1); namespace App\Constants\Acl; use MyCLabs\Enum\Enum; final class PermissionConstant extends Enum { public const READ_PHONE_LIST =''; public const READ_REQUEST_LIST =''; public const READ_DOCUMENTS_BY_REQUEST_LIST =''; public const CREATE_REQUEST =''; public const ADD_PHONE_TO_REQUEST =''; public const ADD_DOCUMENTS_TO_REQUEST =''; }" />
+      <item value="ACL" />
       <item value="Permission" />
       <item value="Per" />
       <item value="приклерпленные документы" />
@@ -34,35 +56,13 @@
       <item value="Request Entity Too Large" />
       <item value="Failed because: Error: tus: failed to upload chunk at offset 0, caused by [object ProgressEvent], originated from request (method: PATCH, url: http://admin.business.local/v1/files/13e57a4e-3707-4786-8e1e-7f30fc3239f6, response code: n/a, response text: n/a, request id: n/a)" />
       <item value="has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header contains multiple " />
-      <item value="Access to XMLHttpRequest at 'http://admin.business.local/v1/files' from origin 'http://front.business.local' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource." />
-      <item value="Warning: Each child in a list should have a unique &quot;key&quot; prop.&#10;" />
-      <item value="An exception occurred while executing" />
-      <item value="бухгалтерия" />
-      <item value="бу" />
-      <item value="б" />
-      <item value="Passing in the &quot;body&quot; request option as an array to send a POST request has been deprecated. Please use the &quot;form_params&quot; request option to send a applicationx-www-form-urlencoded request, or the &quot;multipart&quot; request option to send a multipartform-data request. optprojectvendorguzzlehttpguzzlesrcClient.php:495" />
-      <item value="Failed asserting that an array is empty." />
-      <item value="expression is not allowed as field default value" />
-      <item value="RUN JOB" />
-      <item value="Assert a job was not pushed..." />
-      <item value="Assert a job was pushed twice..." />
-      <item value="Assert a job was pushed to a given queue..." />
-      <item value="Assert that no jobs were pushed..." />
-      <item value="Perform order shipping..." />
-      <item value="умножаемое" />
-      <item value="умно" />
-      <item value="множитель" />
-      <item value="множ" />
-      <item value="мнод" />
-      <item value="м" />
-      <item value="vyj;bntkm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="605" />
+        <entry key="ENGLISH" value="626" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="605" />
+        <entry key="RUSSIAN" value="626" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
