@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="950" />
+    <option name="newTranslationDialogWidth" value="948" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The file &quot;/app/business-admin-php-admin-api/src/config/routes/v1/./user.yaml&quot; does not contain valid YAML: Unable to parse at line 15 (near &quot;defaults&quot;) in /app/business-admin-php-admin-api/src/config/routes/v1/./user.yaml (which is being imported from &quot;/app/business-admin-php-admin-api/src/config/routes/v1/v1.yaml&quot;)." />
       <item value="possible keys" />
       <item value="possible_keys" />
       <item value="possible_" />
@@ -55,7 +56,6 @@
       <item value="документы " />
       <item value="документы заявки на " />
       <item value="документы заявки" />
-      <item value="дук" />
     </histories>
     <option name="languageScores">
       <map>
