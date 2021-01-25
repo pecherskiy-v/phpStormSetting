@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Access deny" />
+      <item value="Accesse deny" />
+      <item value="aqual" />
       <item value="The file &quot;/app/business-admin-php-admin-api/src/config/routes/v1/./user.yaml&quot; does not contain valid YAML: Unable to parse at line 15 (near &quot;defaults&quot;) in /app/business-admin-php-admin-api/src/config/routes/v1/./user.yaml (which is being imported from &quot;/app/business-admin-php-admin-api/src/config/routes/v1/v1.yaml&quot;)." />
       <item value="possible keys" />
       <item value="possible_keys" />
@@ -53,21 +56,19 @@
       <item value="Per" />
       <item value="приклерпленные документы" />
       <item value="документы" />
-      <item value="документы " />
-      <item value="документы заявки на " />
-      <item value="документы заявки" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="636" />
+        <entry key="ENGLISH" value="638" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="636" />
+        <entry key="RUSSIAN" value="638" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
         <entry key="MALTESE" value="5" />
         <entry key="BENGALI" value="1" />
+        <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="UKRAINIAN" value="2" />
         <entry key="SPANISH" value="1" />
