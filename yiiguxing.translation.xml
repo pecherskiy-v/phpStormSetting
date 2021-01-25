@@ -1,11 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="956" />
+    <option name="newTranslationDialogWidth" value="954" />
     <option name="newTranslationDialogX" value="586" />
     <option name="newTranslationDialogY" value="175" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="READ DOCUMENTS LIST BY REQUEST" />
+      <item value="read request list" />
+      <item value="ПРОЧИТАТЬ СПИСОК ТЕЛЕФОНОВ" />
+      <item value="READ PHONE LIST" />
+      <item value="администратор" />
+      <item value="Администратор" />
+      <item value="READ_PHONE_LIST READ_REQUEST_LIST READ_DOCUMENTS_LIST_BY_REQUEST CREATE_REQUEST ADD_PHONES_FOR_REQUEST ADD_DOCUMENTS_FOR_REQUEST CHANGE_PHONE_STATUS CHANGE_REQUEST_STATUS" />
+      <item value="CHANGE REQUEST STATUS" />
       <item value="CHANGE PHONE STATUS" />
       <item value="ADD PHONES FOR REQUEST" />
       <item value="ADD DOCUMENTS FOR REQUEST" />
@@ -22,10 +30,8 @@
       <item value="ADD PHONE FROM REQUEST" />
       <item value="ADD PHONE TO REQUEST" />
       <item value="CREATE REQUEST" />
-      <item value="READ DOCUMENTS LIST BY REQUEST" />
       <item value="READ DOCUMENTS BY REQUEST LIST" />
       <item value="READ REQUEST LIST" />
-      <item value="READ PHONE LIST" />
       <item value="&lt;?php declare(strict_types=1); namespace App\Constants\Acl; use MyCLabs\Enum\Enum; final class PermissionConstant extends Enum { public const READ_PHONE_LIST =''; public const READ_REQUEST_LIST =''; public const READ_DOCUMENTS_BY_REQUEST_LIST =''; public const CREATE_REQUEST =''; public const ADD_PHONE_TO_REQUEST =''; public const ADD_DOCUMENTS_TO_REQUEST =''; }" />
       <item value="ACL" />
       <item value="Permission" />
@@ -50,19 +56,13 @@
       <item value="отно" />
       <item value="связь" />
       <item value="связ" />
-      <item value="documents For Verification" />
-      <item value="document For Verification" />
-      <item value="document From Virification" />
-      <item value="Request Entity Too Large" />
-      <item value="Failed because: Error: tus: failed to upload chunk at offset 0, caused by [object ProgressEvent], originated from request (method: PATCH, url: http://admin.business.local/v1/files/13e57a4e-3707-4786-8e1e-7f30fc3239f6, response code: n/a, response text: n/a, request id: n/a)" />
-      <item value="has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header contains multiple " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="626" />
+        <entry key="ENGLISH" value="633" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="626" />
+        <entry key="RUSSIAN" value="633" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
