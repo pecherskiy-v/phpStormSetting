@@ -1,11 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="954" />
+    <option name="newTranslationDialogWidth" value="952" />
     <option name="newTranslationDialogX" value="586" />
     <option name="newTranslationDialogY" value="175" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Доступ" />
+      <item value="разрешения" />
+      <item value="разрешени\я" />
+      <item value="разрешение" />
+      <item value="hfphtitybt" />
+      <item value="hfphtitybt&#10;" />
       <item value="premission" />
       <item value="permission" />
       <item value="roles" />
@@ -50,12 +56,6 @@
       <item value="Min IO Req Virifi Document Provider" />
       <item value="storage" />
       <item value="storege" />
-      <item value="Field 'file_name' doesn't have a default value" />
-      <item value="место хранения " />
-      <item value="место " />
-      <item value="отношение к сущьности" />
-      <item value="отношение к " />
-      <item value="отношение" />
     </histories>
     <option name="languageScores">
       <map>
