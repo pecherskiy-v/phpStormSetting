@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Expose" />
+      <item value="Access Control Expose Headers" />
+      <item value="Access Control Expose-Headers" />
+      <item value="Access Control-Expose-Headers" />
+      <item value="Access-Control-Expose-Headers" />
       <item value="reserved" />
       <item value="reserv" />
       <item value="reading information by number" />
@@ -51,18 +56,13 @@
       <item value="ADD DOCUMENTS FOR REQUEST" />
       <item value="ADD DOCUMENTS TO REQU" />
       <item value="ADD PHONES TO REQUEST" />
-      <item value="ADD PHONE FOR REQUEST" />
-      <item value="ADD DOCUMENTS TO REQUEST" />
-      <item value="ADD PHONE f Or REQUEST" />
-      <item value="добавить телефон к запросу" />
-      <item value="добавить телефон к запроса" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="643" />
+        <entry key="ENGLISH" value="645" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="643" />
+        <entry key="RUSSIAN" value="645" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
