@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="946" />
+    <option name="newTranslationDialogWidth" value="944" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="home work" />
+      <item value="home " />
+      <item value="home row" />
+      <item value="company" />
+      <item value="verification" />
       <item value="авторизация" />
       <item value="fdnjhbpfwbz&#10;" />
       <item value="fdnjhbpfwbz" />
@@ -51,18 +56,13 @@
       <item value="добавить теле" />
       <item value="ADD PHONE FRO REQUEST" />
       <item value="ADD PHONE FROM REQUEST" />
-      <item value="ADD PHONE TO REQUEST" />
-      <item value="CREATE REQUEST" />
-      <item value="READ DOCUMENTS BY REQUEST LIST" />
-      <item value="READ REQUEST LIST" />
-      <item value="&lt;?php declare(strict_types=1); namespace App\Constants\Acl; use MyCLabs\Enum\Enum; final class PermissionConstant extends Enum { public const READ_PHONE_LIST =''; public const READ_REQUEST_LIST =''; public const READ_DOCUMENTS_BY_REQUEST_LIST =''; public const CREATE_REQUEST =''; public const ADD_PHONE_TO_REQUEST =''; public const ADD_DOCUMENTS_TO_REQUEST =''; }" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="639" />
+        <entry key="ENGLISH" value="641" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="639" />
+        <entry key="RUSSIAN" value="641" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
