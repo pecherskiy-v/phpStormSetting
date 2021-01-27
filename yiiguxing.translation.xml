@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="reserved" />
+      <item value="reserv" />
       <item value="reading information by number" />
       <item value="чтение информации о номере" />
       <item value="home work" />
@@ -54,12 +56,10 @@
       <item value="ADD PHONE f Or REQUEST" />
       <item value="добавить телефон к запросу" />
       <item value="добавить телефон к запроса" />
-      <item value="добавить телефон к " />
-      <item value="добавить теле" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="642" />
+        <entry key="ENGLISH" value="643" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="643" />
@@ -69,7 +69,7 @@
         <entry key="MALTESE" value="5" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="SWEDISH" value="1" />
+        <entry key="SWEDISH" value="2" />
         <entry key="UKRAINIAN" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="HINDI" value="1" />
