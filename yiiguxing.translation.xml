@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="944" />
+    <option name="newTranslationDialogWidth" value="942" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="reading information by number" />
+      <item value="чтение информации о номере" />
       <item value="home work" />
       <item value="home " />
       <item value="home row" />
@@ -54,15 +56,13 @@
       <item value="добавить телефон к запроса" />
       <item value="добавить телефон к " />
       <item value="добавить теле" />
-      <item value="ADD PHONE FRO REQUEST" />
-      <item value="ADD PHONE FROM REQUEST" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="641" />
+        <entry key="ENGLISH" value="642" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="641" />
+        <entry key="RUSSIAN" value="643" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
