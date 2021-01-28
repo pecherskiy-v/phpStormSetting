@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Detaches an object from the ObjectManager, causing a managed object to become detached. Unflushed changes made to the object if any (including removal of the object), will not be synchronized to the database. Objects which previously referenced the detached object will continue to reference it." />
+      <item value="Clears the ObjectManager. All objects that are currently managed by this ObjectManager become detached." />
       <item value="[EA] Please ensure this is not a forgotten debug statement." />
       <item value="Refreshes the persistent state of an object from the database, overriding any local changes that have not yet been persisted." />
       <item value="Maximum execution time of 900 seconds exceeded" />
@@ -54,15 +56,13 @@
       <item value="Администратор" />
       <item value="READ_PHONE_LIST READ_REQUEST_LIST READ_DOCUMENTS_LIST_BY_REQUEST CREATE_REQUEST ADD_PHONES_FOR_REQUEST ADD_DOCUMENTS_FOR_REQUEST CHANGE_PHONE_STATUS CHANGE_REQUEST_STATUS" />
       <item value="CHANGE REQUEST STATUS" />
-      <item value="CHANGE PHONE STATUS" />
-      <item value="ADD PHONES FOR REQUEST" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="646" />
+        <entry key="ENGLISH" value="648" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="646" />
+        <entry key="RUSSIAN" value="648" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
