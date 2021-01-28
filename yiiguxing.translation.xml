@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="[EA] Please ensure this is not a forgotten debug statement." />
+      <item value="Refreshes the persistent state of an object from the database, overriding any local changes that have not yet been persisted." />
       <item value="Maximum execution time of 900 seconds exceeded" />
       <item value="Expose" />
       <item value="Access Control Expose Headers" />
@@ -54,15 +56,13 @@
       <item value="CHANGE REQUEST STATUS" />
       <item value="CHANGE PHONE STATUS" />
       <item value="ADD PHONES FOR REQUEST" />
-      <item value="ADD DOCUMENTS FOR REQUEST" />
-      <item value="ADD DOCUMENTS TO REQU" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="645" />
+        <entry key="ENGLISH" value="646" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="645" />
+        <entry key="RUSSIAN" value="646" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
