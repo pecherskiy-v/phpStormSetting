@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="polls" />
+      <item value="poll" />
       <item value="&quot;message&quot;: &quot;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'updated_at = '2021-02-01 16:18:11' WHERE id = 4' at line 1&quot;," />
       <item value="Detaches an object from the ObjectManager, causing a managed object to become detached. Unflushed changes made to the object if any (including removal of the object), will not be synchronized to the database. Objects which previously referenced the detached object will continue to reference it." />
       <item value="Clears the ObjectManager. All objects that are currently managed by this ObjectManager become detached." />
@@ -54,8 +56,6 @@
       <item value="ПРОЧИТАТЬ СПИСОК ТЕЛЕФОНОВ" />
       <item value="READ PHONE LIST" />
       <item value="администратор" />
-      <item value="Администратор" />
-      <item value="READ_PHONE_LIST READ_REQUEST_LIST READ_DOCUMENTS_LIST_BY_REQUEST CREATE_REQUEST ADD_PHONES_FOR_REQUEST ADD_DOCUMENTS_FOR_REQUEST CHANGE_PHONE_STATUS CHANGE_REQUEST_STATUS" />
     </histories>
     <option name="languageScores">
       <map>
