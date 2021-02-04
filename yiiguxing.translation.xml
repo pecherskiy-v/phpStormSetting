@@ -1,11 +1,25 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="940" />
+    <option name="newTranslationDialogWidth" value="936" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="аннулировать верификацию" />
+      <item value="анулировать верификацию" />
+      <item value="анулировать верифика" />
+      <item value="анулировать " />
+      <item value="fy" />
+      <item value="ДОБАВИТЬ верифицированный ТЕЛЕФОН" />
+      <item value="ДОБАВИТЬ ферифицированный  ТЕЛЕФОН " />
+      <item value="ДОБАВИТЬ ферифицированный  ТЕЛЕФОН ДЛЯ ВЕРИФИКАЦИИ" />
+      <item value="ДОБАВИТЬ фер ТЕЛЕФОН ДЛЯ ВЕРИФИКАЦИИ" />
+      <item value="ДОБАВИТЬ фере ТЕЛЕФОН ДЛЯ ВЕРИФИКАЦИИ" />
+      <item value="ДОБАВИТЬ ТЕЛЕФОН ДЛЯ ВЕРИФИКАЦИИ" />
+      <item value="ADD VERIFICATION PHONE" />
+      <item value="ADD_VERIFICATION PHONE" />
+      <item value="ADD_VERIFICATION_PHONE" />
       <item value="FOF" />
       <item value="agreement code" />
       <item value="Set drift" />
@@ -42,27 +56,13 @@
       <item value="The file &quot;/app/business-admin-php-admin-api/src/config/routes/v1/./user.yaml&quot; does not contain valid YAML: Unable to parse at line 15 (near &quot;defaults&quot;) in /app/business-admin-php-admin-api/src/config/routes/v1/./user.yaml (which is being imported from &quot;/app/business-admin-php-admin-api/src/config/routes/v1/v1.yaml&quot;)." />
       <item value="possible keys" />
       <item value="possible_keys" />
-      <item value="possible_" />
-      <item value="possible" />
-      <item value="poss" />
-      <item value="Доступ" />
-      <item value="разрешения" />
-      <item value="разрешени\я" />
-      <item value="разрешение" />
-      <item value="hfphtitybt" />
-      <item value="hfphtitybt&#10;" />
-      <item value="premission" />
-      <item value="permission" />
-      <item value="roles" />
-      <item value="READ DOCUMENTS LIST BY REQUEST" />
-      <item value="read request list" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="652" />
+        <entry key="ENGLISH" value="653" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="652" />
+        <entry key="RUSSIAN" value="653" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
