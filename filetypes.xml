@@ -30,6 +30,7 @@
       <mapping ext="disabled" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="dist" type="YAML" />
+      <mapping ext=" yaml" type="YAML" />
     </extensionMap>
   </component>
 </application>
