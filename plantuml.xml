@@ -1,0 +1,15 @@
+<application>
+  <component name="PlantUmlSettingsNew">
+    <option name="PLANTUML_LIMIT_SIZE" value="" />
+    <option name="customPlantumlJarPath" value="" />
+    <option name="encoding" value="" />
+    <option name="errorAnnotationEnabled" value="false" />
+    <option name="includedPaths" value="" />
+    <option name="insertPair" value="false" />
+    <option name="keywordHighlighting" value="false" />
+    <option name="switchToBundledAfterUpdate" value="false" />
+    <option name="useBundled" value="false" />
+    <option name="useGrammar" value="false" />
+    <option name="usePageTitles" value="false" />
+  </component>
+</application>
