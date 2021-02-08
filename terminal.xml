@@ -2,5 +2,6 @@
   <component name="TerminalOptionsProvider">
     <option name="myReportMouse" value="false" />
     <option name="myShellPath" value="C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" />
+    <option name="myTabName" value="Local" />
   </component>
 </application>
