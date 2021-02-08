@@ -1,11 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="932" />
+    <option name="newTranslationDialogWidth" value="930" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="полка" />
+      <item value="полка для книг" />
+      <item value="полка для к" />
+      <item value="полка " />
       <item value="mobile-test-scenarios" />
       <item value="mobile-test-scenario" />
       <item value="Warning: extensionsv1beta1 Ingress is deprecated in v1.14+, unavailable in v1.22+; use networking.k8s.iov1 Ingress" />
@@ -52,10 +56,6 @@
       <item value="verification" />
       <item value="авторизация" />
       <item value="fdnjhbpfwbz&#10;" />
-      <item value="fdnjhbpfwbz" />
-      <item value="fdnjhb" />
-      <item value="Authentication" />
-      <item value="Access deny" />
     </histories>
     <option name="languageScores">
       <map>
