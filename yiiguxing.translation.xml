@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="924" />
+    <option name="newTranslationDialogWidth" value="922" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Use redis sentinel in the redis pod. This will disable the master and slave services and&#10;create one redis service with ports to the sentinel and the redis instances" />
+      <item value="Use redis sentinel in the redis pod. This will disable the master and slave services and&#10;## create one redis service with ports to the sentinel and the redis instances" />
       <item value="The service &quot;TransportInterface&quot; has a dependency on a non-existent service &quot;Symfony\Component\Mailer\Transport&quot;." />
       <item value="The service &quot;TransportInterface&quot; has a dependency on a non-existent service &quot;LoggerInterface&quot;. Did you mean one of these: &quot;MailerInterface&quot;, &quot;Psr\Log\LoggerInterface&quot;?" />
       <item value="другие файлы" />
@@ -54,8 +56,6 @@
       <item value="reading information by number" />
       <item value="чтение информации о номере" />
       <item value="home work" />
-      <item value="home " />
-      <item value="home row" />
     </histories>
     <option name="languageScores">
       <map>
