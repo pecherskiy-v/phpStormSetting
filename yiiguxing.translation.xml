@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="928" />
+    <option name="newTranslationDialogWidth" value="924" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The service &quot;TransportInterface&quot; has a dependency on a non-existent service &quot;Symfony\Component\Mailer\Transport&quot;." />
+      <item value="The service &quot;TransportInterface&quot; has a dependency on a non-existent service &quot;LoggerInterface&quot;. Did you mean one of these: &quot;MailerInterface&quot;, &quot;Psr\Log\LoggerInterface&quot;?" />
       <item value="другие файлы" />
       <item value="разные файлы" />
       <item value="полка" />
@@ -54,8 +56,6 @@
       <item value="home work" />
       <item value="home " />
       <item value="home row" />
-      <item value="company" />
-      <item value="verification" />
     </histories>
     <option name="languageScores">
       <map>
