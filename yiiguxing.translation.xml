@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Module not found: You attempted to import ......sharedprop-typesReducerProps which falls outside of the project src directory. Relative imports outside of src are not supported." />
       <item value="Sidebar" />
       <item value="hidden" />
       <item value="Uncaught (in promise) " />
@@ -55,14 +56,13 @@
       <item value="полка для книг" />
       <item value="полка для к" />
       <item value="полка " />
-      <item value="mobile-test-scenarios" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="688" />
+        <entry key="ENGLISH" value="689" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="688" />
+        <entry key="RUSSIAN" value="689" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
