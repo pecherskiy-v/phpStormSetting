@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Unhandled Rejection (SubmissionError): Submit Validation Failed&#10;" />
       <item value="Submit Handler" />
       <item value="[DOM] Input elements should have autocomplete attributes (suggested: &quot;current-password&quot;): (More info: https://goo.gl/9p2vKq) &lt;input name=​&quot;password&quot; type=​&quot;password&quot; placeholder=​&quot;Password&quot; value&gt;​&#10;" />
       <item value="Uncaught Error: You must either pass handleSubmit() an onSubmit function or pass onSubmit as a prop&#10;" />
@@ -55,7 +56,6 @@
       <item value="mobile-test-scenario" />
       <item value="Warning: extensionsv1beta1 Ingress is deprecated in v1.14+, unavailable in v1.22+; use networking.k8s.iov1 Ingress" />
       <item value="    # Enable automatic monitoring of all instances when Prometheus is running in the cluster.&#10;" />
-      <item value="Access to fetch at 'http://admin.business.local/v1/phone/appruve/4' from origin 'http://front.business.local' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: It does not have HTTP ok status.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
