@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sidebar" />
       <item value="hidden" />
       <item value="Uncaught (in promise) " />
       <item value="Unhandled Rejection (SubmissionError): Submit Validation Failed&#10;" />
@@ -55,14 +56,13 @@
       <item value="полка для к" />
       <item value="полка " />
       <item value="mobile-test-scenarios" />
-      <item value="mobile-test-scenario" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="687" />
+        <entry key="ENGLISH" value="688" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="687" />
+        <entry key="RUSSIAN" value="688" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
