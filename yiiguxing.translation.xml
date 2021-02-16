@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="rates" />
+      <item value="rate S" />
+      <item value="тариф" />
+      <item value="tarif" />
       <item value="setting" />
       <item value="Line 40:3: Useless constructor no-useless-constructor" />
       <item value="Module not found: You attempted to import ......sharedprop-typesReducerProps which falls outside of the project src directory. Relative imports outside of src are not supported." />
@@ -52,17 +56,13 @@
       <item value="Use redis sentinel in the redis pod. This will disable the master and slave services and&#10;## create one redis service with ports to the sentinel and the redis instances" />
       <item value="The service &quot;TransportInterface&quot; has a dependency on a non-existent service &quot;Symfony\Component\Mailer\Transport&quot;." />
       <item value="The service &quot;TransportInterface&quot; has a dependency on a non-existent service &quot;LoggerInterface&quot;. Did you mean one of these: &quot;MailerInterface&quot;, &quot;Psr\Log\LoggerInterface&quot;?" />
-      <item value="другие файлы" />
-      <item value="разные файлы" />
-      <item value="полка" />
-      <item value="полка для книг" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="691" />
+        <entry key="ENGLISH" value="693" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="691" />
+        <entry key="RUSSIAN" value="693" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
