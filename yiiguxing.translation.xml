@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="912" />
+    <option name="newTranslationDialogWidth" value="906" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="пункты" />
+      <item value="geyrns" />
+      <item value="направление" />
+      <item value="изменения" />
+      <item value="Динамика за неделю" />
       <item value="карточка рейтинг компании" />
       <item value="rfhnjxrf htqnbyu rjvgfybb" />
       <item value="rfhnjxrf htqnbyu " />
@@ -51,18 +56,13 @@
       <item value="Layout" />
       <item value="Account Settings" />
       <item value="Dashboards" />
-      <item value="приборная панель" />
-      <item value="four lines in scsscomponentsform.scss to add styles" />
-      <item value="if you want to add select, date-picker and time-picker in your app you need to uncomment the first" />
-      <item value="This HTML file is a template. If you open it directly in the browser, you will see an empty page. You can add webfonts, meta tags, or analytics to this file. The build step will place the bundled scripts into the &lt;body&gt; tag. To begin the development, run `npm start` or `yarn start`. To create a production bundle, use `npm run build` or `yarn build`." />
-      <item value="Unlike &quot;favicon.ico&quot; or &quot;favicon.ico&quot;, &quot;%PUBLIC_URL%favicon.ico&quot; will work correctly both with client-side routing and a non-root public URL. Learn how to configure a non-root public URL by running `npm run build`." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="695" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="695" />
+        <entry key="RUSSIAN" value="697" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
