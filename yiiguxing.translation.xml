@@ -1,11 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="894" />
+    <option name="newTranslationDialogWidth" value="890" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="блокировки" />
+      <item value=", kjbkjb" />
+      <item value=",kjbkjb" />
+      <item value=",kjrbhjdrb" />
+      <item value="blocks blocks blocks blocks blocks blocks blocks blocks blocks blocks blocks blocks blocks blocks" />
+      <item value="показатели" />
+      <item value="gjrfpfntkb" />
+      <item value="change button" />
       <item value="подтвержден" />
       <item value="подтвержденный" />
       <item value="confirmed" />
@@ -48,21 +56,13 @@
       <item value="[DOM] Input elements should have autocomplete attributes (suggested: &quot;current-password&quot;): (More info: https://goo.gl/9p2vKq) &lt;input name=​&quot;password&quot; type=​&quot;password&quot; placeholder=​&quot;Password&quot; value&gt;​&#10;" />
       <item value="Uncaught Error: You must either pass handleSubmit() an onSubmit function or pass onSubmit as a prop&#10;" />
       <item value="Line 13:10: Parsing error: Identifier 'AuthenticationProvider' has already been declared" />
-      <item value="Forgot a password?" />
-      <item value="username" />
-      <item value="password" />
-      <item value="remember me" />
-      <item value="Start your business" />
-      <item value="Welcome to" />
-      <item value="login button" />
-      <item value="log in button" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="696" />
+        <entry key="ENGLISH" value="698" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="697" />
+        <entry key="RUSSIAN" value="698" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
