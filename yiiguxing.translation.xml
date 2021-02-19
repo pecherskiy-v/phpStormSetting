@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="898" />
+    <option name="newTranslationDialogWidth" value="894" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="подтвержден" />
+      <item value="подтвержденный" />
+      <item value="confirmed" />
+      <item value="gjlndth;lty" />
+      <item value="gjlndth" />
       <item value="как подтвердить номер?" />
       <item value="rfr " />
       <item value="неподтвержденные номера" />
@@ -51,11 +56,6 @@
       <item value="Welcome to" />
       <item value="login button" />
       <item value="log in button" />
-      <item value="log in buttom" />
-      <item value="Account" />
-      <item value="Email Confirmation" />
-      <item value="Your e-mail address has been successfully verified" />
-      <item value="Go to dashboard" />
     </histories>
     <option name="languageScores">
       <map>
