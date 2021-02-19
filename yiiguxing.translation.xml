@@ -1,11 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="906" />
+    <option name="newTranslationDialogWidth" value="898" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="как подтвердить номер?" />
+      <item value="rfr " />
+      <item value="неподтвержденные номера" />
+      <item value="unconfirmed number" />
+      <item value="unconfirmed numbers" />
+      <item value="неподтвержденный номер" />
+      <item value="ytgjlndth;ltyysq yjvth" />
+      <item value="ytgjlndth;ltyysq " />
+      <item value="ytgjlndth" />
       <item value="пункты" />
       <item value="geyrns" />
       <item value="направление" />
@@ -47,19 +56,10 @@
       <item value="Email Confirmation" />
       <item value="Your e-mail address has been successfully verified" />
       <item value="Go to dashboard" />
-      <item value="Go to profile" />
-      <item value="Profile" />
-      <item value="Current tasks" />
-      <item value="Activity" />
-      <item value="Timeline" />
-      <item value="Settings" />
-      <item value="Layout" />
-      <item value="Account Settings" />
-      <item value="Dashboards" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="695" />
+        <entry key="ENGLISH" value="696" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="697" />
