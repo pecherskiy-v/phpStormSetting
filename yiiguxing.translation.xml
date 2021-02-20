@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="890" />
+    <option name="newTranslationDialogWidth" value="888" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="рябина" />
       <item value="rectangle" />
       <item value="блокировки" />
       <item value=", kjbkjb" />
@@ -55,7 +56,6 @@
       <item value="Unhandled Rejection (SubmissionError): Submit Validation Failed&#10;" />
       <item value="Submit Handler" />
       <item value="[DOM] Input elements should have autocomplete attributes (suggested: &quot;current-password&quot;): (More info: https://goo.gl/9p2vKq) &lt;input name=​&quot;password&quot; type=​&quot;password&quot; placeholder=​&quot;Password&quot; value&gt;​&#10;" />
-      <item value="Uncaught Error: You must either pass handleSubmit() an onSubmit function or pass onSubmit as a prop&#10;" />
     </histories>
     <option name="languageScores">
       <map>
