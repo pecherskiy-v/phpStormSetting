@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="888" />
+    <option name="newTranslationDialogWidth" value="886" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="воротник" />
+      <item value="воро" />
+      <item value="воронины" />
+      <item value="djhjybys" />
+      <item value="djhjnybr" />
       <item value="рябина" />
       <item value="rectangle" />
       <item value="блокировки" />
@@ -51,11 +56,6 @@
       <item value="Line 40:3: Useless constructor no-useless-constructor" />
       <item value="Module not found: You attempted to import ......sharedprop-typesReducerProps which falls outside of the project src directory. Relative imports outside of src are not supported." />
       <item value="Sidebar" />
-      <item value="hidden" />
-      <item value="Uncaught (in promise) " />
-      <item value="Unhandled Rejection (SubmissionError): Submit Validation Failed&#10;" />
-      <item value="Submit Handler" />
-      <item value="[DOM] Input elements should have autocomplete attributes (suggested: &quot;current-password&quot;): (More info: https://goo.gl/9p2vKq) &lt;input name=​&quot;password&quot; type=​&quot;password&quot; placeholder=​&quot;Password&quot; value&gt;​&#10;" />
     </histories>
     <option name="languageScores">
       <map>
