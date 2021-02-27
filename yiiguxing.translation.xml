@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Ambiguous class resolution" />
       <item value="Generate and send report by numbers" />
       <item value="пример аватара" />
       <item value="avatar exemple" />
@@ -55,7 +56,6 @@
       <item value="Company Rate Card" />
       <item value="rates" />
       <item value="rate S" />
-      <item value="тариф" />
     </histories>
     <option name="languageScores">
       <map>
