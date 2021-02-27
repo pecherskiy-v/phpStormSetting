@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="- symfonytwig-bundle[v4.3.0-BETA1, ..., 4.3.x-dev] require symfonyconfig ~4.2 -&gt; found symfonyconfig[v4.2.0-BETA1, ..., 4.4.x-dev] but it conflicts with your root composer.json require (v5.0.11)." />
+      <item value="Your requirements could not be resolved to an installable set of packages." />
       <item value="{&quot;@timestamp&quot;:&quot;2021-02-27T20:35:47.760232+00:00&quot;,&quot;@version&quot;:1,&quot;host&quot;:&quot;dev&quot;,&quot;message&quot;:&quot;Expected response code \&quot;354\&quot; but got code \&quot;421\&quot;, with message \&quot;421 Domain sandbox0e437fd88f4c4fada01a3800a39129f2.mailgun.org is not allowed to send: Sandbox subdomains are for test purposes only. Please add your own domain or add the address to authorized recipients in Account Settings.\&quot;.&quot;,&quot;type&quot;:&quot;worker-SubscribeSendEmail&quot;,&quot;channel&quot;:&quot;mainLogger&quot;,&quot;level&quot;:&quot;ERROR&quot;,&quot;monolog_level&quot;:400}" />
       <item value="Ambiguous class resolution" />
       <item value="Generate and send report by numbers" />
@@ -54,8 +56,6 @@
       <item value="rfhnjxrf htqnbyuf rjv" />
       <item value="rfhnjxrf htqnbyuf rjvf" />
       <item value="Company Index Card" />
-      <item value="Company Rate Card" />
-      <item value="rates" />
     </histories>
     <option name="languageScores">
       <map>
