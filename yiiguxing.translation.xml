@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Generate and send report by numbers" />
       <item value="пример аватара" />
       <item value="avatar exemple" />
       <item value="рубашка" />
@@ -55,7 +56,6 @@
       <item value="rates" />
       <item value="rate S" />
       <item value="тариф" />
-      <item value="tarif" />
     </histories>
     <option name="languageScores">
       <map>
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1613754250911" />
+    <option name="lastTrimTime" value="1614443065293" />
   </component>
   <component name="Settings">
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
