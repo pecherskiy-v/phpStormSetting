@@ -26,6 +26,7 @@
       <mapping ext="js " type="PLAIN_TEXT" />
       <mapping ext="msg" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="logs" type="PLAIN_TEXT" />
       <mapping ext="vmoptions" type="PLAIN_TEXT" />
       <mapping ext="ci" type="PLAIN_TEXT" />
       <mapping ext="disabled" type="PLAIN_TEXT" />
