@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="address" />
       <item value="phone block separete" />
       <item value="- Conclusion: don't install one of twigextra-bundle[v3.3.0], symfonyconsole[v5.2.1] | install one of symfonyevent-dispatcher[v4.4.18, v4.4.19, 4.4.x-dev, v5.2.0-RC1, ..., v5.2.2], symfonyframework-bundle[v4.4.0-BETA1, ..., 4.4.x-dev, v5.2.1, v5.2.2, v5.2.3, 5.2.x-dev] (conflict analysis result)" />
       <item value="- symfonytwig-bundle[v4.3.0-BETA1, ..., 4.3.x-dev] require symfonyconfig ~4.2 -&gt; found symfonyconfig[v4.2.0-BETA1, ..., 4.4.x-dev] but it conflicts with your root composer.json require (v5.0.11)." />
@@ -55,7 +56,6 @@
       <item value="rfhnjxrf htqnbyu rjvgfybb" />
       <item value="rfhnjxrf htqnbyu " />
       <item value="rfhnjxrf htqnbyuf rjvgfybb" />
-      <item value="rfhnjxrf htqnbyuf rjv" />
     </histories>
     <option name="languageScores">
       <map>
