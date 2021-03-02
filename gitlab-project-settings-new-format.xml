@@ -45344,7 +45344,7 @@
       <list>
         <GitlabServer>
           <option name="apiToken" value="h-5q9UeyK73amWA_9xNc" />
-          <option name="apiUrl" value="https://gitlab.com" />
+          <option name="apiUrl" value="https://gitlab.com/" />
           <option name="repositoryUrl" value="gitlab.com" />
         </GitlabServer>
       </list>

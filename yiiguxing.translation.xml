@@ -1,11 +1,36 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="880" />
+    <option name="newTranslationDialogWidth" value="876" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="saturate" />
+      <item value="we check response.data.next - status should be locked till next !== true&#10;  // in order to not allow user to change status of a request to Submit/5&#10;  // (just check the settings - there should be status list)" />
+      <item value="Cloning failed, enter your GitLab credentials to access private repos&#10;A token will be created and stored in &quot;/composer/auth.json&quot;, your password will never be stored&#10;To revoke access to this token you can visit https://gitlab.com/profile/applications&#10;" />
+      <item value="multy rcpt" />
+      <item value="multy rcps" />
+      <item value="multy " />
+      <item value="multy address" />
+      <item value="multy addres" />
+      <item value="multy addresat" />
+      <item value="multy adresat" />
+      <item value="multy adres" />
+      <item value="multy ad" />
+      <item value="multy rc" />
+      <item value="multy r" />
+      <item value="multy form" />
+      <item value="multyform" />
+      <item value="multyfo" />
+      <item value="multy" />
+      <item value="mu" />
+      <item value="многоьгден" />
+      <item value="много" />
+      <item value="м" />
+      <item value="множество" />
+      <item value="мно" />
+      <item value="vyj" />
       <item value="address" />
       <item value="phone block separete" />
       <item value="- Conclusion: don't install one of twigextra-bundle[v3.3.0], symfonyconsole[v5.2.1] | install one of symfonyevent-dispatcher[v4.4.18, v4.4.19, 4.4.x-dev, v5.2.0-RC1, ..., v5.2.2], symfonyframework-bundle[v4.4.0-BETA1, ..., 4.4.x-dev, v5.2.1, v5.2.2, v5.2.3, 5.2.x-dev] (conflict analysis result)" />
@@ -31,31 +56,6 @@
       <item value=",kjrbhjdrb" />
       <item value="blocks blocks blocks blocks blocks blocks blocks blocks blocks blocks blocks blocks blocks blocks" />
       <item value="показатели" />
-      <item value="gjrfpfntkb" />
-      <item value="change button" />
-      <item value="подтвержден" />
-      <item value="подтвержденный" />
-      <item value="confirmed" />
-      <item value="gjlndth;lty" />
-      <item value="gjlndth" />
-      <item value="как подтвердить номер?" />
-      <item value="rfr " />
-      <item value="неподтвержденные номера" />
-      <item value="unconfirmed number" />
-      <item value="unconfirmed numbers" />
-      <item value="неподтвержденный номер" />
-      <item value="ytgjlndth;ltyysq yjvth" />
-      <item value="ytgjlndth;ltyysq " />
-      <item value="ytgjlndth" />
-      <item value="пункты" />
-      <item value="geyrns" />
-      <item value="направление" />
-      <item value="изменения" />
-      <item value="Динамика за неделю" />
-      <item value="карточка рейтинг компании" />
-      <item value="rfhnjxrf htqnbyu rjvgfybb" />
-      <item value="rfhnjxrf htqnbyu " />
-      <item value="rfhnjxrf htqnbyuf rjvgfybb" />
     </histories>
     <option name="languageScores">
       <map>
