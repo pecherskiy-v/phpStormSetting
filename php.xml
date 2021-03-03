@@ -8,6 +8,7 @@
       <interpreter id="0fcd8c7f-9cb6-49fc-adb5-939a7a9cfd23" name="numbuster/php-dev:7.4" home="docker://DATA" debugger_id="php.debugger.XDebug">
         <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="registry.gitlab.com/pecherskiy-v/numbuster/php-dev:7.4" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
       </interpreter>
+      <interpreter id="6b8c0241-b28e-4397-b8fc-f703919ff75d" name="PHP" home="C:\php\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -117,6 +118,47 @@
             <extension name="standard" />
             <extension name="tokenizer" />
             <extension name="xdebug" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+      <interpreter name="PHP">
+        <phpinfo binary_type="PHP" php_cgi="C:\php\php-cgi.exe" php_cli="C:\php\php.exe" path_separator=";" version="7.2.34">
+          <additional_php_ini />
+          <configuration_file>C:\php\php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value=".;C:\php\pear" />
+          </configuration_options>
+          <debuggers />
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="bcmath" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="filter" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="json" />
+            <extension name="libxml" />
+            <extension name="mysqlnd" />
+            <extension name="openssl" />
+            <extension name="pcre" />
+            <extension name="readline" />
+            <extension name="session" />
+            <extension name="standard" />
+            <extension name="tokenizer" />
+            <extension name="wddx" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
