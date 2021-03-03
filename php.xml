@@ -144,13 +144,17 @@
             <extension name="bcmath" />
             <extension name="calendar" />
             <extension name="ctype" />
+            <extension name="curl" />
             <extension name="date" />
             <extension name="dom" />
+            <extension name="fileinfo" />
             <extension name="filter" />
+            <extension name="gd" />
             <extension name="hash" />
             <extension name="iconv" />
             <extension name="json" />
             <extension name="libxml" />
+            <extension name="mbstring" />
             <extension name="mysqlnd" />
             <extension name="openssl" />
             <extension name="pcre" />
