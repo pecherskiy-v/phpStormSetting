@@ -1,11 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="876" />
+    <option name="newTranslationDialogWidth" value="872" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="белая коробка&#10;серая коробка" />
+      <item value="белая коробка&#10;серая коробка&#10;" />
+      <item value="белая коробка&#10;" />
+      <item value="белая коробка" />
+      <item value="белая " />
+      <item value="бела" />
       <item value="saturate" />
       <item value="we check response.data.next - status should be locked till next !== true&#10;  // in order to not allow user to change status of a request to Submit/5&#10;  // (just check the settings - there should be status list)" />
       <item value="Cloning failed, enter your GitLab credentials to access private repos&#10;A token will be created and stored in &quot;/composer/auth.json&quot;, your password will never be stored&#10;To revoke access to this token you can visit https://gitlab.com/profile/applications&#10;" />
@@ -50,12 +56,6 @@
       <item value="djhjnybr" />
       <item value="рябина" />
       <item value="rectangle" />
-      <item value="блокировки" />
-      <item value=", kjbkjb" />
-      <item value=",kjbkjb" />
-      <item value=",kjrbhjdrb" />
-      <item value="blocks blocks blocks blocks blocks blocks blocks blocks blocks blocks blocks blocks blocks blocks" />
-      <item value="показатели" />
     </histories>
     <option name="languageScores">
       <map>
