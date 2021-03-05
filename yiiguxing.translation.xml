@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="LEFT-SIDE" />
       <item value="extendedMessage: &quot;Call to a member function addCustomStringFunction() on null&quot;&#10;" />
       <item value="белая коробка&#10;серая коробка" />
       <item value="белая коробка&#10;серая коробка&#10;" />
@@ -55,7 +56,6 @@
       <item value="воронины" />
       <item value="djhjybys" />
       <item value="djhjnybr" />
-      <item value="рябина" />
     </histories>
     <option name="languageScores">
       <map>
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614443065293" />
+    <option name="lastTrimTime" value="1614938769927" />
   </component>
   <component name="Settings">
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
