@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="870" />
+    <option name="newTranslationDialogWidth" value="868" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="пунктов" />
+      <item value="пункт" />
       <item value="LEFT-SIDE" />
       <item value="extendedMessage: &quot;Call to a member function addCustomStringFunction() on null&quot;&#10;" />
       <item value="белая коробка&#10;серая коробка" />
@@ -54,8 +56,6 @@
       <item value="воротник" />
       <item value="воро" />
       <item value="воронины" />
-      <item value="djhjybys" />
-      <item value="djhjnybr" />
     </histories>
     <option name="languageScores">
       <map>
