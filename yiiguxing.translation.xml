@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="868" />
+    <option name="newTranslationDialogWidth" value="866" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Принимаю условия кредитования" />
+      <item value="not Has In List" />
+      <item value="credithistory" />
       <item value="text anotation" />
       <item value="textanotation" />
       <item value="пунктов" />
@@ -53,9 +56,6 @@
       <item value="Generate and send report by numbers" />
       <item value="пример аватара" />
       <item value="avatar exemple" />
-      <item value="рубашка" />
-      <item value="руба" />
-      <item value="воротник" />
     </histories>
     <option name="languageScores">
       <map>
