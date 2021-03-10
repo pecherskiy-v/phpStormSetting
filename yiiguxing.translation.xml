@@ -1,11 +1,22 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="864" />
+    <option name="newTranslationDialogWidth" value="862" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="предыдущий" />
+      <item value="пердыдущий" />
+      <item value="пер" />
+      <item value="зу" />
+      <item value="з" />
+      <item value="next" />
+      <item value="ne" />
+      <item value="следующий " />
+      <item value="следующий" />
+      <item value="слудующий" />
+      <item value="c" />
       <item value="шестая" />
       <item value="пятая" />
       <item value="пя" />
@@ -45,17 +56,6 @@
       <item value="multy ad" />
       <item value="multy rc" />
       <item value="multy r" />
-      <item value="multy form" />
-      <item value="multyform" />
-      <item value="multyfo" />
-      <item value="multy" />
-      <item value="mu" />
-      <item value="многоьгден" />
-      <item value="много" />
-      <item value="м" />
-      <item value="множество" />
-      <item value="мно" />
-      <item value="vyj" />
     </histories>
     <option name="languageScores">
       <map>
