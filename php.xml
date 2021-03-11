@@ -6,7 +6,7 @@
         <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="registry.gitlab.com/pecherskiy-v/numbuster/php-dev:8.0" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
       </interpreter>
       <interpreter id="0fcd8c7f-9cb6-49fc-adb5-939a7a9cfd23" name="numbuster/php-dev:7.4" home="docker://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="registry.gitlab.com/pecherskiy-v/numbuster/php-dev:7.4" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
+        <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="registry.gitlab.com/pecherskiy-v/numbuster/php7.4:dev" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
       </interpreter>
       <interpreter id="6b8c0241-b28e-4397-b8fc-f703919ff75d" name="PHP" home="C:\php\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
@@ -172,5 +172,10 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <phpunit_by_interpreter interpreter_id="0fcd8c7f-9cb6-49fc-adb5-939a7a9cfd23" custom_loader_path="C:/repo/numbuster/sendmail-nsq-worker/vendor/autoload.php" />
+    </phpunit_settings>
   </component>
 </application>
