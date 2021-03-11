@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="bottom" />
+      <item value="botto" />
+      <item value="botton" />
       <item value="предыдущий" />
       <item value="пердыдущий" />
       <item value="пер" />
@@ -53,9 +56,6 @@
       <item value="multy addresat" />
       <item value="multy adresat" />
       <item value="multy adres" />
-      <item value="multy ad" />
-      <item value="multy rc" />
-      <item value="multy r" />
     </histories>
     <option name="languageScores">
       <map>
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614938769927" />
+    <option name="lastTrimTime" value="1615467189999" />
   </component>
   <component name="Settings">
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
