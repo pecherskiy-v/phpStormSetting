@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="'php' is not recognized as an internal or external command," />
       <item value="visual layout of bidirectional text" />
       <item value="visual layout of bidirectional te" />
       <item value="visual layout of bidirectional tes" />
@@ -55,11 +56,10 @@
       <item value="се" />
       <item value="xчет" />
       <item value="x" />
-      <item value="сетвер" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="699" />
+        <entry key="ENGLISH" value="700" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="701" />
