@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Problem 1   - illuminatedatabase[v5.2.0, ..., 5.2.x-dev] conflict with roavesecurity-advisories dev-master.   - Root composer.json requires roavesecurity-advisories dev-master -&gt; satisfiable by roavesecurity-advisories[dev-master].   - Root composer.json requires illuminatedatabase 5.2. -&gt; satisfiable by illuminatedatabase[v5.2.0, ..., 5.2.x-dev]." />
+      <item value="average" />
       <item value="'php' is not recognized as an internal or external command," />
       <item value="visual layout of bidirectional text" />
       <item value="visual layout of bidirectional te" />
@@ -54,8 +56,6 @@
       <item value="чертвертая" />
       <item value="чер" />
       <item value="се" />
-      <item value="xчет" />
-      <item value="x" />
     </histories>
     <option name="languageScores">
       <map>
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615467189999" />
+    <option name="lastTrimTime" value="1615928185126" />
   </component>
   <component name="Settings">
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
