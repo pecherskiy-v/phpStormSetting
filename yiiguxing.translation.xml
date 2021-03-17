@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Cannot load resource &quot;../../app/Http/ControllerTest/&quot;. Make sure annotations are installed and enabled." />
       <item value="The routing file &quot;optprojectsrcconfigroutesapipreviewv1routs.yaml&quot; must not specify both the &quot;controller&quot; key and the defaults key &quot;_controller&quot; for &quot;preview.v1.bans&quot; in optprojectsrcconfigroutesapipreviewv1routs.yaml (which is being imported from &quot;main.yaml&quot;)." />
       <item value="routs" />
       <item value="Please make sure you have the correct access rights" />
@@ -55,7 +56,6 @@
       <item value="слудующий" />
       <item value="c" />
       <item value="шестая" />
-      <item value="пятая" />
     </histories>
     <option name="languageScores">
       <map>
