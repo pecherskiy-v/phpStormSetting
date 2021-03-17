@@ -175,7 +175,7 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="0fcd8c7f-9cb6-49fc-adb5-939a7a9cfd23" custom_loader_path="C:/repo/numbuster/sendmail-nsq-worker/vendor/autoload.php" />
+      <phpunit_by_interpreter interpreter_id="243fd87c-59f3-4a24-bcf9-b31770059f5e" configuration_file_path="/opt/project/phpunit.xml" custom_loader_path="/opt/project/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
     </phpunit_settings>
   </component>
 </application>

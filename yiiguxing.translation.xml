@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The routing file &quot;optprojectsrcconfigroutesapipreviewv1routs.yaml&quot; must not specify both the &quot;controller&quot; key and the defaults key &quot;_controller&quot; for &quot;preview.v1.bans&quot; in optprojectsrcconfigroutesapipreviewv1routs.yaml (which is being imported from &quot;main.yaml&quot;)." />
+      <item value="routs" />
       <item value="Please make sure you have the correct access rights" />
       <item value="ssh_exchange_identification: read: Connection reset by peer" />
       <item value="49 packages you are using are looking for funding." />
@@ -54,8 +56,6 @@
       <item value="c" />
       <item value="шестая" />
       <item value="пятая" />
-      <item value="пя" />
-      <item value="четвертая" />
     </histories>
     <option name="languageScores">
       <map>
