@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="[2021-03-19 00:55:28] Using batch mode (1000 insert/update/delete statements max)&#10;" />
       <item value="Unnecessary curly braces" />
       <item value="    }&#10;" />
       <item value="Call to a member function fetch_assoc() on bool" />
@@ -55,7 +56,6 @@
       <item value="предыдущий" />
       <item value="пердыдущий" />
       <item value="пер" />
-      <item value="зу" />
     </histories>
     <option name="languageScores">
       <map>
