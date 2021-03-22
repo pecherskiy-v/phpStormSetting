@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Mark any migrations selected as run, but don't actually execute them" />
+      <item value="dump query to standard output instead of executing it" />
       <item value="токены API" />
       <item value="апи токены " />
       <item value="тарифы&#10;" />
@@ -54,15 +56,13 @@
       <item value="короткий" />
       <item value="rjhjnrbq" />
       <item value="SCHOT" />
-      <item value="SHOT" />
-      <item value="block Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="700" />
+        <entry key="ENGLISH" value="702" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="701" />
+        <entry key="RUSSIAN" value="702" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
