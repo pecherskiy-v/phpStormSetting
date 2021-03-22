@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="852" />
+    <option name="newTranslationDialogWidth" value="850" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="токены API" />
+      <item value="апи токены " />
+      <item value="тарифы&#10;" />
+      <item value="тариф&#10;" />
+      <item value="тариф" />
       <item value="Failed asserting that 0 is not equal to 0." />
       <item value="Redundant 'static' in final class " />
       <item value="[2021-03-19 00:55:28] Using batch mode (1000 insert/update/delete statements max)&#10;" />
@@ -51,11 +56,6 @@
       <item value="SCHOT" />
       <item value="SHOT" />
       <item value="block Count" />
-      <item value="review Count" />
-      <item value="bottom" />
-      <item value="botto" />
-      <item value="botton" />
-      <item value="предыдущий" />
     </histories>
     <option name="languageScores">
       <map>
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615928185126" />
+    <option name="lastTrimTime" value="1616403970807" />
   </component>
   <component name="Settings">
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
