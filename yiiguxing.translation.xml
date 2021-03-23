@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Range Not Satisfiable" />
       <item value="A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online." />
       <item value="Mark any migrations selected as run, but don't actually execute them" />
       <item value="dump query to standard output instead of executing it" />
@@ -55,14 +56,13 @@
       <item value="text Resolve" />
       <item value="text Resolv" />
       <item value="короткий" />
-      <item value="rjhjnrbq" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="702" />
+        <entry key="ENGLISH" value="703" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="702" />
+        <entry key="RUSSIAN" value="703" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
