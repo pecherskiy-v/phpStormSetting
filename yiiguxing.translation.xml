@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="extendedMessage: &quot;[Syntax Error] line 0, col 10985: Error: Expected end of string, got '-'&quot;&#10;" />
       <item value="Range Not Satisfiable" />
       <item value="A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online." />
       <item value="Mark any migrations selected as run, but don't actually execute them" />
@@ -55,7 +56,6 @@
       <item value="numbuster-b2b-static.s3.eu-north-1.amazonaws.com" />
       <item value="text Resolve" />
       <item value="text Resolv" />
-      <item value="короткий" />
     </histories>
     <option name="languageScores">
       <map>
