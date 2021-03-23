@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="850" />
+    <option name="newTranslationDialogWidth" value="848" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online." />
       <item value="Mark any migrations selected as run, but don't actually execute them" />
       <item value="dump query to standard output instead of executing it" />
       <item value="токены API" />
@@ -55,7 +56,6 @@
       <item value="text Resolv" />
       <item value="короткий" />
       <item value="rjhjnrbq" />
-      <item value="SCHOT" />
     </histories>
     <option name="languageScores">
       <map>
