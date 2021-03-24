@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Month" />
+      <item value="get Mouth" />
       <item value="The IV generated can be false, please add necessary checks. [EA] Use 2nd parameter for determining if the algorithm used was cryptographically strong." />
       <item value="pull" />
       <item value="Unable to open /var/www/app/src/storage/app/temp/files/pass1.jpg." />
@@ -54,15 +56,13 @@
       <item value="visual layout " />
       <item value="visual layo" />
       <item value="visual lay" />
-      <item value="visual " />
-      <item value="vis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="706" />
+        <entry key="ENGLISH" value="707" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="706" />
+        <entry key="RUSSIAN" value="707" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
