@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Stops the propagation of the event to further event listeners." />
       <item value="get Month" />
       <item value="get Mouth" />
       <item value="The IV generated can be false, please add necessary checks. [EA] Use 2nd parameter for determining if the algorithm used was cryptographically strong." />
@@ -55,14 +56,13 @@
       <item value="visual layout of " />
       <item value="visual layout " />
       <item value="visual layo" />
-      <item value="visual lay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="707" />
+        <entry key="ENGLISH" value="708" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="707" />
+        <entry key="RUSSIAN" value="708" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
