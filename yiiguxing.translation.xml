@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="848" />
+    <option name="newTranslationDialogWidth" value="846" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="timestamp" />
+      <item value="timeshtamp" />
+      <item value="b 2 b api statistics" />
       <item value="Stops the propagation of the event to further event listeners." />
       <item value="get Month" />
       <item value="get Mouth" />
@@ -53,16 +56,13 @@
       <item value="visual layout of bidire" />
       <item value="visual layout of bi" />
       <item value="visual layout of b" />
-      <item value="visual layout of " />
-      <item value="visual layout " />
-      <item value="visual layo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="708" />
+        <entry key="ENGLISH" value="710" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="708" />
+        <entry key="RUSSIAN" value="710" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
