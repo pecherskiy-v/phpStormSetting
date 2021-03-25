@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="route" />
+      <item value="rout" />
       <item value="timestamp" />
       <item value="timeshtamp" />
       <item value="b 2 b api statistics" />
@@ -54,15 +56,13 @@
       <item value="visual layout of bidirectiona" />
       <item value="visual layout of bidirectio" />
       <item value="visual layout of bidire" />
-      <item value="visual layout of bi" />
-      <item value="visual layout of b" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="710" />
+        <entry key="ENGLISH" value="712" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="710" />
+        <entry key="RUSSIAN" value="712" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
