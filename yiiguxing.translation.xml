@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Usage of Pandora: pandora [&lt;config_filename&gt;] &lt;config_filename&gt; is '.load.(yaml|json|...)' by default -example print example config to STDOUT and exit" />
+      <item value="Usage" />
+      <item value="flag provided but not defined: -expvar" />
       <item value="single" />
       <item value="start in foreground if true;default false)" />
       <item value="route" />
@@ -53,16 +56,13 @@
       <item value="'php' is not recognized as an internal or external command," />
       <item value="visual layout of bidirectional text" />
       <item value="visual layout of bidirectional te" />
-      <item value="visual layout of bidirectional tes" />
-      <item value="visual layout of bidirectional " />
-      <item value="visual layout of bidirectiona" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="714" />
+        <entry key="ENGLISH" value="717" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="714" />
+        <entry key="RUSSIAN" value="717" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616403970807" />
+    <option name="lastTrimTime" value="1616964119529" />
   </component>
   <component name="Settings">
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
