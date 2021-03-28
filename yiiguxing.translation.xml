@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="# Get Delve from a GOPATH not from a Go Modules project&#10;" />
       <item value="Usage of Pandora: pandora [&lt;config_filename&gt;] &lt;config_filename&gt; is '.load.(yaml|json|...)' by default -example print example config to STDOUT and exit" />
       <item value="Usage" />
       <item value="flag provided but not defined: -expvar" />
@@ -55,7 +56,6 @@
       <item value="average" />
       <item value="'php' is not recognized as an internal or external command," />
       <item value="visual layout of bidirectional text" />
-      <item value="visual layout of bidirectional te" />
     </histories>
     <option name="languageScores">
       <map>
