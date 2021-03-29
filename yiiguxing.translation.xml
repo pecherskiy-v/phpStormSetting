@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Custom imports. Integrate your custom types into configuration system." />
+      <item value="May not be imported, if you don't need http guns and etc." />
+      <item value="Engine run failed. Pandora graceful shutdown successfully finished" />
       <item value="Just for interactivity print result to stdout. Usually file used here." />
       <item value="You may just write file path here. Or stdin." />
       <item value="Processed" />
@@ -53,16 +56,13 @@
       <item value="Unable to find the controller for path &quot;/api/preview/v1/index&quot;. The route is wrongly configured." />
       <item value="Cannot load resource &quot;../../app/Http/ControllerTest/&quot;. Make sure annotations are installed and enabled." />
       <item value="The routing file &quot;optprojectsrcconfigroutesapipreviewv1routs.yaml&quot; must not specify both the &quot;controller&quot; key and the defaults key &quot;_controller&quot; for &quot;preview.v1.bans&quot; in optprojectsrcconfigroutesapipreviewv1routs.yaml (which is being imported from &quot;main.yaml&quot;)." />
-      <item value="routs" />
-      <item value="Please make sure you have the correct access rights" />
-      <item value="ssh_exchange_identification: read: Connection reset by peer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="719" />
+        <entry key="ENGLISH" value="721" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="719" />
+        <entry key="RUSSIAN" value="721" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
