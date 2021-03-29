@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="844" />
+    <option name="newTranslationDialogWidth" value="842" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Performance" />
+      <item value="Perfomance" />
+      <item value="duration" />
       <item value="Custom imports. Integrate your custom types into configuration system." />
       <item value="May not be imported, if you don't need http guns and etc." />
       <item value="Engine run failed. Pandora graceful shutdown successfully finished" />
@@ -53,16 +56,13 @@
       <item value="This means that a function call that resolves to such a function can be safely removed if the execution result is not used in code afterwards." />
       <item value="The attribute marks the function that has no impact on the program state or passed parameters used after the function execution." />
       <item value="[EA] '(w3 i)' can be used instead" />
-      <item value="Unable to find the controller for path &quot;/api/preview/v1/index&quot;. The route is wrongly configured." />
-      <item value="Cannot load resource &quot;../../app/Http/ControllerTest/&quot;. Make sure annotations are installed and enabled." />
-      <item value="The routing file &quot;optprojectsrcconfigroutesapipreviewv1routs.yaml&quot; must not specify both the &quot;controller&quot; key and the defaults key &quot;_controller&quot; for &quot;preview.v1.bans&quot; in optprojectsrcconfigroutesapipreviewv1routs.yaml (which is being imported from &quot;main.yaml&quot;)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="721" />
+        <entry key="ENGLISH" value="722" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="721" />
+        <entry key="RUSSIAN" value="722" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
         <entry key="ROMANIAN" value="6" />
