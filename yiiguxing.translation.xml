@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="846" />
+    <option name="newTranslationDialogWidth" value="844" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Error response from daemon: COPY failed: forbidden path outside the build context: ../api_test/pandora_config.yml ()&#10;" />
       <item value="befor" />
       <item value="# Get Delve from a GOPATH not from a Go Modules project&#10;" />
       <item value="Usage of Pandora: pandora [&lt;config_filename&gt;] &lt;config_filename&gt; is '.load.(yaml|json|...)' by default -example print example config to STDOUT and exit" />
@@ -55,7 +56,6 @@
       <item value="49 packages you are using are looking for funding." />
       <item value="Problem 1   - illuminatedatabase[v5.2.0, ..., 5.2.x-dev] conflict with roavesecurity-advisories dev-master.   - Root composer.json requires roavesecurity-advisories dev-master -&gt; satisfiable by roavesecurity-advisories[dev-master].   - Root composer.json requires illuminatedatabase 5.2. -&gt; satisfiable by illuminatedatabase[v5.2.0, ..., 5.2.x-dev]." />
       <item value="average" />
-      <item value="'php' is not recognized as an internal or external command," />
     </histories>
     <option name="languageScores">
       <map>
