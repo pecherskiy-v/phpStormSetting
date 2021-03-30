@@ -5,6 +5,7 @@
       <mapping pattern="Rating,jsx" type="AUTO_DETECTED" />
       <mapping pattern="build_info" type="AUTO_DETECTED" />
       <mapping pattern="dockerfile" type="AUTO_DETECTED" />
+      <mapping pattern="stdout" type="AUTO_DETECTED" />
       <mapping ext="nginx" type="Dockerfile" />
       <mapping ext="apib" type="Markdown" />
       <mapping pattern="fg" type="PLAIN_TEXT" />
