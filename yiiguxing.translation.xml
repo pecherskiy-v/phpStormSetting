@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="DB COLUMN" />
       <item value="обязательный" />
       <item value="cute" />
       <item value="cut" />
@@ -55,11 +56,10 @@
       <item value="Failed asserting that 0 is not equal to 0." />
       <item value="Redundant 'static' in final class " />
       <item value="[2021-03-19 00:55:28] Using batch mode (1000 insert/update/delete statements max)&#10;" />
-      <item value="Unnecessary curly braces" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="723" />
+        <entry key="ENGLISH" value="724" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="725" />
