@@ -6,6 +6,13 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="lawyer" />
+      <item value="education" />
+      <item value="culture" />
+      <item value="clerk" />
+      <item value="INSURANCE" />
+      <item value="GYM" />
+      <item value="TRESURE" />
       <item value="ENRAGE" />
       <item value="BORING CRYSTAL DISLIKE ENRAGE FUN GOOD LIKE NINJA SAFETY" />
       <item value="SHORT_BORING SHORT_CRYSTAL SHORT_DISLIKE SHORT_ENRAGE SHORT_FUN SHORT_GOOD SHORT_LIKE SHORT_NINJA SHORT_SAFETY" />
@@ -49,20 +56,13 @@
       <item value="Unable to open /var/www/app/src/storage/app/temp/files/pass1.jpg." />
       <item value="ANTIVIRUS ERROR" />
       <item value="ON PROCESSING" />
-      <item value="extendedMessage: &quot;[Syntax Error] line 0, col 10985: Error: Expected end of string, got '-'&quot;&#10;" />
-      <item value="Range Not Satisfiable" />
-      <item value="A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online." />
-      <item value="Mark any migrations selected as run, but don't actually execute them" />
-      <item value="dump query to standard output instead of executing it" />
-      <item value="токены API" />
-      <item value="апи токены " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="728" />
+        <entry key="ENGLISH" value="736" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="729" />
+        <entry key="RUSSIAN" value="736" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
