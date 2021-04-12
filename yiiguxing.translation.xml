@@ -1,11 +1,21 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="838" />
-    <option name="newTranslationDialogX" value="755" />
-    <option name="newTranslationDialogY" value="262" />
+    <option name="newTranslationDialogWidth" value="836" />
+    <option name="newTranslationDialogX" value="1006" />
+    <option name="newTranslationDialogY" value="231" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="test Get Data By Clean Number" />
+      <item value="по чистому номеру" />
+      <item value="по чистому номер" />
+      <item value="по чистому номера" />
+      <item value="по чистоve номера" />
+      <item value="по чистономера" />
+      <item value="по чистой номера" />
+      <item value="по " />
+      <item value="gj " />
+      <item value="test Get Data By Clear Number" />
       <item value="IMPORTANT: This role has access to change the API keys and SMTP credentials. This data is highly sensitive.&#10;&#10;" />
       <item value="generate" />
       <item value="lawyer" />
@@ -46,23 +56,13 @@
       <item value="Engine run failed. Pandora graceful shutdown successfully finished" />
       <item value="Just for interactivity print result to stdout. Usually file used here." />
       <item value="You may just write file path here. Or stdin." />
-      <item value="Processed" />
-      <item value="Error response from daemon: COPY failed: forbidden path outside the build context: ../api_test/pandora_config.yml ()&#10;" />
-      <item value="befor" />
-      <item value="# Get Delve from a GOPATH not from a Go Modules project&#10;" />
-      <item value="Usage of Pandora: pandora [&lt;config_filename&gt;] &lt;config_filename&gt; is '.load.(yaml|json|...)' by default -example print example config to STDOUT and exit" />
-      <item value="Usage" />
-      <item value="flag provided but not defined: -expvar" />
-      <item value="single" />
-      <item value="start in foreground if true;default false)" />
-      <item value="route" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="752" />
+        <entry key="ENGLISH" value="753" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="752" />
+        <entry key="RUSSIAN" value="753" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
