@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="828" />
+    <option name="newTranslationDialogWidth" value="826" />
     <option name="newTranslationDialogX" value="1006" />
     <option name="newTranslationDialogY" value="231" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="fatal: 'master' does not appear to be a git repository&#10;fatal: Could not read from remote repository.&#10;&#10;Please make sure you have the correct access rights&#10;and the repository exists.&#10;" />
       <item value="на модерации" />
       <item value="at moderation" />
       <item value="на можерации" />
@@ -55,7 +56,6 @@
       <item value="GYM" />
       <item value="TRESURE" />
       <item value="ENRAGE" />
-      <item value="BORING CRYSTAL DISLIKE ENRAGE FUN GOOD LIKE NINJA SAFETY" />
     </histories>
     <option name="languageScores">
       <map>
