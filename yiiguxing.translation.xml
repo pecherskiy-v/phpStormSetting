@@ -1,11 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="830" />
+    <option name="newTranslationDialogWidth" value="828" />
     <option name="newTranslationDialogX" value="1006" />
     <option name="newTranslationDialogY" value="231" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="на модерации" />
+      <item value="at moderation" />
+      <item value="на можерации" />
+      <item value="на" />
+      <item value="н" />
+      <item value="j," />
       <item value="вы кто?" />
       <item value="вы куда?" />
       <item value="вы куда" />
@@ -50,12 +56,6 @@
       <item value="TRESURE" />
       <item value="ENRAGE" />
       <item value="BORING CRYSTAL DISLIKE ENRAGE FUN GOOD LIKE NINJA SAFETY" />
-      <item value="SHORT_BORING SHORT_CRYSTAL SHORT_DISLIKE SHORT_ENRAGE SHORT_FUN SHORT_GOOD SHORT_LIKE SHORT_NINJA SHORT_SAFETY" />
-      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS is_unwanted FROM flag_unwanted WHERE number = 78002001229 AND value = 1' at line 1" />
-      <item value="get Coments Count Sql" />
-      <item value="querys" />
-      <item value="DB COLUMN" />
-      <item value="обязательный" />
     </histories>
     <option name="languageScores">
       <map>
