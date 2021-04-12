@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="generate" />
       <item value="lawyer" />
       <item value="priest" />
       <item value="services" />
@@ -55,14 +56,13 @@
       <item value="start in foreground if true;default false)" />
       <item value="route" />
       <item value="rout" />
-      <item value="timestamp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="751" />
+        <entry key="ENGLISH" value="752" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="751" />
+        <entry key="RUSSIAN" value="752" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
