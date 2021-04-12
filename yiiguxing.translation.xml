@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="231" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="not sended" />
+      <item value="sended" />
+      <item value="send" />
+      <item value="not send" />
       <item value="test send complete" />
       <item value="test send complite" />
       <item value="fatal: 'master' does not appear to be a git repository&#10;fatal: Could not read from remote repository.&#10;&#10;Please make sure you have the correct access rights&#10;and the repository exists.&#10;" />
@@ -52,17 +56,13 @@
       <item value="production" />
       <item value="Media" />
       <item value="education" />
-      <item value="culture" />
-      <item value="clerk" />
-      <item value="INSURANCE" />
-      <item value="GYM" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="755" />
+        <entry key="ENGLISH" value="759" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="755" />
+        <entry key="RUSSIAN" value="759" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CROATIAN" value="4" />
