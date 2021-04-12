@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="840" />
+    <option name="newTranslationDialogWidth" value="838" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="IMPORTANT: This role has access to change the API keys and SMTP credentials. This data is highly sensitive.&#10;&#10;" />
       <item value="generate" />
       <item value="lawyer" />
       <item value="priest" />
@@ -55,7 +56,6 @@
       <item value="single" />
       <item value="start in foreground if true;default false)" />
       <item value="route" />
-      <item value="rout" />
     </histories>
     <option name="languageScores">
       <map>
