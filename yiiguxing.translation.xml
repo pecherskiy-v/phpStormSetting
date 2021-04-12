@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="836" />
+    <option name="newTranslationDialogWidth" value="834" />
     <option name="newTranslationDialogX" value="1006" />
     <option name="newTranslationDialogY" value="231" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="plane" />
+      <item value="plan" />
+      <item value="p" />
       <item value="test Get Data By Clean Number" />
       <item value="по чистому номеру" />
       <item value="по чистому номер" />
@@ -53,9 +56,6 @@
       <item value="duration" />
       <item value="Custom imports. Integrate your custom types into configuration system." />
       <item value="May not be imported, if you don't need http guns and etc." />
-      <item value="Engine run failed. Pandora graceful shutdown successfully finished" />
-      <item value="Just for interactivity print result to stdout. Usually file used here." />
-      <item value="You may just write file path here. Or stdin." />
     </histories>
     <option name="languageScores">
       <map>
