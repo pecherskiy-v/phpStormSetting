@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="231" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="@return int 0 if everything went fine, or an exit code" />
       <item value="[EA] This statement seems to be disconnected from its parent foreach." />
       <item value="Ambiguous class resolution" />
       <item value="электронное письмо для отчета" />
@@ -55,7 +56,6 @@
       <item value="test Get Data By Clear Number" />
       <item value="IMPORTANT: This role has access to change the API keys and SMTP credentials. This data is highly sensitive.&#10;&#10;" />
       <item value="generate" />
-      <item value="lawyer" />
     </histories>
     <option name="languageScores">
       <map>
