@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="231" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Ambiguous class resolution" />
       <item value="электронное письмо для отчета" />
       <item value="электронное письмо для j" />
       <item value="электронное письмо для " />
@@ -55,7 +56,6 @@
       <item value="generate" />
       <item value="lawyer" />
       <item value="priest" />
-      <item value="services" />
     </histories>
     <option name="languageScores">
       <map>
