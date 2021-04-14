@@ -1,11 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="822" />
+    <option name="newTranslationDialogWidth" value="820" />
     <option name="newTranslationDialogX" value="1006" />
     <option name="newTranslationDialogY" value="231" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="электронное письмо для отчета" />
+      <item value="электронное письмо для j" />
+      <item value="электронное письмо для " />
+      <item value="электронное письмо " />
+      <item value="электронное письмо" />
+      <item value="email" />
+      <item value="уьфш" />
+      <item value="уьфшд" />
       <item value=" Timestamp is beyond the +--2446744073709551616 second difference" />
       <item value="not sended" />
       <item value="sended" />
@@ -48,14 +56,6 @@
       <item value="lawyer" />
       <item value="priest" />
       <item value="services" />
-      <item value="travel" />
-      <item value="tresure" />
-      <item value="еtravel" />
-      <item value="seller" />
-      <item value="rogue" />
-      <item value="purchases" />
-      <item value="production" />
-      <item value="Media" />
     </histories>
     <option name="languageScores">
       <map>
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617920494350" />
+    <option name="lastTrimTime" value="1618413628950" />
   </component>
   <component name="Settings">
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
