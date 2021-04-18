@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="231" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Option to force users to specify a password. That is required for 'helm upgrade' to work properly. If it is not force, a random password will be generated." />
       <item value="MySQL architecture. Allowed values: standalone or replication" />
       <item value="Set to true if you would like to see extra information on logs It turns BASH andor NAMI debugging in the image" />
       <item value="Provide any additional annotations which may be required. This can be used to set the LoadBalancer service type to internal only." />
@@ -55,7 +56,6 @@
       <item value="по чистому номера" />
       <item value="по чистоve номера" />
       <item value="по чистономера" />
-      <item value="по чистой номера" />
     </histories>
     <option name="languageScores">
       <map>
