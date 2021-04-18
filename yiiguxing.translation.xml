@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="820" />
+    <option name="newTranslationDialogWidth" value="818" />
     <option name="newTranslationDialogX" value="1006" />
     <option name="newTranslationDialogY" value="231" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Provide any additional annotations which may be required. This can be used to set the LoadBalancer service type to internal only." />
+      <item value="String to partially override redis.fullname template (will maintain the release name)" />
+      <item value="Use redis sentinel in the redis pod. This will disable the master and slave services and&#10;## create one redis service with ports to the sentinel and the redis instances" />
       <item value="@return int 0 if everything went fine, or an exit code" />
       <item value="[EA] This statement seems to be disconnected from its parent foreach." />
       <item value="Ambiguous class resolution" />
@@ -53,9 +56,6 @@
       <item value="по чистой номера" />
       <item value="по " />
       <item value="gj " />
-      <item value="test Get Data By Clear Number" />
-      <item value="IMPORTANT: This role has access to change the API keys and SMTP credentials. This data is highly sensitive.&#10;&#10;" />
-      <item value="generate" />
     </histories>
     <option name="languageScores">
       <map>
