@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="231" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Use 'docker scan' to run Snyk tests against images to find vulnerabilities and learn how to fix them&#10;" />
       <item value="Reliably" />
       <item value="Good" />
       <item value="Neutral" />
@@ -55,7 +56,6 @@
       <item value="plane" />
       <item value="plan" />
       <item value="p" />
-      <item value="test Get Data By Clean Number" />
     </histories>
     <option name="languageScores">
       <map>
