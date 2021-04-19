@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="231" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Reliably" />
+      <item value="Good" />
+      <item value="Neutral" />
+      <item value="Unreliable" />
+      <item value="Dangerous" />
       <item value="Option to force users to specify a password. That is required for 'helm upgrade' to work properly. If it is not force, a random password will be generated." />
       <item value="MySQL architecture. Allowed values: standalone or replication" />
       <item value="Set to true if you would like to see extra information on logs It turns BASH andor NAMI debugging in the image" />
@@ -51,11 +56,6 @@
       <item value="plan" />
       <item value="p" />
       <item value="test Get Data By Clean Number" />
-      <item value="по чистому номеру" />
-      <item value="по чистому номер" />
-      <item value="по чистому номера" />
-      <item value="по чистоve номера" />
-      <item value="по чистономера" />
     </histories>
     <option name="languageScores">
       <map>
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618413628950" />
+    <option name="lastTrimTime" value="1618871081376" />
   </component>
   <component name="Settings">
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
