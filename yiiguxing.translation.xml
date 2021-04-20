@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="818" />
+    <option name="newTranslationDialogWidth" value="814" />
     <option name="newTranslationDialogX" value="1006" />
     <option name="newTranslationDialogY" value="231" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="они грустят" />
+      <item value="они " />
+      <item value="они грустные." />
+      <item value="я вижу три они грустные." />
+      <item value="я вижу три черепахи и три зонта, они маленькие. они грустные." />
+      <item value="я вижу три черепахи и три зонта, они маленькие. они грустные " />
+      <item value="я вижу три черепахи и три зонта, они маленькие. они грустные" />
+      <item value="я вижу три черепахи и три зонта, они маленькие. они гру" />
+      <item value="я вижу три черепахи и три зонта, они маленькие. " />
+      <item value="я вижу три черепахи и три зонта, они маленькие" />
+      <item value="я вижу три черепахи и три зонта, они маленькте" />
+      <item value="я вижу три черепахи и три зонта, они мален" />
+      <item value="я вижу три черепахи и три зонта, они " />
+      <item value="я вижу три черепахи и три зонта, они малентк" />
+      <item value="я вижу три черепахи и три зонта, они крошки" />
+      <item value="я вижу три черепахи и три зонта, они мелкие" />
+      <item value="я вижу три черепахи и три зонта, они малышы" />
+      <item value="я вижу три черепахи и три зонта, они малы" />
+      <item value="я вижу три черепахи и три зонта, они малень" />
+      <item value="я вижу три черепахи и три зонта, они маленьк" />
+      <item value="я вижу три черепахи и три зонта, " />
+      <item value="я вижу три черепахи и три зонта" />
+      <item value="я вижу три черепахи и " />
+      <item value="я вижу три черепахи." />
+      <item value="я вижу три черепахи" />
+      <item value="я вижу три черепахию" />
+      <item value="я вижу три черепахи " />
+      <item value="я визу три черепахи" />
+      <item value="я визу три черепахи " />
+      <item value="я визу три черепа" />
+      <item value="я визу три чер" />
+      <item value="я визу " />
+      <item value="я ви" />
+      <item value="они с зонтами" />
+      <item value="они с з" />
+      <item value="они с" />
+      <item value="у них 3 зонта" />
+      <item value="у них 3 " />
+      <item value="у них " />
+      <item value="они с зонт" />
+      <item value="они с зонты" />
+      <item value="они с  зонты" />
+      <item value="у них есть зонты" />
+      <item value="у них зонты" />
+      <item value="у ни" />
+      <item value="очередь" />
       <item value="queue" />
       <item value="Use 'docker scan' to run Snyk tests against images to find vulnerabilities and learn how to fix them&#10;" />
       <item value="Reliably" />
       <item value="Good" />
-      <item value="Neutral" />
-      <item value="Unreliable" />
-      <item value="Dangerous" />
-      <item value="Option to force users to specify a password. That is required for 'helm upgrade' to work properly. If it is not force, a random password will be generated." />
-      <item value="MySQL architecture. Allowed values: standalone or replication" />
-      <item value="Set to true if you would like to see extra information on logs It turns BASH andor NAMI debugging in the image" />
-      <item value="Provide any additional annotations which may be required. This can be used to set the LoadBalancer service type to internal only." />
-      <item value="String to partially override redis.fullname template (will maintain the release name)" />
-      <item value="Use redis sentinel in the redis pod. This will disable the master and slave services and&#10;## create one redis service with ports to the sentinel and the redis instances" />
-      <item value="@return int 0 if everything went fine, or an exit code" />
-      <item value="[EA] This statement seems to be disconnected from its parent foreach." />
-      <item value="Ambiguous class resolution" />
-      <item value="электронное письмо для отчета" />
-      <item value="электронное письмо для j" />
-      <item value="электронное письмо для " />
-      <item value="электронное письмо " />
-      <item value="электронное письмо" />
-      <item value="email" />
-      <item value="уьфш" />
-      <item value="уьфшд" />
-      <item value=" Timestamp is beyond the +--2446744073709551616 second difference" />
-      <item value="not sended" />
-      <item value="sended" />
-      <item value="send" />
-      <item value="not send" />
-      <item value="test send complete" />
-      <item value="test send complite" />
-      <item value="fatal: 'master' does not appear to be a git repository&#10;fatal: Could not read from remote repository.&#10;&#10;Please make sure you have the correct access rights&#10;and the repository exists.&#10;" />
-      <item value="на модерации" />
-      <item value="at moderation" />
-      <item value="на можерации" />
-      <item value="на" />
-      <item value="н" />
-      <item value="j," />
-      <item value="вы кто?" />
-      <item value="вы куда?" />
-      <item value="вы куда" />
-      <item value="вы " />
-      <item value="вы" />
-      <item value="good" />
-      <item value="goo" />
-      <item value="g" />
-      <item value="well" />
-      <item value="we" />
-      <item value="plane" />
-      <item value="plan" />
     </histories>
     <option name="languageScores">
       <map>
