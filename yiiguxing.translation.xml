@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="425" />
-    <option name="newTranslationDialogWidth" value="814" />
-    <option name="newTranslationDialogX" value="1006" />
-    <option name="newTranslationDialogY" value="231" />
+    <option name="newTranslationDialogWidth" value="812" />
+    <option name="newTranslationDialogX" value="997" />
+    <option name="newTranslationDialogY" value="230" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="распознавание" />
+      <item value="Признание" />
+      <item value="Recognition" />
       <item value="они грустят" />
       <item value="они " />
       <item value="они грустные." />
@@ -53,9 +56,6 @@
       <item value="у ни" />
       <item value="очередь" />
       <item value="queue" />
-      <item value="Use 'docker scan' to run Snyk tests against images to find vulnerabilities and learn how to fix them&#10;" />
-      <item value="Reliably" />
-      <item value="Good" />
     </histories>
     <option name="languageScores">
       <map>
