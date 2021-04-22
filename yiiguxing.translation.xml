@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="230" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Remove an item from the cache." />
       <item value="on a  vacation" />
       <item value="on a  va" />
       <item value="on a  vst" />
@@ -55,7 +56,6 @@
       <item value="они с зонты" />
       <item value="они с  зонты" />
       <item value="у них есть зонты" />
-      <item value="у них зонты" />
     </histories>
     <option name="languageScores">
       <map>
