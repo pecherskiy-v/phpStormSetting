@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="230" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="MAILGUN DOMAIN NAME" />
       <item value="Retrieve an item from the cache by key." />
       <item value="REQUIRED TO FILLING" />
       <item value="Remove an item from the cache." />
@@ -55,7 +56,6 @@
       <item value="у них 3 " />
       <item value="у них " />
       <item value="они с зонт" />
-      <item value="они с зонты" />
     </histories>
     <option name="languageScores">
       <map>
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618871081376" />
+    <option name="lastTrimTime" value="1619459866923" />
   </component>
   <component name="Settings">
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
